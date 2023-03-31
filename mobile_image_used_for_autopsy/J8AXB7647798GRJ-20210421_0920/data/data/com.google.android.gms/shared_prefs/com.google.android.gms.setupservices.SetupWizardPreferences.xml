@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="opt_in_LOCATION_SHARING" value="false" />
+    <boolean name="opt_in_AUTOMATIC_STORAGE_MANAGER" value="false" />
+    <boolean name="opt_in_LOCATION_WIRELESS_SCAN" value="false" />
+    <boolean name="opt_in_USAGE_REPORTING" value="false" />
+    <string name="sessionToken">ChUI3Int05ad7s8FENH2kKbx37bxlgE=</string>
+</map>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="com.android.voicemail.impl.is_shutting_down" value="false" />
+    <boolean name="checkedAutoMigrate" value="true" />
+    <boolean name="migratedToNewBlocking" value="true" />
+    <int name="persistent_long_next_file_index_plain_text" value="1" />
+    <string name="DialtactsActivity_user_sim_country_code"></string>
+</map>

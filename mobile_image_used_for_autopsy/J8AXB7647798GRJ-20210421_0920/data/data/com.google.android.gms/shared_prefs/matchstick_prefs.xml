@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="tachystick_activated" value="false" />
+    <long name="last_silent_register_service_invoked_timestamp_key" value="1619868358163" />
+    <long name="last_check_regsitration_with_lighter_timestamp_ms_key" value="1620155235404" />
+</map>

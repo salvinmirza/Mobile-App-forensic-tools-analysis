@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="backoff" value="600" />
+    <string name="guid">6QKHT9SJP0TSRQQVES630A0SLD4430HQLMF2391GGPG9NRD166</string>
+    <int name="packagesequence" value="18" />
+    <boolean name="activated" value="true" />
+</map>

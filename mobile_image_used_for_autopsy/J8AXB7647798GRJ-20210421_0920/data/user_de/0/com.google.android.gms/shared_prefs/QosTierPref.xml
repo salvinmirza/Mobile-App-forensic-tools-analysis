@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="SMART_SETUP" value="0" />
+    <int name="BATTERY_STATS" value="0" />
+    <boolean name="is_migrated_from_ce_to_de" value="true" />
+    <long name="qos_tier_fingerprint" value="-3334737594024971225" />
+    <int name="TRON" value="0" />
+    <int name="ANDROID_BACKUP" value="0" />
+</map>

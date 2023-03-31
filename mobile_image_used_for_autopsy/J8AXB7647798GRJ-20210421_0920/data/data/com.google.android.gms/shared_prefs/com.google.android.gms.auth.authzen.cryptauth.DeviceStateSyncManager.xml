@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="screenlock_state_history">[{&quot;timestamp_millis&quot;:1620179776186,&quot;is_secure&quot;:true,&quot;count&quot;:60}]</string>
+    <boolean name="acknowledged_secure_lock_state" value="true" />
+</map>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="onbody_lure_unlock_time_1554409259710" value="1" />
+    <int name="promotion_status_for_1" value="1" />
+    <boolean name="coffee_last_is_keyguard_secure_set_timestamp_confirmed" value="false" />
+    <boolean name="coffee_last_known_is_keyguard_secure" value="true" />
+    <long name="coffee_last_log_trustlet_configuration_key" value="1620166030838" />
+    <long name="coffee_last_is_keyguard_secure_set_timestamp_seconds" value="1619868773" />
+</map>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<services>
+    <service component="com.google.android.gms/com.google.android.gms.pay.hce.service.PayHceService" uid="10010">
+        <aid-group category="other">
+            <aid value="4F53452E5641532E3031" />
+            <aid value="A000000476D0000111" />
+        </aid-group>
+    </service>
+</services>

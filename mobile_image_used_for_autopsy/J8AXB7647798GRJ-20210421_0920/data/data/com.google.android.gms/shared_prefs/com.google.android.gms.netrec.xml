@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="netrecEventOrderNumber" value="0" />
+    <long name="nextRapidRefreshAllowedMillis" value="0" />
+    <long name="bootSessionId" value="864971167793319777" />
+    <string name="encrypterId">standard</string>
+    <string name="encrypterHMACKey">Fzy/e+wbi40uRANlfiARNQ==</string>
+    <long name="initOrLogTime" value="35365" />
+    <string name="encrypterAESKey">xb8ZVL5dqntuU/oPZoLHaQ==</string>
+</map>

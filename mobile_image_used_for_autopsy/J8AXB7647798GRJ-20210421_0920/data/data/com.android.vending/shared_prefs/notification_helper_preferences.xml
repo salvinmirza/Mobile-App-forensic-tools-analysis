@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="failed_package_names" />
+    <set name="pending_package_names" />
+</map>

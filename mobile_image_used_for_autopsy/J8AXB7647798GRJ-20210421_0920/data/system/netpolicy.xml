@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<policy-list version="11" restrictBackground="false">
+<uid-policy uid="10010" policy="4" />
+<uid-policy uid="10013" policy="4" />
+</policy-list>
+<whitelist />

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="seed_fetch_time" value="1913" />
+    <int name="seed_fetch_result" value="200" />
+    <long name="last_job_start_time" value="1620171428499" />
+    <long name="job_interval" value="109660601" />
+    <long name="job_queue_time" value="1793075" />
+</map>

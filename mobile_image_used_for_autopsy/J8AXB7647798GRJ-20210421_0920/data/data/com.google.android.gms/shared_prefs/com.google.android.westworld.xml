@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="westworld_config_-8450236994749514265"></string>
+    <boolean name="metadata_enabled" value="true" />
+    <long name="init_delay_millis" value="3600000" />
+    <string name="westworld_config_-4639220107136448959"></string>
+    <long name="data_poll_period_millis" value="14400000" />
+    <boolean name="force_lockbox_multi_user_as_opted_out" value="false" />
+    <string name="westworld_config_8201643847124113417"></string>
+    <string name="westworld_config_-2171558491700364080"></string>
+    <string name="westworld_config_-8609809222967583567"></string>
+    <boolean name="add_reason" value="false" />
+    <string name="westworld_config_3243341076418307967"></string>
+    <boolean name="use_connectionless" value="true" />
+    <string name="westworld_config_6372925040532301748">CLTP+qjyscu4WBojCPuemrXAp4WZpwEQvPaBw7Goy/ZDIgoIThoCCAUaAggHKAUaLAjkvt6+hPnszpIBEMiaquPR7svJxQEiEghPGgIIAxoCCAQaAggGGgIICCgFOg8IyJqq49Huy8nFARICCE86Dgi89oHDsajL9kMSAghOwD4B</string>
+    <string name="westworld_config_3861252879101235459"></string>
+    <string name="westworld_config_1925235258075602985"></string>
+    <boolean name="awp_enabled" value="false" />
+    <string name="CheckboxOnly__upload_log_source">WESTWORLD</string>
+    <string name="filtered_uid_map_packages">ChNjb20uYW5kcm9pZC52ZW5kaW5nCiFjb20uZ29vZ2xlLmFuZHJvaWQubW9kdWxlbWV0YWRhdGEKHWNvbS5nb29nbGUubWFpbmxpbmUudGVsZW1ldHJ5Chdjb20uZ29vZ2xlLmFuZHJvaWQuYWRiZAohY29tLmdvb2dsZS5hbmRyb2lkLm5ldXJhbG5ldHdvcmtzChhjb20uZ29vZ2xlLmFuZHJvaWQuYW5nbGUKJWNvbS5nb29nbGUuYW5kcm9pZC5jYXB0aXZlcG9ydGFsbG9naW4KIGNvbS5nb29nbGUuYW5kcm9pZC5jZWxsYnJvYWRjYXN0Chxjb20uZ29vZ2xlLmFuZHJvaWQuY29uc2NyeXB0Chljb20uZ29vZ2xlLmFuZHJvaWQucmVzb2x2Ch5jb20uZ29vZ2xlLmFuZHJvaWQuZG9jdW1lbnRzdWkKH2NvbS5nb29nbGUuYW5kcm9pZC5leHQuc2VydmljZXMKHmNvbS5nb29nbGUuYW5kcm9pZC5leHRzZXJ2aWNlcwoYY29tLmdvb2dsZS5hbmRyb2lkLmlwc2VjCiBjb20uZ29vZ2xlLmFuZHJvaWQubWVkaWEuc3djb2RlYwoYY29tLmdvb2dsZS5hbmRyb2lkLm1lZGlhCiBjb20uZ29vZ2xlLmFuZHJvaWQubWVkaWFwcm92aWRlcgofY29tLmdvb2dsZS5hbmRyb2lkLm5ldHdvcmtzdGFjawowY29tLmdvb2dsZS5hbmRyb2lkLm5ldHdvcmtzdGFjay5wZXJtaXNzaW9uY29uZmlnCidjb20uZ29vZ2xlLmFuZHJvaWQucGVybWlzc2lvbmNvbnRyb2xsZXIKHWNvbS5nb29nbGUuYW5kcm9pZC5wZXJtaXNzaW9uChljb20uZ29vZ2xlLmFuZHJvaWQuc2RrZXh0Chxjb20uZ29vZ2xlLmFuZHJvaWQub3Muc3RhdHNkChxjb20uZ29vZ2xlLmFuZHJvaWQudGV0aGVyaW5nChljb20uZ29vZ2xlLmFuZHJvaWQudHpkYXRhChpjb20uZ29vZ2xlLmFuZHJvaWQudHpkYXRhMgoXY29tLmdvb2dsZS5hbmRyb2lkLndpZmk</string>
+    <long name="qos_tier" value="0" />
+    <string name="allowed_sources">AID_ROOT,AID_SYSTEM,AID_RADIO,AID_BLUETOOTH,AID_GRAPHICS,AID_STATSD,AID_INCIDENTD,com.google.android.gms,com.android.systemui,com.android.settings,com.android.documentsui,com.google.android.documentsui,com.google.android.apps.nexuslauncher,com.google.android.apps.wallpaper,com.google.android.setupwizard,com.android.vending,AID_LMKD,com.google.pixel.livewallpaper,com.google.android.as,com.google.android.permissioncontroller,com.android.managedprovisioning,com.google.android.ext.services,android.ext.services,AID_NFC,AID_SECURE_ELEMENT,AID_NETWORK_STACK</string>
+    <string name="incident_log_source">INCIDENT_REPORT</string>
+    <string name="westworld_config_7368644171890855762"></string>
+    <string name="westworld_config_-2569299751284686398"></string>
+    <boolean name="incident_enabled" value="false" />
+    <boolean name="use_facs" value="false" />
+    <boolean name="metrics_enabled" value="true" />
+    <string name="westworld_config_2476550052498427118"></string>
+    <long name="__phenotype_configuration_version" value="1620168900" />
+    <boolean name="force_multi_user_as_opted_out" value="false" />
+    <string name="westworld_config_2834892341775392614"></string>
+    <string name="westworld_config_3559653984027364557"></string>
+    <boolean name="use_new_checkbox_consent" value="false" />
+    <string name="westworld_config_baseline"></string>
+    <string name="filtered_uid_map_configs"></string>
+    <string name="__phenotype_server_token">CAESSQDyi0h8bcBDMxRYy5R9JCHxJagM504PBMksRlRyg9-7fZdo0DMJMsyk0A9eTwKWuNO8FeqVSgsW3z2yLJ2FmmGgTpLOFTqmGb4</string>
+    <boolean name="enable_consent_api" value="false" />
+    <string name="westworld_config_4882226697282411524"></string>
+    <string name="westworld_config_-5515315482941955057"></string>
+    <boolean name="is_enabled" value="true" />
+    <string name="westworld_config_-8576875220024813132"></string>
+    <string name="westworld_config_7759080473718414991"></string>
+    <string name="__phenotype_snapshot_token"> com.google.android.westworld 1 7 385383609 com.google.android.westworld 385383609 0</string>
+    <string name="westworld_config_6733126780805367981"></string>
+    <string name="westworld_config_7807415725551080769"></string>
+    <string name="westworld_config_-3248540365622653818"></string>
+    <boolean name="CheckboxOnly__allow_checkbox_only_metrics" value="true" />
+    <string name="westworld_config_-3594130538037316328"></string>
+    <string name="westworld_config_-1588238930716794412"></string>
+    <string name="westworld_config_-9202062251441011975"></string>
+    <string name="westworld_config_-3857624239773450775"></string>
+    <string name="westworld_config_-7353600391679508327"></string>
+    <long name="metadata_poll_period_millis" value="14400000" />
+    <string name="westworld_config_591770101420044721"></string>
+    <boolean name="force_checkbox_multi_user_as_opted_out" value="false" />
+    <boolean name="perfetto_enabled" value="false" />
+    <string name="westworld_config_-7305429115001943338">CNaVjeTP3fnOmgESFQiAqKa3j9/IxFAQvNKptvv+48OSAToPCLzSqbb7/uPDkgESAgg5wD4B</string>
+    <string name="westworld_config_1794266868729135931"></string>
+    <string name="westworld_config_6770054003288313168"></string>
+    <boolean name="baseline_enabled" value="false" />
+    <string name="whitelisted_atom_ids"></string>
+</map>

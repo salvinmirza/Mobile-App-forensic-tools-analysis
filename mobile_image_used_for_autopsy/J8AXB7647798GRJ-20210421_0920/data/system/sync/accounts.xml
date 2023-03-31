@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<accounts version="3" nextAuthorityId="22" offsetInSeconds="10522">
+    <listenForTickles user="0" enabled="true" />
+    <authority id="18" user="0" enabled="true" account="WhatsApp" type="com.whatsapp" authority="com.android.contacts" syncable="1" />
+</accounts>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="last_upload" value="1620171955146" />
+    <long name="last_delete_stale" value="178923312" />
+    <long name="first_open_time" value="1611691562857" />
+    <boolean name="has_been_opened" value="true" />
+    <boolean name="allow_remote_dynamite" value="true" />
+    <long name="health_monitor:start" value="1620171954771" />
+    <long name="midnight_offset" value="74510699" />
+    <long name="last_upload_attempt" value="0" />
+</map>

@@ -1,0 +1,345 @@
+2021-05-01 11:37:09: Calendar sync state - {}
+2021-05-01 11:37:09: DEVICE	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{}]
+2021-05-01 11:37:10: 	Calendar sync state - {}
+2021-05-01 11:37:10: 	Total remote API time - 0ms
+2021-05-01 11:37:10: 	Total remote API calls - 0
+2021-05-01 11:37:10: 	Total local DB time - 387ms
+2021-05-01 11:37:10: 	Total local DB queries - 5
+2021-05-01 11:37:10: 	Total sync time - 891ms
+2021-05-01 11:37:10: 	Sync result - CANCEL -  stats []
+
+2021-05-01 11:37:10: Calendar sync state - {}
+2021-05-01 11:37:10: DEVICE	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{}]
+2021-05-01 11:37:10: 	Calendar sync state - {}
+2021-05-01 11:37:10: 	Total remote API time - 0ms
+2021-05-01 11:37:10: 	Total remote API calls - 0
+2021-05-01 11:37:10: 	Total local DB time - 7ms
+2021-05-01 11:37:10: 	Total local DB queries - 1
+2021-05-01 11:37:10: 	Total sync time - 37ms
+2021-05-01 11:37:10: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 11:37:12: Calendar sync state - {}
+2021-05-01 11:37:12: DEFAULT	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{sync_default=true}]
+2021-05-01 11:37:18: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:37:18: 	Total remote API time - 4953ms
+2021-05-01 11:37:18: 	Total remote API calls - 2
+2021-05-01 11:37:18: 	Total local DB time - 191ms
+2021-05-01 11:37:18: 	Total local DB queries - 13
+2021-05-01 11:37:18: 	Total sync time - 5578ms
+2021-05-01 11:37:18: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 11:37:19: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:37:19: DEVICE	PRIMARY/OWNER/VISIBLE	CONSUMER/0/com.google	Bundle[{feed=1}]
+2021-05-01 11:37:19: 	Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619869039524, feed_updated_time=2021-05-01T11:37:17.218Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:37:19: 	Total remote API time - 124ms
+2021-05-01 11:37:19: 	Total remote API calls - 1
+2021-05-01 11:37:19: 	Total local DB time - 89ms
+2021-05-01 11:37:19: 	Total local DB queries - 10
+2021-05-01 11:37:19: 	Total sync time - 587ms
+2021-05-01 11:37:19: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 11:37:19: Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619869039524, feed_updated_time=2021-05-01T11:37:17.218Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:37:19: DEFAULT	PRIMARY/OWNER/VISIBLE	CONSUMER/0/com.google	Bundle[{sync_default=true, feed_internal=1}]
+2021-05-01 11:37:20: 	Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619869039524, feed_updated_time=2021-05-01T11:37:17.218Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:37:20: 	Total remote API time - 0ms
+2021-05-01 11:37:20: 	Total remote API calls - 0
+2021-05-01 11:37:20: 	Total local DB time - 74ms
+2021-05-01 11:37:20: 	Total local DB queries - 3
+2021-05-01 11:37:20: 	Total sync time - 259ms
+2021-05-01 11:37:20: 	Sync result - CANCEL -  stats []
+
+2021-05-01 11:37:50: Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619869039524, feed_updated_time=2021-05-01T11:37:17.218Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:37:50: DEFAULT	PRIMARY/OWNER/VISIBLE	CONSUMER/0/com.google	Bundle[{sync_default=true, feed_internal=1}]
+2021-05-01 11:37:50: 	Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619869070799, feed_updated_time=2021-05-01T11:37:17.218Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:37:50: 	Total remote API time - 370ms
+2021-05-01 11:37:50: 	Total remote API calls - 1
+2021-05-01 11:37:50: 	Total local DB time - 63ms
+2021-05-01 11:37:50: 	Total local DB queries - 7
+2021-05-01 11:37:50: 	Total sync time - 609ms
+2021-05-01 11:37:50: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 11:39:58: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:39:58: MANUAL	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{ignore_settings=true, force=true, ignore_backoff=true}]
+2021-05-01 11:39:58: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:39:58: 	Total remote API time - 237ms
+2021-05-01 11:39:58: 	Total remote API calls - 2
+2021-05-01 11:39:58: 	Total local DB time - 45ms
+2021-05-01 11:39:58: 	Total local DB queries - 8
+2021-05-01 11:39:58: 	Total sync time - 350ms
+2021-05-01 11:39:58: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 11:40:01: Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619869070799, feed_updated_time=2021-05-01T11:37:17.218Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:40:01: UPLOAD	PRIMARY/OWNER/INVISIBLE	CONSUMER/0/com.google	Bundle[{upload=true, feed=1}]
+2021-05-01 11:40:03: 	Calendar sync state - {1={new_window_end=0, window_end=0, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=0, feed_updated_time=, do_incremental_sync=false, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:40:03: 	Total remote API time - 1336ms
+2021-05-01 11:40:03: 	Total remote API calls - 2
+2021-05-01 11:40:03: 	Total local DB time - 46ms
+2021-05-01 11:40:03: 	Total local DB queries - 8
+2021-05-01 11:40:03: 	Total sync time - 1465ms
+2021-05-01 11:40:03: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 11:40:03: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:40:03: UPLOAD	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{upload=true}]
+2021-05-01 11:40:03: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:40:03: 	Total remote API time - 0ms
+2021-05-01 11:40:03: 	Total remote API calls - 0
+2021-05-01 11:40:03: 	Total local DB time - 21ms
+2021-05-01 11:40:03: 	Total local DB queries - 6
+2021-05-01 11:40:03: 	Total sync time - 72ms
+2021-05-01 11:40:03: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 11:40:06: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:40:06: MANUAL	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{ignore_settings=true, force=true, ignore_backoff=true}]
+2021-05-01 11:40:06: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 11:40:06: 	Total remote API time - 534ms
+2021-05-01 11:40:06: 	Total remote API calls - 2
+2021-05-01 11:40:06: 	Total local DB time - 40ms
+2021-05-01 11:40:06: 	Total local DB queries - 8
+2021-05-01 11:40:06: 	Total sync time - 631ms
+2021-05-01 11:40:06: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 17:57:06: Calendar sync state - {1={new_window_end=0, window_end=0, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=0, feed_updated_time=, do_incremental_sync=false, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:57:06: DEVICE	PRIMARY/OWNER/VISIBLE	CONSUMER/0/com.google	Bundle[{feed=1}]
+2021-05-01 17:57:36: 	ERROR	Failed to send entity to server Entity[ id=44 calendar_id=1 mutators=other ] 
+java.lang.Throwable: SSLException
+	at com.google.android.gms.org.conscrypt.NativeCrypto.SSL_write(Native Method)
+	at com.google.android.gms.org.conscrypt.NativeSsl.write(:com.google.android.gms@211213030@21.12.13 (100408-367530751):3)
+	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket$SSLOutputStream.write(:com.google.android.gms@211213030@21.12.13 (100408-367530751):5)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:76)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:155)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:221)
+	at com.android.okhttp.internal.http.Http1xStream$FixedLengthSink.flush(Http1xStream.java:294)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:223)
+	at com.android.okhttp.okio.RealBufferedSink$1.flush(RealBufferedSink.java:204)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:141)
+	at java.util.zip.DeflaterOutputStream.flush(DeflaterOutputStream.java:284)
+	at sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:297)
+	at sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
+	at java.io.OutputStreamWriter.flush(OutputStreamWriter.java:229)
+	at android.util.JsonWriter.flush(JsonWriter.java:384)
+	at com.google.api.client.extensions.android.json.AndroidJsonGenerator.flush(AndroidJsonGenerator.java:51)
+	at com.google.api.client.http.json.JsonHttpContent.writeTo(JsonHttpContent.java:82)
+	at com.google.api.client.http.GZipEncoding.encode(GZipEncoding.java:49)
+	at com.google.api.client.http.HttpEncodingStreamingContent.writeTo(HttpEncodingStreamingContent.java:51)
+	at com.google.api.client.http.javanet.NetHttpRequest.execute(NetHttpRequest.java:80)
+	at com.google.api.client.http.HttpRequest.execute(HttpRequest.java:981)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.executeInternal(CalendarRequestExecutor.java:499)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.execute(CalendarRequestExecutor.java:125)
+	at com.google.android.syncadapters.calendar.EventHandler.sendEntityToServer(EventHandler.java:470)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.sendEntityToServer(CalendarSyncAdapterApiary.java:3642)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.processLocalChangesForHandler(CalendarSyncAdapterApiary.java:3589)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.performUpsync(CalendarSyncAdapterApiary.java:949)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.onPerformLoggedSync(CalendarSyncAdapterApiary.java:817)
+	at com.android.emailcommon.syncadapter.LoggingThreadedSyncAdapter.onPerformSync(LoggingThreadedSyncAdapter.java:47)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+
+2021-05-01 17:57:37: 	ERROR	Failed to send entity to server Entity[ id=44 sync_id=6pgj4p9k6tij2bb66cr36b9k68o64b9p6op6cb9i75hmcp9hc4sjie1icc calendar_id=1 mutators=other ] 
+java.lang.Throwable: InterruptedIOException
+	at com.android.okhttp.okio.Timeout.throwIfReached(Timeout.java:145)
+	at com.android.okhttp.okio.Okio$1.write(Okio.java:73)
+	at com.android.okhttp.okio.AsyncTimeout$1.write(AsyncTimeout.java:155)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:221)
+	at com.android.okhttp.internal.http.Http1xStream$FixedLengthSink.flush(Http1xStream.java:294)
+	at com.android.okhttp.okio.RealBufferedSink.flush(RealBufferedSink.java:223)
+	at com.android.okhttp.okio.RealBufferedSink$1.flush(RealBufferedSink.java:204)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:141)
+	at java.util.zip.DeflaterOutputStream.flush(DeflaterOutputStream.java:284)
+	at sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:297)
+	at sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
+	at java.io.OutputStreamWriter.flush(OutputStreamWriter.java:229)
+	at android.util.JsonWriter.flush(JsonWriter.java:384)
+	at com.google.api.client.extensions.android.json.AndroidJsonGenerator.flush(AndroidJsonGenerator.java:51)
+	at com.google.api.client.http.json.JsonHttpContent.writeTo(JsonHttpContent.java:82)
+	at com.google.api.client.http.GZipEncoding.encode(GZipEncoding.java:49)
+	at com.google.api.client.http.HttpEncodingStreamingContent.writeTo(HttpEncodingStreamingContent.java:51)
+	at com.google.api.client.http.javanet.NetHttpRequest.execute(NetHttpRequest.java:80)
+	at com.google.api.client.http.HttpRequest.execute(HttpRequest.java:981)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.executeInternal(CalendarRequestExecutor.java:499)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.execute(CalendarRequestExecutor.java:125)
+	at com.google.android.syncadapters.calendar.EventHandler.sendEntityToServer(EventHandler.java:679)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.sendEntityToServer(CalendarSyncAdapterApiary.java:3642)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.processLocalChangesForHandler(CalendarSyncAdapterApiary.java:3589)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.performUpsync(CalendarSyncAdapterApiary.java:949)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.onPerformLoggedSync(CalendarSyncAdapterApiary.java:817)
+	at com.android.emailcommon.syncadapter.LoggingThreadedSyncAdapter.onPerformSync(LoggingThreadedSyncAdapter.java:47)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+
+2021-05-01 17:57:37: 	Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619891826911, feed_updated_time=2021-05-01T11:40:02.986Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:57:37: 	Total remote API time - 27586ms
+2021-05-01 17:57:37: 	Total remote API calls - 46
+2021-05-01 17:57:37: 	Total local DB time - 1829ms
+2021-05-01 17:57:37: 	Total local DB queries - 192
+2021-05-01 17:57:37: 	Total sync time - 31518ms
+2021-05-01 17:57:37: 	Sync result - ERROR -  stats [ numIoExceptions: 2 numUpdates: 41 numEntries: 42]
+
+2021-05-01 17:58:09: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:09: UPLOAD	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{upload=true}]
+2021-05-01 17:58:11: 	ERROR	null Entity[ id=44 sync_id=6pgj4p9k6tij2bb66cr36b9k68o64b9p6op6cb9i75hmcp9hc4sjie1icc calendar_id=1 mutators=other ] 
+java.lang.Throwable: GoogleJsonResponseException
+	at com.google.api.client.googleapis.services.json.AbstractGoogleJsonClientRequest.newExceptionOnError(AbstractGoogleJsonClientRequest.java:113)
+	at com.google.api.client.googleapis.services.AbstractGoogleClientRequest$1.interceptResponse(AbstractGoogleClientRequest.java:401)
+	at com.google.api.client.http.HttpRequest.execute(HttpRequest.java:1067)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.executeInternal(CalendarRequestExecutor.java:499)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.execute(CalendarRequestExecutor.java:125)
+	at com.google.android.syncadapters.calendar.EventHandler.sendEntityToServer(EventHandler.java:679)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.sendEntityToServer(CalendarSyncAdapterApiary.java:3642)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.processLocalChangesForHandler(CalendarSyncAdapterApiary.java:3589)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.performUpsync(CalendarSyncAdapterApiary.java:949)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.onPerformLoggedSync(CalendarSyncAdapterApiary.java:817)
+	at com.android.emailcommon.syncadapter.LoggingThreadedSyncAdapter.onPerformSync(LoggingThreadedSyncAdapter.java:47)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+
+2021-05-01 17:58:11: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:11: 	Total remote API time - 1132ms
+2021-05-01 17:58:11: 	Total remote API calls - 1
+2021-05-01 17:58:11: 	Total local DB time - 67ms
+2021-05-01 17:58:11: 	Total local DB queries - 10
+2021-05-01 17:58:11: 	Total sync time - 1291ms
+2021-05-01 17:58:11: 	Sync result - SUCCESS -  stats [ numDeletes: 1 numEntries: 1]
+
+2021-05-01 17:58:11: Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619891826911, feed_updated_time=2021-05-01T11:40:02.986Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:11: DEVICE	PRIMARY/OWNER/VISIBLE	CONSUMER/0/com.google	Bundle[{feed=1}]
+2021-05-01 17:58:17: 	Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619891897355, feed_updated_time=2021-05-01T17:57:36.217Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:17: 	Total remote API time - 598ms
+2021-05-01 17:58:17: 	Total remote API calls - 1
+2021-05-01 17:58:17: 	Total local DB time - 4948ms
+2021-05-01 17:58:17: 	Total local DB queries - 97
+2021-05-01 17:58:17: 	Total sync time - 6222ms
+2021-05-01 17:58:17: 	Sync result - SUCCESS -  stats [ numUpdates: 41 numEntries: 41]
+
+2021-05-01 17:58:17: Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619891897355, feed_updated_time=2021-05-01T17:57:36.217Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:17: UPLOAD	PRIMARY/OWNER/VISIBLE	CONSUMER/0/com.google	Bundle[{upload=true, feed=1}]
+2021-05-01 17:58:17: 	Calendar sync state - {1={new_window_end=0, window_end=1651104000000, upgrade_min_start=0, upgrade_max_start=0, last_sync_time=1619891897355, feed_updated_time=2021-05-01T17:57:36.217Z, do_incremental_sync=true, in_progress_params={}}, package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:17: 	Total remote API time - 0ms
+2021-05-01 17:58:17: 	Total remote API calls - 0
+2021-05-01 17:58:17: 	Total local DB time - 34ms
+2021-05-01 17:58:17: 	Total local DB queries - 6
+2021-05-01 17:58:17: 	Total sync time - 99ms
+2021-05-01 17:58:17: 	Sync result - SUCCESS -  stats []
+
+2021-05-01 17:58:17: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:17: MANUAL	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{ignore_settings=true, force=true}]
+2021-05-01 17:58:18: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-01 17:58:18: 	Total remote API time - 915ms
+2021-05-01 17:58:18: 	Total remote API calls - 2
+2021-05-01 17:58:18: 	Total local DB time - 51ms
+2021-05-01 17:58:18: 	Total local DB queries - 8
+2021-05-01 17:58:18: 	Total sync time - 1024ms
+2021-05-01 17:58:18: 	Sync result - SUCCESS -  stats []
+
+2021-05-02 12:08:23: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-02 12:08:23: DEFAULT	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{sync_default=true}]
+2021-05-02 12:08:24: 	ERROR	Something went wrong
+java.lang.Throwable: AuthenticationException
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:146)
+	at com.google.android.apiary.GoogleRequestInitializer.intercept(GoogleRequestInitializer.java:84)
+	at com.google.api.client.http.HttpRequest.execute(HttpRequest.java:868)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.executeInternal(CalendarRequestExecutor.java:499)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.execute(CalendarRequestExecutor.java:125)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.getServerDiffsForAccount(CalendarSyncAdapterApiary.java:2390)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.onPerformLoggedSync(CalendarSyncAdapterApiary.java:808)
+	at com.android.emailcommon.syncadapter.LoggingThreadedSyncAdapter.onPerformSync(LoggingThreadedSyncAdapter.java:47)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+Caused by: java.lang.Throwable: IOException
+	at com.google.android.gms.auth.GoogleAuthUtilLight$1.exec(GoogleAuthUtilLight.java:517)
+	at com.google.android.gms.auth.GoogleAuthUtilLight.connectAndExecute(GoogleAuthUtilLight.java:860)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotificationsAndGmsCoreUnavailableExceptionHandling(GoogleAuthUtil.java:523)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotification(GoogleAuthUtil.java:322)
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:133)
+	... 8 more
+
+2021-05-02 12:08:24: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-02 12:08:24: 	Total remote API time - 61ms
+2021-05-02 12:08:24: 	Total remote API calls - 2
+2021-05-02 12:08:24: 	Total local DB time - 33ms
+2021-05-02 12:08:24: 	Total local DB queries - 6
+2021-05-02 12:08:24: 	Total sync time - 372ms
+2021-05-02 12:08:24: 	Sync result - ERROR -  stats [ numAuthExceptions: 1]
+
+2021-05-02 12:08:56: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-02 12:08:56: DEFAULT	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{sync_default=true}]
+2021-05-02 12:08:56: 	ERROR	Something went wrong
+java.lang.Throwable: AuthenticationException
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:146)
+	at com.google.android.apiary.GoogleRequestInitializer.intercept(GoogleRequestInitializer.java:84)
+	at com.google.api.client.http.HttpRequest.execute(HttpRequest.java:868)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.executeInternal(CalendarRequestExecutor.java:499)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.execute(CalendarRequestExecutor.java:125)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.getServerDiffsForAccount(CalendarSyncAdapterApiary.java:2390)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.onPerformLoggedSync(CalendarSyncAdapterApiary.java:808)
+	at com.android.emailcommon.syncadapter.LoggingThreadedSyncAdapter.onPerformSync(LoggingThreadedSyncAdapter.java:47)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+Caused by: java.lang.Throwable: IOException
+	at com.google.android.gms.auth.GoogleAuthUtilLight$1.exec(GoogleAuthUtilLight.java:517)
+	at com.google.android.gms.auth.GoogleAuthUtilLight.connectAndExecute(GoogleAuthUtilLight.java:860)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotificationsAndGmsCoreUnavailableExceptionHandling(GoogleAuthUtil.java:523)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotification(GoogleAuthUtil.java:322)
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:133)
+	... 8 more
+
+2021-05-02 12:08:56: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-02 12:08:56: 	Total remote API time - 43ms
+2021-05-02 12:08:56: 	Total remote API calls - 2
+2021-05-02 12:08:56: 	Total local DB time - 18ms
+2021-05-02 12:08:56: 	Total local DB queries - 4
+2021-05-02 12:08:56: 	Total sync time - 116ms
+2021-05-02 12:08:56: 	Sync result - ERROR -  stats [ numAuthExceptions: 1]
+
+2021-05-03 11:58:54: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-03 11:58:54: DEFAULT	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{sync_default=true}]
+2021-05-03 11:58:54: 	ERROR	Something went wrong
+java.lang.Throwable: AuthenticationException
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:146)
+	at com.google.android.apiary.GoogleRequestInitializer.intercept(GoogleRequestInitializer.java:84)
+	at com.google.api.client.http.HttpRequest.execute(HttpRequest.java:868)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.executeInternal(CalendarRequestExecutor.java:499)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.execute(CalendarRequestExecutor.java:125)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.getServerDiffsForAccount(CalendarSyncAdapterApiary.java:2390)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.onPerformLoggedSync(CalendarSyncAdapterApiary.java:808)
+	at com.android.emailcommon.syncadapter.LoggingThreadedSyncAdapter.onPerformSync(LoggingThreadedSyncAdapter.java:47)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+Caused by: java.lang.Throwable: IOException
+	at com.google.android.gms.auth.GoogleAuthUtilLight$1.exec(GoogleAuthUtilLight.java:517)
+	at com.google.android.gms.auth.GoogleAuthUtilLight.connectAndExecute(GoogleAuthUtilLight.java:860)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotificationsAndGmsCoreUnavailableExceptionHandling(GoogleAuthUtil.java:523)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotification(GoogleAuthUtil.java:322)
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:133)
+	... 8 more
+
+2021-05-03 11:58:54: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-03 11:58:54: 	Total remote API time - 206ms
+2021-05-03 11:58:54: 	Total remote API calls - 2
+2021-05-03 11:58:54: 	Total local DB time - 35ms
+2021-05-03 11:58:54: 	Total local DB queries - 6
+2021-05-03 11:58:54: 	Total sync time - 495ms
+2021-05-03 11:58:54: 	Sync result - ERROR -  stats [ numAuthExceptions: 1]
+
+2021-05-03 11:59:29: Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-03 11:59:29: DEFAULT	NONE/NA/NA	CONSUMER/0/com.google	Bundle[{sync_default=true}]
+2021-05-03 11:59:29: 	ERROR	Something went wrong
+java.lang.Throwable: AuthenticationException
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:146)
+	at com.google.android.apiary.GoogleRequestInitializer.intercept(GoogleRequestInitializer.java:84)
+	at com.google.api.client.http.HttpRequest.execute(HttpRequest.java:868)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.executeInternal(CalendarRequestExecutor.java:499)
+	at com.google.android.syncadapters.calendar.CalendarRequestExecutor.execute(CalendarRequestExecutor.java:125)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.getServerDiffsForAccount(CalendarSyncAdapterApiary.java:2390)
+	at com.google.android.syncadapters.calendar.CalendarSyncAdapterApiary.onPerformLoggedSync(CalendarSyncAdapterApiary.java:808)
+	at com.android.emailcommon.syncadapter.LoggingThreadedSyncAdapter.onPerformSync(LoggingThreadedSyncAdapter.java:47)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+Caused by: java.lang.Throwable: IOException
+	at com.google.android.gms.auth.GoogleAuthUtilLight$1.exec(GoogleAuthUtilLight.java:517)
+	at com.google.android.gms.auth.GoogleAuthUtilLight.connectAndExecute(GoogleAuthUtilLight.java:860)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotificationsAndGmsCoreUnavailableExceptionHandling(GoogleAuthUtil.java:523)
+	at com.google.android.gms.auth.GoogleAuthUtil.getTokenWithNotification(GoogleAuthUtil.java:322)
+	at com.google.android.apiary.GoogleRequestInitializer.getAuthToken(GoogleRequestInitializer.java:133)
+	... 8 more
+
+2021-05-03 11:59:29: 	Calendar sync state - {package=com.google.android.syncadapters.calendar, firstSeen=false, jellyBeanOrNewer=true, version=16, b38085245=2147483647}
+2021-05-03 11:59:29: 	Total remote API time - 65ms
+2021-05-03 11:59:29: 	Total remote API calls - 2
+2021-05-03 11:59:29: 	Total local DB time - 24ms
+2021-05-03 11:59:29: 	Total local DB queries - 4
+2021-05-03 11:59:29: 	Total sync time - 216ms
+2021-05-03 11:59:29: 	Sync result - ERROR -  stats [ numAuthExceptions: 1]
+

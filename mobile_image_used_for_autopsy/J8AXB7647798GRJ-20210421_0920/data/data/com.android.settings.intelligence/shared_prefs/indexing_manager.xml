@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="indexed_providers">com.android.cellbroadcastreceiver:28,com.android.emergency:28,com.android.launcher3:28,com.android.phone:28,com.android.settings:28,com.android.traceur:2,com.google.android.apps.wellbeing:217217,com.google.android.gms:211213030,com.google.android.gms:211213030,com.google.android.googlequicksearchbox:301141740,org.lineageos.lineageparts:1,com.android.settings.intelligence:28</string>
+    <boolean name="en_US" value="true" />
+    <boolean name="cae0d3f014" value="true" />
+</map>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="pressure_min" value="0.8352871" />
+    <float name="pressure_max" value="0.9794109" />
+    <boolean name="first_run" value="false" />
+</map>

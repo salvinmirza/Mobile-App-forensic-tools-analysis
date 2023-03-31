@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<settings version="169">
+  <setting id="342" name="volume_music_speaker" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="20" name="notification_light_pulse" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="32" name="notification_sound" value="content://media/internal/audio/media/38" package="com.android.providers.media" />
+  <setting id="4" name="volume_alarm" value="6" package="android" defaultValue="6" defaultSysSet="true" />
+  <setting id="0" name="volume_music" value="5" package="android" defaultValue="5" defaultSysSet="true" />
+  <setting id="3" name="volume_voice" value="4" package="android" defaultValue="4" defaultSysSet="true" />
+  <setting id="34" name="ringtone" value="content://media/internal/audio/media/167" package="com.android.providers.media" />
+  <setting id="13" name="hearing_aid" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="1" name="volume_ring" value="5" package="android" defaultValue="5" defaultSysSet="true" />
+  <setting id="17" name="screen_brightness_mode" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="300" name="alarm_alert_set" value="1" package="com.google.android.gsf" />
+  <setting id="8" name="mute_streams_affected" value="47" package="android" defaultValue="47" defaultSysSet="true" />
+  <setting id="14" name="tty_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="16" name="screen_brightness_for_vr" value="86" package="android" defaultValue="86" defaultSysSet="true" />
+  <setting id="301" name="ringtone_set" value="1" package="com.google.android.gsf" />
+  <setting id="27" name="font_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="10" name="dim_screen" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="299" name="notification_sound_set" value="1" package="com.google.android.gsf" />
+  <setting id="6" name="volume_bluetooth_sco" value="7" package="android" defaultValue="7" defaultSysSet="true" />
+  <setting id="23" name="lockscreen_sounds_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="30" name="user_rotation" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="18" name="accelerometer_rotation" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="41" name="screen_off_timeout" value="60000" package="com.google.android.setupwizard" defaultValue="60000" defaultSysSet="true" />
+  <setting id="9" name="vibrate_when_ringing" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="29" name="hide_rotation_lock_toggle_for_accessibility" value="0" package="com.android.systemui" defaultValue="0" defaultSysSet="true" />
+  <setting id="37" name="alarm_alert" value="content://media/internal/audio/media/248" package="com.android.providers.media" />
+  <setting id="24" name="pointer_speed" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="25" name="mode_ringer_streams_affected" value="422" package="android" defaultValue="422" defaultSysSet="true" />
+  <setting id="5" name="volume_notification" value="5" package="android" defaultValue="5" defaultSysSet="true" />
+  <setting id="43" name="gearhead:driving_mode_settings_enabled" value="0" package="com.google.android.gms" />
+  <setting id="12" name="dtmf_tone_type" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="21" name="dtmf_tone" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="90" name="time_12_24" value="12" package="com.android.settings" defaultValue="12" defaultSysSet="true" />
+  <setting id="28" name="system_locales" value="en-US" package="android" defaultValue="en-US" defaultSysSet="true" />
+  <setting id="2" name="volume_system" value="7" package="android" defaultValue="7" defaultSysSet="true" />
+  <setting id="22" name="sound_effects_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="36" name="volume_music_usb_headset" value="6" package="android" defaultValue="6" defaultSysSet="true" />
+  <setting id="647" name="screen_brightness" value="124" package="android" defaultValue="124" defaultSysSet="true" />
+  <setting id="19" name="haptic_feedback_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+</settings>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="public_key">MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE28xRsM7sekH/EvTyFeXBMSvIdq1OfRaxHuaveJoJRBuMvwL77SkYTDuodsimA8xISss0okbAwsBh35KznBVybg==</string>
+    <long name="last_consent_checked_timestamp_for_trigger_millis" value="1620473226564" />
+    <boolean name="device_consent" value="false" />
+    <long name="raster_consent" value="0" />
+    <boolean name="is_public_key_acked" value="false" />
+    <string name="private_key">MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg8ir4aNdzD6Zm17fu3Mbh9pN0X1zo10tfefus5WdvzcmhRANCAATbzFGwzux6Qf8S9PIV5cExK8h2rU59FrEe5q94mglEG4y/AvvtKRhMO6h2yKYDzEhKyzSiRsDCwGHfkrOcFXJu</string>
+    <boolean name="checkers_active" value="false" />
+    <string name="recent_get_consent_timestamps_in_seconds">1619869030</string>
+    <long name="last_client_state_check_timestamp_millis" value="1620179598921" />
+    <string name="inactive_sims"></string>
+    <long name="last_consent_check_with_server_time_millis" value="1619869030597" />
+    <boolean name="automatic_cost_setting" value="false" />
+    <string name="gcm_token">cdVu978Alrw:APA91bEQ0bIjt-XC_nZ8xazYs9-SveOe_6nAZByev7YaQp_amjyWO7we5qzXZzKKKErM6MgPPriJCA-nlAq8wdJqBquz4TVdDRKvf5DERQiA0J-AhAeao_oYXXCBALt3DSoMMhw5iOFG</string>
+    <long name="constellation_consent" value="0" />
+</map>

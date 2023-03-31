@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="device_wide_non_work_profile_phas" />
+    <int name="upload_apk_enable" value="0" />
+    <int name="consent_default_on" value="1" />
+</map>

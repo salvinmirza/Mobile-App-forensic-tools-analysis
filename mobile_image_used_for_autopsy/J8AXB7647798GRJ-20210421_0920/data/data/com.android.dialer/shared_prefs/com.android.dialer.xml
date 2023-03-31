@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="android.contacts.DISPLAY_ORDER" value="1" />
+    <long name="last_updated_millis" value="1620059738177" />
+    <int name="android.contacts.SORT_ORDER" value="1" />
+</map>

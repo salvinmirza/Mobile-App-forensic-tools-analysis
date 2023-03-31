@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="METADATADeviceSync:BetterTogether2103944764">CkkIARJFCiEA9VsRYTXXBC7hQY35g0MrREc_YtRB9SYYc4PkiGmOCvcSICeq9RaZ92i68c6T35wAxhR_RAqfo20w04c58rrtkNKwEgtBU1VTX1gwMFREQhowCiCz1N97Skl8MstpSIJdEjATCtYHOgmCS4N4nMChxkHeaBCAoM-WjS8YgLCz15EvGjAKIPtDVQGI3xxgTpWAvGRE0akcUr_kVLqIReN0_eaRNQw6EICws9eRLxiAwJeYli8aMAogo7Rc_vxqdQJcilOv2akYejqOcHrMEGulYOTW1zh0p1wQgMCXmJYvGIDQ-9iaLxowCiCo4jzaa3sXpL1djJJMx_guNZ4Umq3x1kPSdtEObr-MrBCA0PvYmi8YgODfmZ8vIhEyMjoyMjoxMTo5NjpDMTo0OQ</string>
+    <string name="SYNCED_ENCRYPTED_METADATADeviceSync:BetterTogether2103944764">CqcDCmIIARACIkoIARJGCiEAvfTLGuIAa5gdwjigEvzGZu_9DlH1tpnW50qjdIE4t1USIQCk-XV8l9V5E-qBNcNJj5Psa8GXJz6Vh7sEGxodU-FX9CoQKQUKGbaeEiAVpmZoFk2TZhLAAlD3eKQgTtlVBI-oXv1d_Mu7auhp7B-9kLJZ_NglUsIcbvHN3FbhxPEbv6wRviKKkTV70tCLiifpWa9esznyiggk3afukLJ2cewzFy8tJ0ejgyQg-P76AKLHmOTAxNgg3VP_3yRlZZ-gsar4MEalIPWevH_0Y93uoKxBeQx-sfhyxOIgwrOS_FOOVdnfUUrDOPTpxvOjpv4bu6GOhO0Z0UXnbWZyLQxsbtkkqh7f1mz_k4acoj3efh2V87pdk7NNsMR0qS9yb9u3hEdtiYfVdOvTuqUQccawMr_AVcN7mZVv-WP7Xm1EPuv8TgYgexKpCOdXct2v8VHl-HBSPOFo30JcETz3QRDlLKpbgyviNGYu45eKCy3wJ7Ljyzi4HTWTfRn9vFLgvd21MMeR9pxbbys_WUgviQCRXv1dLRMBH7D2EiApkD_Uk9O41tkO-gldfpYDxbo8FuJeEJlG9rMMAPI4Ag</string>
+    <set name="ALL_KEYSALL_KEY_NAMES2103944764">
+        <string>DeviceSync:BetterTogether</string>
+    </set>
+    <set name="FEATUREDeviceSync:BetterTogether2103944764">
+        <string>SMS_CONNECT_HOST</string>
+        <string>BETTER_TOGETHER_HOST_SUPPORTED</string>
+        <string>EASY_UNLOCK_HOST</string>
+        <string>MAGIC_TETHER_CLIENT_SUPPORTED</string>
+        <string>PHONE_HUB_HOST_SUPPORTED</string>
+        <string>PHONE_HUB_CLIENT</string>
+        <string>MAGIC_TETHER_HOST</string>
+        <string>BETTER_TOGETHER_CLIENT_SUPPORTED</string>
+        <string>PHONE_HUB_CLIENT_SUPPORTED</string>
+        <string>BETTER_TOGETHER_HOST</string>
+        <string>EASY_UNLOCK_HOST_SUPPORTED</string>
+        <string>EASY_UNLOCK_CLIENT</string>
+        <string>SMS_CONNECT_HOST_SUPPORTED</string>
+        <string>SMS_CONNECT_CLIENT</string>
+        <string>MAGIC_TETHER_CLIENT</string>
+        <string>BETTER_TOGETHER_CLIENT</string>
+        <string>SMS_CONNECT_CLIENT_SUPPORTED</string>
+        <string>EASY_UNLOCK_CLIENT_SUPPORTED</string>
+        <string>MAGIC_TETHER_HOST_SUPPORTED</string>
+        <string>PHONE_HUB_HOST</string>
+    </set>
+</map>

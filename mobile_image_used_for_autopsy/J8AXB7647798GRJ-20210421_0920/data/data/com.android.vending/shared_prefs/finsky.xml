@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="hygiene-tasks-unath-device-state-handled" value="true" />
+    <boolean name="no-conn-noti-req" value="false" />
+    <long name="last-update-avail-notification-timestamp-ms" value="1619868357751" />
+    <string name="server_token:licensing:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <boolean name="pause-expected-during-recovery" value="false" />
+    <string name="server-logs-cookienull">CBKaARcKEwj+pJv4mrHwAhUW+WMKHaydB5MQAQ==&#10;    </string>
+    <string name="sticky-home-urlshoratio0.42k@gmail.com">1:subnavHome?c=3,2:subnavHome?cat=GAME&amp;c=3,7:subnavHome?c=3&amp;htt=1,3:subnavHome?c=4,4:subnavHome?c=2,5:subnavHome?c=1,6:subnavHome?c=6</string>
+    <string name="dailyhygiene-last-android-version">asus/RU_X00TD/ASUS_X00T_6:9/PKQ1/16.2017.1903.050-20190401:user/release-keys</string>
+    <string name="device-config-tokenob3o7nLIVvUQygxV36o1TMQhrJjOFtWPJ1vSAyhHZ_Y">CisaKQoTMzYxNDczNDIxNTY3MzI4ODQ4MRISChAxNjE5OTkzMDU3MzIyOTI3</string>
+    <long name="wait_for_wifi_enabled_time_ms" value="1619869033018" />
+    <boolean name="has-fophoratio0.42k@gmail.com" value="false" />
+    <string name="user-settings-cachehoratio0.42k@gmail.com">CgIIABIQCgYIAhAAGAEKBggBEAAYARoCCANKAiABWsEBCr4BCmQIAhIQUHJlLXJlZ2lzdHJhdGlvbhpDTm90aWZ5IHdoZW4geW91IGNhbiBwcmUtcmVnaXN0ZXIgZm9yIG5ldyBnYW1lcyB3ZSB0aGluayB5b3UnbGwgbGlrZSACKgcIE6IBAggCClYIARIURGVhbHMgYW5kIHByb21vdGlvbnMaMU5vdGlmeSB3aGVuIHRoZXJlIGFyZSBvZmZlcnMgd2UgdGhpbmsgeW91J2xsIGxpa2UgACoHCBOiAQIIAWICCAFyAggAegIIAIIBAJoBAKIBAA</string>
+    <long name="last-time-offmarket-installed-ms" value="1620141544130" />
+    <string name="anti-malware-consent-model">DefaultOnDeviceWideSystemUserConsent</string>
+    <boolean name="has-user-settings-cache-affecting-process-stable-experiment-flags-changed" value="false" />
+    <boolean name="is-notification-android-system-setting-disabled" value="false" />
+    <string name="device-google-certified-key"></string>
+    <long name="play-protect-default-on-notification-first-shown-ms" value="1554409259779" />
+    <long name="network-stats-manager-last-query-ms" value="1620171968071" />
+    <boolean name="pai-required-installs-triggered" value="true" />
+    <long name="last-sticky-tab-reset-valuehoratio0.42k@gmail.com" value="268101556" />
+    <boolean name="dailyhygiene-holdoff-complete" value="true" />
+    <boolean name="device-google-certified" value="false" />
+    <boolean name="verify-install-packages-has-offline-download" value="false" />
+    <long name="auto-update-discovered-at-ms" value="0" />
+    <int name="play-protect-default-on-notification-restore-count" value="1" />
+    <string name="adid-cached-value">817e742f-096e-49f0-9001-d6b7cee8c1f4</string>
+    <long name="flush-counters-timestamp-ms" value="1620173747678" />
+    <long name="last-vole-status-timestamp-ms" value="1619993057857" />
+    <long name="verify-installed-apps-last-success-ms" value="1620099437593" />
+    <long name="last-session:horatio0.42k@gmail.com" value="1" />
+    <long name="dailyhygiene-lastsuccess" value="1620171957811" />
+    <boolean name="opt-in-marketing-emailshoratio0.42k@gmail.com" value="false" />
+    <boolean name="enable_inline_video_autoplaying" value="true" />
+    <boolean name="opt-in-dialog-first-attempthoratio0.42k@gmail.com" value="true" />
+    <int name="play-protect-default-on-notification-status" value="17" />
+    <boolean name="has-cache-affecting-process-stable-experiment-flags-changed" value="false" />
+    <long name="network-main-cache-cleared-timestamp-millis" value="1620052047792" />
+    <long name="last-main-activity-popup-display-time:horatio0.42k@gmail.com" value="1619869033858" />
+    <boolean name="verify-install-packages-has-pha" value="false" />
+    <boolean name="pending-language-splits" value="false" />
+    <string name="saved-popups-urls:">Cg8KBnBvcHVwcxCBuJyVky8</string>
+    <long name="logs-flush-schedule-expired-timestamp" value="0" />
+    <int name="replicated-atomic-modules-hashhoratio0.42k@gmail.com" value="-2112936630" />
+    <boolean name="restore_start_recorded" value="true" />
+    <boolean name="waa-enabledhoratio0.42k@gmail.com" value="true" />
+    <string name="server_token:play-pass:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <boolean name="card_actions_bottom-sheet-tooltip-shown" value="false" />
+    <long name="last-session-activity-time:horatio0.42k@gmail.com" value="1620052483067" />
+    <string name="device-config-tokennull">CisaKQoTMzYxNDczNDIxNTY3MzI4ODQ4MRISChAxNjIwMTcxOTc0NjU1MTgz</string>
+    <boolean name="file-by-file-last-check-result" value="true" />
+    <long name="restore-complete-time-ms" value="1611691564889" />
+    <int name="last-shown-notification-type-before-disabled" value="926" />
+    <long name="last-session-start-time:horatio0.42k@gmail.com" value="1620052049983" />
+    <boolean name="auto_play_videos_over_wifi_only" value="true" />
+    <int name="dynamic-config-hash" value="616190593" />
+    <string name="server_token:1:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <long name="phonesky-data-usage-last-logging-ms" value="1620093600000" />
+    <long name="downloader_facade_last_interaction_with_download_manager_time_ms" value="1605726913737" />
+    <int name="previous-notification-android-system-setting" value="1" />
+    <int name="last_version_code" value="82512410" />
+    <string name="safety-net-id-cached-value">eaecabc1-e6ae-4ad0-a866-85017ec9f3d9</string>
+    <long name="last-notification-impression-timestamp-msNOTIFICATION_PLAY_PROTECT_DEFAULT_ON" value="1619868353965" />
+    <string name="gcm-registration-id-on-server">fch_amJ4TDqlTMbj6utZYr:APA91bF9dTQkmSw9WvAwn1mz9W5K8wSzlGoXcaFk4Os_gRmqAu9PK7q0Ugg6KsU364Lu4cGgMpzqfFJDlTcojnt3Vxqtw7djhI1pPQ9sJYHpMWLdHIglNU02n_tPqpnydYtJJvp10-b1</string>
+    <string name="last-tos-tokenhoratio0.42k@gmail.com">dmVyc2lvbjoxMCB1dG9zOk9DRUFOK0FORFJPSURfQVBQUytZT1VUVUJFLGNoZWNrYm94TWFya2V0aW5nRW1haWxzOjE</string>
+    <long name="last-sticky-tab-usage-timestamp-mshoratio0.42k@gmail.com" value="1620052478818" />
+    <boolean name="has-cache-affecting-process-stable-target-changed" value="false" />
+    <int name="dailyhygiene-last-version" value="82512410" />
+    <long name="adid-cached-timestamp-ms" value="1620171963233" />
+    <string name="server_token:2:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <int name="sticky-home-url-keyhoratio0.42k@gmail.com" value="2" />
+    <string name="toc-cookiehoratio0.42k@gmail.com">EAEYACICVVMyPENpc2FLUW9UTXpZeE5EY3pOREl4TlRZM016STRPRFE0TVJJU0NoQXhOakU1T1Rrek1EVTNNekl5T1RJM0IVCgVVUy1BWhIMCP3n04UGEODe-MECShIKAlVTEgwI_efThQYQmO37wQI</string>
+    <long name="last-action-session:horatio0.42k@gmail.com:1" value="0" />
+    <int name="session-constraint-app-count-budget-remaining" value="10" />
+    <string name="target-listhoratio0.42k@gmail.com">87,739,744,12602040,12602049,12602373,12602377,12602378,12602379,12602392,12602623,12602748,12602795,12602797,12602981,12603067,12603068,12603101,12603111,12603146,12603159,12603193,12603248,12603380,12603394,12603406,12603428,12603505,12603514,12603602,12603772,12603791,12604059,12604079,12604155,12604244,12604245,12604246,12604266,12604357,12604382,12605120,12605124,12605398,12605458,12605742,12606677,12607225,12607314,12608143,12609245,12609441,12609472,12610177,12614241,12617871,12618749,12619745,12623100,12623102,12623103,12623759,12624692,12624985,12626374,12627389,12627688,12629326,12629642,12629845,12629867,12633045,12637206,12637967,12644847,12646062,12646833,12646902,12646988,12646989,12647643,12647983,12650205,12653638,12655181,12655438,12655928,12656964,12657339,12657750,12665373,26038242</string>
+    <long name="uninstall-suggestion-first-sync-timestamp-millis" value="1625467895519" />
+    <long name="appFreshness-last-logging" value="1620141543201" />
+    <long name="has-fop-last-update-mshoratio0.42k@gmail.com" value="1620052049753" />
+    <long name="setup-finished-time-ms" value="1554409259636" />
+    <int name="instrument-statushoratio0.42k@gmail.com" value="1" />
+    <boolean name="instant-apps-language-included-in-toshoratio0.42k@gmail.com" value="true" />
+    <string name="server_token:3:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <boolean name="hygiene-tasks-authenticated-device-state-handled" value="false" />
+    <boolean name="restore-requested-by-user" value="false" />
+    <string name="server_token:u-tpl:horatio0.42k@gmail.com">EOustoQGGfYo5JplI9hB&#10;    </string>
+    <string name="account-play-countryhoratio0.42k@gmail.com">US</string>
+    <boolean name="pai-deferred-notification-supported" value="true" />
+    <string name="server-logs-cookiehoratio0.42k@gmail.com">CBKaARcKEwj9v8/Z5q3wAhVBEmMKHZKvBEIQAQ==&#10;    </string>
+    <boolean name="system-backup-ready" value="true" />
+    <boolean name="last-vole-status-safe" value="true" />
+    <boolean name="device-google-certified-basic-integrity" value="true" />
+    <int name="replicated-account-apps-hash:horatio0.42k@gmail.com" value="899888974" />
+    <string name="anti-malware-upload-consent-model">TernaryUploadConsentModel</string>
+    <int name="replicated-system-apps-hashhoratio0.42k@gmail.com" value="-1950227100" />
+    <string name="file-by-file-last-check-fingerprint">82512410:asus/RU_X00TD/ASUS_X00T_6:9/PKQ1/16.2017.1903.050-20190401:user/release-keys:1-2-3-4-5-6-7-8-9</string>
+    <long name="device-google-certified-timestamp" value="1620141549555" />
+    <string name="server_token:6:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <string name="server_token:4:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <boolean name="hygiene-tasks-offline-device-state-handled" value="true" />
+    <string name="server_token:10:horatio0.42k@gmail.com">ENGmwIQGGTEIZNQEJNhBIhcI4NXh9t2t8AIQAxABEAQQAhAGEAoYAw==&#10;    </string>
+    <boolean name="has-stale-process-stable-experiment-flags" value="true" />
+    <long name="verify-installed-apps-lite-last-success-ms" value="1620141550380" />
+    <string name="install-holdoff-callscom.google.android.setupwizard">1619868818933</string>
+    <boolean name="has-stale-process-stable-targets" value="false" />
+    <string name="home-urlhoratio0.42k@gmail.com">subnavHome?cat=GAME&amp;c=3</string>
+    <string name="target-listnull">87,739,744,12602040,12602049,12602373,12602377,12602378,12602379,12602392,12602623,12602748,12602795,12602797,12602981,12603067,12603068,12603101,12603111,12603146,12603159,12603193,12603248,12603380,12603394,12603406,12603428,12603505,12603514,12603602,12603772,12603791,12604059,12604079,12604155,12604244,12604245,12604246,12604266,12604357,12604382,12605120,12605124,12605398,12605458,12605742,12606677,12607225,12607314,12608143,12609441,12609472,12610177,12614241,12617871,12618749,12619745,12623100,12623102,12623103,12623759,12624692,12624985,12626374,12627389,12627688,12629326,12629642,12629845,12629867,12633045,12637967,12644847,12646062,12646833,12646902,12646988,12646989,12647643,12647983,12650205,12653638,12655438,12655928,12656964,12657339,12657750,12665373,26039062</string>
+    <boolean name="device-wide-unknown-source-block-enabled" value="false" />
+    <long name="hygieneTask-window-initial-seed-ms" value="-21113151669" />
+    <string name="voucher-custom-cache-key-params:horatio0.42k@gmail.com">/2a53b4ec-f760-45f5-8b82-2603771cdb9e</string>
+    <int name="verify-apps-consent-local-backup-for-default-on" value="1" />
+    <boolean name="adid-limit-tracking-cached-value" value="false" />
+    <string name="account">horatio0.42k@gmail.com</string>
+    <float name="session-constraint-battery-percentage-budget-remaining" value="5.0" />
+</map>

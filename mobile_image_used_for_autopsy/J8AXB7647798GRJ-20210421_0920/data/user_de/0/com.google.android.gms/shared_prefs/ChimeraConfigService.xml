@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="Chimera.downloadFrom" value="0" />
+    <long name="Chimera.lastHeterodyneChangeTime" value="1620141532189" />
+    <string name="Chimera.moduleSetJournal">CkEKB2Fkc19mZHIQ4NfGrZvB3wMgj6SZzpMvKgIIByoCCAEqAggHKgIIAioCCAcqAggBKgIIByoC&#10;CAEqAggHKgIIAgodCgljb250YWluZXIQ+IG0qrw9IJiVi82TLyoCCAcKMQoJY29udGFpbmVyELjv&#10;lMbHPSCYlYvNky8qAggHKgIIAioCCAcqAggBKgIIByoCCAIKJQoJY29udGFpbmVyEPiXusrHPSCP&#10;pJnOky8qAggHKgIIASoCCAcKQQoHZW5wcm9tbxDg/YaL4vPgAyCPpJnOky8qAggHKgIIASoCCAcq&#10;AggCKgIIByoCCAEqAggHKgIIASoCCAcqAggCChoKBGtpZHMQqNqySiCHpJnOky8qAggJKgIIAgoe&#10;CgRraWRzEODklI2OpN8DIIekmc6TLyoCCAkqAggCCi4KBGtpZHMQ4O+Yvq773wMgh6SZzpMvKgII&#10;CSoCCAIqAggNKgIIAioCCA0qAggCCiIKBGtpZHMQoKW5ztLS4AMgh6SZzpMvKgIICSoCCAwqAggC&#10;Cj4KBGtpZHMQ4Lvq0NLS4AMgh6SZzpMvKgIICSoCCA0qAggJKgIIDSoCCAIqAggNKgIIAioCCA0q&#10;AggCKgIIDQpCCgttZWFzdXJlbWVudBDg9feRCCCHpJnOky8qAggJKgIIDSoCCAkqAggNKgIIAioC&#10;CA0qAggCKgIIByoCCAIqAggHCkIKCHBheW1lbnRzEPjezcjfteADIIekmc6TLyoCCAkqAggHKgII&#10;CSoCCAcqAggJKgIIByoCCAkqAggHKgIIAioCCAc=&#10;    </string>
+    <long name="Chimera.lastUpdateTime" value="1620141532219" />
+    <long name="Chimera.lastHeterodyneServingVersion" value="1620123000" />
+    <int name="ChimeraConfigService.scheduledPeriodSec" value="120" />
+    <int name="ChimeraConfigService.retryCount" value="0" />
+</map>

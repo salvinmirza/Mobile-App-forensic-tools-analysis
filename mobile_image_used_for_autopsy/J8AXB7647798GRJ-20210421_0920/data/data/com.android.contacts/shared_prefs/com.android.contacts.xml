@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="android.contacts.DISPLAY_ORDER" value="1" />
+    <int name="android.contacts.SORT_ORDER" value="1" />
+    <int name="Phonetic_name_display" value="1" />
+    <string name="ContactEditorUtils_default_account">DEVICE&#1;com.android.contacts&#1;</string>
+</map>

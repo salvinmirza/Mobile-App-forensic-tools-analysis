@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<user locales="en-US" last-app-scan-time2="1619993032120" last-app-scan-fp="Tue Jan 26 09:51:24 UTC 2021">
+<launcher value="com.android.launcher3/com.android.launcher3.lineage.LineageLauncher" />
+<package name="com.google.android.googlequicksearchbox" call-count="1" last-reset="1620091273462">
+<package-info version="301141740" last_udpate_time="1619899371777" shadow="0" allow-backup="1" allow-backup-initialized="1" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="text_shortcut" activity="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity" title="Search" titleid="0" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620166027934" rank="0" flags="133" icon-res="2131232699" icon-resname="drawable/ic_text_search_shortcut">
+<intent intent-base="agsa:/data?type=searchnow.TYPE_SEARCHNOW&amp;inputProto=CAgQA5oBHmFuZC5nc2EubGF1bmNoZXIuc2hvcnRjdXQudGV4dKIBzhYK8RQKABKjAQo%2BChY8Yj5j%0Ab29sIHdhbGxwYXBlcnM8L2I%2BEAAY6gIYtAIY2QIY5QIiBCIAOgAoybgCMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwE44wQS%0ATgoWPGI%2BY29vbCB3YWxscGFwZXJzPC9iPhAAGOoCGLQCGNkCGOUCKiQJAAAAAADIgkAwybgCmAED%0AygEJEblmgFN53mlI4AEA8gECCAQyABgBIg9jb29sIHdhbGxwYXBlcnMSoAEKPQoVPGI%2BZGlubmVy%0AIHJlY2lwZXM8L2I%2BEAAY6gIYtAIY2QIY5QIiBCIAOgAoybgCMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwE44gQSTQoVPGI%2B%0AZGlubmVyIHJlY2lwZXM8L2I%2BEAAY6gIYtAIY2QIY5QIqJAkAAAAAAMCCQDDJuAKYAQzKAQkR4Hwu%0AkjL9J1PgAQHyAQIIBDIAGAEiDmRpbm5lciByZWNpcGVzErUBCkQKHDxiPmZvb2QgZGVsaXZlcnkg%0AbmVhciBtZTwvYj4QABjqAhi0AhjZAhjlAiIEIgA6ACjJuAIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FATi6BBJUChw8Yj5m%0Ab29kIGRlbGl2ZXJ5IG5lYXIgbWU8L2I%2BEAAY6gIYtAIY2QIY5QIqJAkAAAAAAICBQDDJuAKYAQfK%0AAQkRurCZF2PTT4TgAQLyAQIIBDIAGAEiFWZvb2QgZGVsaXZlcnkgbmVhciBtZRKIAQo1Cg08Yj52%0AaWRlb3M8L2I%2BEAAY6gIYtAIY2QIY5QIiBCIAOgAoybgCMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwE4uQQSRQoNPGI%2Bdmlk%0AZW9zPC9iPhAAGOoCGLQCGNkCGOUCKiQJAAAAAAB4gUAwybgCmAEFygEJEb%2BdOb2qfZup4AED8gEC%0ACAQyABgBIgZ2aWRlb3MSrwEKQgoaPGI%2Bam9icyBoaXJpbmcgbmVhciBtZTwvYj4QABjqAhi0AhjZ%0AAhjlAiIEIgA6ACjJuAIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FATi4BBJSCho8Yj5qb2JzIGhpcmluZyBuZWFyIG1lPC9i%0APhAAGOoCGLQCGNkCGOUCKiQJAAAAAABwgUAwybgCmAEIygEJEXfxzuzOs2Y64AEE8gECCAQyABgB%0AIhNqb2JzIGhpcmluZyBuZWFyIG1lEqwBCkEKGTxiPmhvdyB0byBkZWxldGUgYXBwczwvYj4QABjq%0AAhi0AhjZAhjlAiIEIgA6ACjJuAIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FATi3BBJRChk8Yj5ob3cgdG8gZGVsZXRlIGFw%0AcHM8L2I%2BEAAY6gIYtAIY2QIY5QIqJAkAAAAAAGiBQDDJuAKYAQbKAQkR0c%2FvQwFrztrgAQXyAQII%0ABDIAGAEiEmhvdyB0byBkZWxldGUgYXBwcxKLAQo2Cg48Yj5wdXBwaWVzPC9iPhAAGOoCGLQCGNkC%0AGOUCIgQiADoAKMm4AjD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BOLYEEkYKDjxiPnB1cHBpZXM8L2I%2BEAAY6gIYtAIY2QIY%0A5QIqJAkAAAAAAGCBQDDJuAKYAQnKAQkRoFki7nA5XJPgAQbyAQIIBDIAGAEiB3B1cHBpZXMStQEK%0ARAocPGI%2BaG93IGxvbmcgdG8gYm9pbCBlZ2dzPC9iPhAAGOoCGLQCGNkCGOUCIgQiADoAKMm4AjD%2F%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BOLUEElQKHDxiPmhvdyBsb25nIHRvIGJvaWwgZWdnczwvYj4QABjqAhi0AhjZAhjl%0AAiokCQAAAAAAWIFAMMm4ApgBCsoBCRFaPWknpW5N9eABB%2FIBAggEMgAYASIVaG93IGxvbmcgdG8g%0AYm9pbCBlZ2dzEqYBCj8KFzxiPmZ1bm55IGNhdCB2aWRlb3M8L2I%2BEAAY6gIYtAIY2QIY5QIiBCIA%0AOgAoybgCMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwE4tAQSTwoXPGI%2BZnVubnkgY2F0IHZpZGVvczwvYj4QABjqAhi0AhjZ%0AAhjlAiokCQAAAAAAUIFAMMm4ApgBAsoBCRFfbktMyqvzKuABCPIBAggEMgAYASIQZnVubnkgY2F0%0AIHZpZGVvcxKRAQo5ChE8Yj5hdXRvIHBhcnRzPC9iPhAAGOoCGLQCGNkCGOUCIgQiADoAKMm4AjD%2F%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BOLMEEkYKETxiPmF1dG8gcGFydHM8L2I%2BEAAY6gIYtAIY2QIY5QIqIQkAAAAAAEiB%0AQDDJuALKAQkRE4IHgTMxOQDgAQnyAQIIBDIAGAEiCmF1dG8gcGFydHMSlAEKOQoRPGI%2BZG9nIGJy%0AZWVkczwvYj4QABjqAhi0AhjZAhjlAiIEIgA6ACjJuAIw%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FATiyBBJJChE8Yj5kb2cg%0AYnJlZWRzPC9iPhAAGOoCGLQCGNkCGOUCKiQJAAAAAABAgUAwybgCmAEBygEJEWs%2F7GIwD6tB4AEK%0A8gECCAQyABgBIgpkb2cgYnJlZWRzErsBCkYKHjxiPnByZXNzdXJlIGNvb2tlciByZWNpcGVzPC9i%0APhAAGOoCGLQCGNkCGOUCIgQiADoAKMm4AjD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BOLEEElYKHjxiPnByZXNzdXJlIGNv%0Ab2tlciByZWNpcGVzPC9iPhAAGOoCGLQCGNkCGOUCKiQJAAAAAAA4gUAwybgCmAEEygEJEev1q7MZ%0A%2Fv3b4AEL8gECCAQyABgBIhdwcmVzc3VyZSBjb29rZXIgcmVjaXBlcxK%2BAQpHCh88Yj5ob3cgdG8g%0AbWFrZSBmcmVuY2ggdG9hc3Q8L2I%2BEAAY6gIYtAIY2QIY5QIiBCIAOgAoybgCMP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwE4%0AsAQSVwofPGI%2BaG93IHRvIG1ha2UgZnJlbmNoIHRvYXN0PC9iPhAAGOoCGLQCGNkCGOUCKiQJAAAA%0AAAAwgUAwybgCmAELygEJESqd9HXmvvr14AEM8gECCAQyABgBIhhob3cgdG8gbWFrZSBmcmVuY2gg%0AdG9hc3Qa2AMKyQOAAaS7lAKAAebWjwKAAYK6lAKAAYyTlQKAAdjbkwKAAembkwKAAa6XgwKAAd3v%0AjgKAAdvGkQLiARkKFwjJuAISEVRyeSBzZWFyY2hpbmcgZm9yqQIfeUnmQ8zI9tECOyIeBWfcLT3a%0AAt8CChkKCRG5ZoBTed5pSBAAGLQCGNkCGOUCGOoCChkKCRHgfC6SMv0nUxAAGLQCGNkCGOUCGOoC%0AChkKCRG6sJkXY9NPhBAAGLQCGNkCGOUCGOoCChkKCRG%2FnTm9qn2bqRAAGLQCGNkCGOUCGOoCChkK%0ACRF38c7szrNmOhAAGLQCGNkCGOUCGOoCChkKCRHRz%2B9DAWvO2hAAGLQCGNkCGOUCGOoCChkKCRGg%0AWSLucDlckxAAGLQCGNkCGOUCGOoCChkKCRFaPWknpW5N9RAAGLQCGNkCGOUCGOoCChkKCRFfbktM%0AyqvzKhAAGLQCGNkCGOUCGOoCChkKCRETggeBMzE5ABAAGLQCGNkCGOUCGOoCChkKCRFrP%2BxiMA%2Br%0AQRAAGLQCGNkCGOUCGOoCChkKCRHr9auzGf792xAAGLQCGNkCGOUCGOoCChkKCREqnfR15r769RAA%0AGLQCGNkCGOUCGOoCEAEYADAAOAFAAWIAIAEqA3dlYjCSza1NOAES1wEY%2F%2F%2F%2F%2FwcgACgFKMm4AjgB%0AUAFYAIABAKABAKgBAcABAMgBANABAIgCBZACAJoCVlRoaXMgc2VhcmNoIGlzIHJlbGF0ZWQgdG8g%0Ad2hhdCB5b3XigJlyZSB0eXBpbmcgYW5kIHlvdXIgcHJldmlvdXMgd2ViIGFuZCBhcHAgYWN0aXZp%0AdHkuwAIB4AIA8AIA%2BAIAgAMDqAP27Nn7%2F%2F%2F%2F%2F%2F8BwAMAyAMBgAQDiAT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BkAQAmAQA%0AoAQAqAQAsAQAuAQywAQAyAQP0AToB9gEAeAEAOgBA%2FABAPgBAIACAbACAbgCkBzIAgHaAgDiAgCo%0AAwDAAwLoAwGABACIBADABAHSBAxMaXN0ZW5pbmcuLi7qBAxMaXN0ZW5pbmcuLi7wBAH4BAGQBQKY%0ABQGoBQG4BQDCBQdERUZBVUxU0AXoBw%3D%3D%0A#Intent;action=android.search.action.GLOBAL_SEARCH;launchFlags=0x10008000;component=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity;end">
+<extras>
+<int name="lobby_initial_tab" value="8" />
+<string name="source">and.gsa.launcher.shortcut.text</string>
+<int name="dark-mode-setting" value="3" />
+<boolean name="dark-mode-enabled" value="false" />
+<boolean name="dark-mode-setting-enabled" value="false" />
+</extras>
+</intent>
+</shortcut>
+<shortcut id="voice_shortcut" activity="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity" title="Voice search" titleid="0" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620166027934" rank="1" flags="133" icon-res="2131232716" icon-resname="drawable/ic_voice_search_shortcut">
+<intent intent-base="agsa:/data?type=searchnow.TYPE_SEARCHNOW&amp;inputProto=CAgQApoBH2FuZC5nc2EubGF1bmNoZXIuc2hvcnRjdXQudm9pY2WiAdoBEtcBGP%2F%2F%2F%2F8HIAAoBSjJ%0AuAI4AVABWACAAQCgAQCoAQHAAQDIAQDQAQCIAgWQAgCaAlZUaGlzIHNlYXJjaCBpcyByZWxhdGVk%0AIHRvIHdoYXQgeW914oCZcmUgdHlwaW5nIGFuZCB5b3VyIHByZXZpb3VzIHdlYiBhbmQgYXBwIGFj%0AdGl2aXR5LsACAeACAPACAPgCAIADA6gD9uzZ%2B%2F%2F%2F%2F%2F%2F%2FAcADAMgDAYAEA4gE%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FAZAE%0AAJgEAKAEAKgEALAEALgEMsAEAMgED9AE6AfYBAHgBADoAQPwAQD4AQCAAgGwAgG4ApAcyAIB2gIA%0A4gIAqAMAwAMC6AMBgAQAiAQAwAQB0gQMTGlzdGVuaW5nLi4u6gQMTGlzdGVuaW5nLi4u8AQB%2BAQB%0AkAUCmAUBqAUBuAUAwgUHREVGQVVMVNAF6Ac%3D%0A#Intent;action=com.google.android.googlequicksearchbox.action.CLASSIC_GSA_VOICE_SEARCH;launchFlags=0x10008000;component=com.google.android.googlequicksearchbox/com.google.android.apps.gsa.searchnow.SearchNowActivity;end">
+<extras>
+<int name="lobby_initial_tab" value="8" />
+<string name="source">and.gsa.launcher.shortcut.voice</string>
+<int name="dark-mode-setting" value="3" />
+<boolean name="dark-mode-enabled" value="false" />
+<boolean name="dark-mode-setting-enabled" value="false" />
+</extras>
+</intent>
+</shortcut>
+</package>
+<package name="com.android.documentsui" call-count="1" last-reset="1619892568304">
+<package-info version="28" last_udpate_time="1230768000000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="content://com.android.externalstorage.documents/root/primary" activity="com.android.documentsui/com.android.documentsui.LauncherActivity" title="ASUS_X00TDB" titleid="0" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619892568515" rank="0" flags="133" icon-res="2131165300" icon-resname="drawable/ic_advanced_shortcut">
+<intent intent-base="content://com.android.externalstorage.documents/root/primary#Intent;component=com.android.documentsui/.files.FilesActivity;end" />
+</shortcut>
+<shortcut id="content://com.android.providers.media.documents/root/images_root" activity="com.android.documentsui/com.android.documentsui.LauncherActivity" title="Images" titleid="2131755135" titlename="images_shortcut_label" textid="0" dmessageid="0" disabled-reason="0" timestamp="1611691546468" rank="0" flags="420" icon-res="2131165325" icon-resname="drawable/ic_images_shortcut">
+<intent intent-base="content://com.android.providers.media.documents/root/images_root#Intent;launchFlags=0x1000c000;end" />
+</shortcut>
+</package>
+<package name="com.whatsapp" call-count="1" last-reset="1620091273462">
+<package-info version="210817007" last_udpate_time="1619869060685" shadow="0" allow-backup="1" allow-backup-initialized="1" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="open_camera" activity="com.whatsapp/com.whatsapp.Main" title="Camera" titleid="0" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620120479056" rank="0" flags="133" icon-res="2131231700" icon-resname="drawable/ic_shortcut_camera_alt">
+<intent intent-base="#Intent;component=com.whatsapp/.camera.LauncherCameraActivity;end" />
+<extras>
+<boolean name="extraLongLived" value="false" />
+</extras>
+</shortcut>
+<shortcut id="18084826989@s.whatsapp.net" activity="com.whatsapp/com.whatsapp.Main" title="Arnie" titleid="0" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620120479084" rank="2" flags="649" icon-res="0" bitmap-path="/data/system_ce/0/shortcut_service/bitmaps/com.whatsapp/1620120479087_1.png">
+<categories>
+<string-array name="categories" num="1">
+<item value="com.whatsapp.sharing.category.SHARE_TARGET_DEFAULT" />
+</string-array>
+</categories>
+<intent intent-base="#Intent;launchFlags=0x14000000;component=com.whatsapp/.Conversation;end">
+<extras>
+<string name="jid">18084826989@s.whatsapp.net</string>
+<string name="perf_origin">WaShortcutsHelper</string>
+</extras>
+</intent>
+<extras>
+<boolean name="extraLongLived" value="true" />
+<int name="extraPersonCount" value="1" />
+<pbundle_as_map name="extraPerson_1">
+<null name="key" />
+<string name="uri">content://com.android.contacts/contacts/lookup/4073r1-294B433931.3789r2-294B433931/2</string>
+<string name="name">Arnie</string>
+<boolean name="isBot" value="false" />
+<boolean name="isImportant" value="false" />
+</pbundle_as_map>
+</extras>
+</shortcut>
+<shortcut id="12395104974@s.whatsapp.net" activity="com.whatsapp/com.whatsapp.Main" title="Boss" titleid="0" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620120479084" rank="1" flags="649" icon-res="0" bitmap-path="/data/system_ce/0/shortcut_service/bitmaps/com.whatsapp/1620120479087.png">
+<categories>
+<string-array name="categories" num="1">
+<item value="com.whatsapp.sharing.category.SHARE_TARGET_DEFAULT" />
+</string-array>
+</categories>
+<intent intent-base="#Intent;launchFlags=0x14000000;component=com.whatsapp/.Conversation;end">
+<extras>
+<string name="jid">12395104974@s.whatsapp.net</string>
+<string name="perf_origin">WaShortcutsHelper</string>
+</extras>
+</intent>
+<extras>
+<boolean name="extraLongLived" value="true" />
+<int name="extraPersonCount" value="1" />
+<pbundle_as_map name="extraPerson_1">
+<null name="key" />
+<string name="uri">content://com.android.contacts/contacts/lookup/4073r3-2B454D4D.3789r4-2B454D4D/4</string>
+<string name="name">Boss</string>
+<boolean name="isBot" value="false" />
+<boolean name="isImportant" value="false" />
+</pbundle_as_map>
+</extras>
+</shortcut>
+</package>
+<package name="com.android.vending" call-count="0" last-reset="0">
+<package-info version="82512410" last_udpate_time="1620171938367" shadow="0" allow-backup="1" allow-backup-initialized="1" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="VIEW_MY_DOWNLOADS" activity="com.android.vending/com.android.vending.AssetBrowserActivity" title="My apps" titleid="2131953033" titlename="0_resource_name_obfuscated" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620171978737" rank="0" flags="420" icon-res="2131231400" icon-resname="drawable/0_resource_name_obfuscated">
+<intent intent-base="#Intent;action=com.google.android.finsky.VIEW_MY_DOWNLOADS;launchFlags=0x1000c000;end" />
+</shortcut>
+</package>
+<package name="com.android.contacts" call-count="0" last-reset="0">
+<package-info version="10731" last_udpate_time="1230768000000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="shortcut-add-contact" activity="com.android.contacts/com.android.contacts.activities.PeopleActivity" title="Add contact" titleid="2131755543" titlename="shortcut_add_contact" textid="0" dmessageid="0" disabled-reason="0" timestamp="1611691546453" rank="0" flags="420" icon-res="2131230829" icon-resname="drawable/ic_add_contact_shortcut">
+<intent intent-base="content://com.android.contacts/contacts#Intent;action=android.intent.action.INSERT;launchFlags=0x1000c000;component=com.android.contacts/.activities.ContactEditorActivity;end" />
+</shortcut>
+</package>
+<package name="com.android.chrome" call-count="1" last-reset="1620091273462">
+<package-info version="443009123" last_udpate_time="1619869118075" shadow="0" allow-backup="1" allow-backup-initialized="1" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="new-tab-shortcut" activity="com.android.chrome/com.google.android.apps.chrome.Main" title="New tab" titleid="2131952944" titlename="0_resource_name_obfuscated" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620091100765" rank="0" flags="420" icon-res="2131231733" icon-resname="drawable/0_resource_name_obfuscated">
+<intent intent-base="#Intent;action=chromium.shortcut.action.OPEN_NEW_TAB;launchFlags=0x1000c000;component=com.android.chrome/org.chromium.chrome.browser.LauncherShortcutActivity;end" />
+</shortcut>
+<shortcut id="dynamic-new-incognito-tab-shortcut" activity="com.android.chrome/com.google.android.apps.chrome.Main" title="Incognito Tab" titleid="0" text="New incognito tab" textid="0" dmessageid="0" disabled-reason="0" timestamp="1620091273466" rank="0" flags="133" icon-res="2131231732" icon-resname="drawable/shortcut_incognito">
+<intent intent-base="#Intent;action=chromium.shortcut.action.OPEN_NEW_INCOGNITO_TAB;package=com.android.chrome;component=com.android.chrome/org.chromium.chrome.browser.LauncherShortcutActivity;end" />
+</shortcut>
+</package>
+<package name="org.lineageos.jelly" call-count="0" last-reset="0">
+<package-info version="28" last_udpate_time="1230768000000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="new_incognito_tab_shortcut" activity="org.lineageos.jelly/org.lineageos.jelly.MainActivity" title="New incognito tab" titleid="2131689603" titlename="shortcut_new_incognito_tab" text="New incognito tab" textid="2131689603" textname="shortcut_new_incognito_tab" dmessageid="0" disabled-reason="0" timestamp="1611691546395" rank="0" flags="420" icon-res="2131230857" icon-resname="drawable/shortcut_incognito">
+<intent intent-base="#Intent;launchFlags=0x1000c000;component=org.lineageos.jelly/.MainActivity;end">
+<extras>
+<boolean name="extra_incognito" value="true" />
+</extras>
+</intent>
+</shortcut>
+</package>
+<package name="com.android.settings" call-count="1" last-reset="1611691536226">
+<package-info version="28" last_udpate_time="1230768000000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="manifest-shortcut-wifi" activity="com.android.settings/com.android.settings.Settings" title="Wi‑Fi" titleid="2131890313" titlename="wifi_settings" textid="0" dmessageid="0" disabled-reason="0" timestamp="1608235110593" rank="0" flags="420" icon-res="2131231129" icon-resname="drawable/ic_shortcut_wireless">
+<intent intent-base="#Intent;action=android.settings.WIFI_SETTINGS;launchFlags=0x1000c000;end" />
+</shortcut>
+<shortcut id="manifest-shortcut-battery" activity="com.android.settings/com.android.settings.Settings" title="Battery" titleid="2131888776" titlename="power_usage_summary_title" textid="0" dmessageid="0" disabled-reason="0" timestamp="1608235110594" rank="2" flags="420" icon-res="2131231127" icon-resname="drawable/ic_shortcut_battery">
+<intent intent-base="#Intent;action=android.intent.action.POWER_USAGE_SUMMARY;launchFlags=0x1000c000;end" />
+</shortcut>
+<shortcut id="manifest-shortcut-data-usage" activity="com.android.settings/com.android.settings.Settings" title="Data usage" titleid="2131887439" titlename="data_usage_summary_title" textid="0" dmessageid="0" disabled-reason="0" timestamp="1608235110594" rank="1" flags="420" icon-res="2131231128" icon-resname="drawable/ic_shortcut_data_usage">
+<intent intent-base="#Intent;action=android.intent.action.MAIN;launchFlags=0x1000c000;component=com.android.settings/.Settings%24DataUsageSummaryActivity;end" />
+</shortcut>
+</package>
+<package name="com.google.android.keep" call-count="0" last-reset="0">
+<package-info version="211410340" last_udpate_time="1619869074007" shadow="0" allow-backup="1" allow-backup-initialized="1" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="manifest_new_list_shortcut" activity="com.google.android.keep/com.google.android.keep.activities.BrowseActivity" title="New list" titleid="2131886687" titlename="menu_new_list" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993032144" rank="1" flags="420" icon-res="2131231486" icon-resname="drawable/shortcut_list">
+<intent intent-base="#Intent;action=com.google.android.keep.intent.action.SHORTCUT_NEW_LIST;launchFlags=0x1000c000;end" />
+</shortcut>
+<shortcut id="manifest_new_audio_note_shortcut" activity="com.google.android.keep/com.google.android.keep.activities.BrowseActivity" title="New audio note" titleid="2131886685" titlename="menu_new_audio" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993032144" rank="3" flags="420" icon-res="2131231483" icon-resname="drawable/shortcut_audio">
+<intent intent-base="#Intent;action=com.google.android.keep.intent.action.SHORTCUT_NEW_AUDIO_NOTE;launchFlags=0x1000c000;end" />
+</shortcut>
+<shortcut id="manifest_new_photo_note_shortcut" activity="com.google.android.keep/com.google.android.keep.activities.BrowseActivity" title="New photo note" titleid="2131886690" titlename="menu_new_picture" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993032144" rank="2" flags="420" icon-res="2131231488" icon-resname="drawable/shortcut_photo">
+<intent intent-base="#Intent;action=com.google.android.keep.intent.action.SHORTCUT_NEW_PHOTO_NOTE;launchFlags=0x1000c000;end" />
+</shortcut>
+<shortcut id="manifest_new_note_shortcut" activity="com.google.android.keep/com.google.android.keep.activities.BrowseActivity" title="New text note" titleid="2131886688" titlename="menu_new_note" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993032144" rank="0" flags="420" icon-res="2131231490" icon-resname="drawable/shortcut_text">
+<intent intent-base="#Intent;action=com.google.android.keep.intent.action.SHORTCUT_NEW_NOTE;launchFlags=0x1000c000;end" />
+</shortcut>
+</package>
+<package name="com.android.deskclock" call-count="1" last-reset="1619910570427">
+<package-info version="28" last_udpate_time="1230768000000" shadow="0" allow-backup="0" allow-backup-initialized="0" bk_src_version="-1" bk_src_backup-allowed="0" />
+<shortcut id="Alarm_Create" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="New alarm" titleid="0" text="Create new alarm" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993037549" rank="0" flags="133" icon-res="2131230920" icon-resname="drawable/shortcut_new_alarm">
+<intent intent-base="#Intent;action=android.intent.action.SET_ALARM;launchFlags=0x10000000;component=com.android.deskclock/.HandleApiCalls;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821040" />
+</extras>
+</intent>
+</shortcut>
+<shortcut id="Stopwatch" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="Start" titleid="0" text="Start stopwatch" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993037550" rank="2" flags="133" icon-res="2131230923" icon-resname="drawable/shortcut_stopwatch">
+<intent intent-base="#Intent;action=com.android.deskclock.action.START_STOPWATCH;launchFlags=0x10000000;component=com.android.deskclock/.HandleShortcuts;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821040" />
+</extras>
+</intent>
+</shortcut>
+<shortcut id="Screensaver_Show" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="Screen saver" titleid="0" text="Start screen saver" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993037552" rank="3" flags="133" icon-res="2131230922" icon-resname="drawable/shortcut_screensaver">
+<intent intent-base="#Intent;action=android.intent.action.MAIN;launchFlags=0x10000000;component=com.android.deskclock/.ScreensaverActivity;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821040" />
+</extras>
+</intent>
+</shortcut>
+<shortcut id="Timer_Create" activity="com.android.deskclock/com.android.deskclock.DeskClock" title="New timer" titleid="0" text="Create new timer" textid="0" dmessageid="0" disabled-reason="0" timestamp="1619993037549" rank="1" flags="133" icon-res="2131230921" icon-resname="drawable/shortcut_new_timer">
+<intent intent-base="#Intent;action=android.intent.action.SET_TIMER;launchFlags=0x10000000;component=com.android.deskclock/.HandleApiCalls;end">
+<extras>
+<int name="com.android.deskclock.extra.EVENT_LABEL" value="2131821040" />
+</extras>
+</intent>
+</shortcut>
+</package>
+</user>

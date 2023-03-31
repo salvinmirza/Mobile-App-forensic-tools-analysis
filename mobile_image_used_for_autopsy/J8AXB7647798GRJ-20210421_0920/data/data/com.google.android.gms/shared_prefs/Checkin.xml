@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="CheckinService_lastSim">no-sim</string>
+    <string name="lastRadio">S.AT.3.1-00784-SDM636_GEN_PACK-1,S.AT.3.1-00784-SDM636_GEN_PACK-1</string>
+    <long name="CheckinInterval_IntervalSeconds" value="582460" />
+    <long name="CheckinInterval_FlexSec" value="10800" />
+    <long name="CheckinService_last_checkin_ms_com.google.android.setupwizard" value="1619868294325" />
+    <long name="aggregation_interval" value="1800" />
+    <long name="CheckinService_lastCheckinSuccessTime" value="1620171933937" />
+    <long name="CheckinService_last_checkin_ms_unspecified" value="1620171934008" />
+    <long name="aggregation_flex" value="600" />
+    <long name="CheckinService_checkinCompleteBroadcastTime" value="1620171934010" />
+    <string name="android_id">3614734215673288481</string>
+    <string name="CheckinService_versionInfo">g3D5wtXXxUUTUO6eTSP7b7VoMsl6khc</string>
+    <string name="CheckinService_deviceDataVersionInfo">ABFEt1UWCffOr8GOIzZbUj0-6mb3g5OXHXkAxMVdaMum0Ywqupb9rHgwRXhDS8-8reB3-85ypg0MuhFleJRPCzAlewbfDI8DFye4y4-un8rOjNsrJMxRdO9ERAq7PKJOjUBvjIwlVVzjHQOBgfxE5dgdBKHF0sOBGNOpDymNeQ-FJdAZcd4lAGFgKapE9wZ95_BUzx6cZfXQ</string>
+    <long name="CheckinTask_bookmark" value="0" />
+</map>

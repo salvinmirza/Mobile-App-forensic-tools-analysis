@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="/ntp/started" value="5" />
+    <int name="/ntp/succeeded" value="2" />
+    <long name="/ntp/last_event_timestamp" value="1620120478879" />
+    <int name="/ntp/failed" value="2" />
+</map>

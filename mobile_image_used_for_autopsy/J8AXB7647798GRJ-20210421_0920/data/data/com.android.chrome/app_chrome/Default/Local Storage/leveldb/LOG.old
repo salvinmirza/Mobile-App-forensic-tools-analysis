@@ -1,0 +1,17 @@
+2021/05/03-18:21:10.183 4075 Creating DB /data/user/0/com.android.chrome/app_chrome/Default/Local Storage/leveldb since it was missing.
+2021/05/03-18:21:10.194 4075 Reusing MANIFEST /data/user/0/com.android.chrome/app_chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/03-18:23:15.646 4075 Level-0 table #5: started
+2021/05/03-18:23:15.666 4075 Level-0 table #5: 16308 bytes OK
+2021/05/03-18:23:15.693 4075 Delete type=0 #3
+2021/05/03-18:24:07.330 4077 Level-0 table #7: started
+2021/05/03-18:24:07.340 4077 Level-0 table #7: 16120 bytes OK
+2021/05/03-18:24:07.346 4077 Delete type=0 #4
+2021/05/03-18:25:07.330 4076 Level-0 table #9: started
+2021/05/03-18:25:07.339 4076 Level-0 table #9: 17823 bytes OK
+2021/05/03-18:25:07.344 4076 Delete type=0 #6
+2021/05/03-18:25:25.736 4074 Level-0 table #11: started
+2021/05/03-18:25:25.745 4074 Level-0 table #11: 18857 bytes OK
+2021/05/03-18:25:25.748 4074 Delete type=0 #8
+2021/05/03-18:25:34.094 407b Level-0 table #13: started
+2021/05/03-18:25:34.113 407b Level-0 table #13: 17906 bytes OK
+2021/05/03-18:25:34.116 407b Delete type=0 #10

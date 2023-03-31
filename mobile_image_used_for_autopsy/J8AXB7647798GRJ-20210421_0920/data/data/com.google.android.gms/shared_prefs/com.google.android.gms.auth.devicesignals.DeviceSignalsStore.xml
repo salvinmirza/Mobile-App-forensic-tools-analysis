@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="lockScreenSecureDuration" value="311604250" />
+    <long name="lastSecureUnlockTime" value="186754093" />
+    <long name="lastLockScreenCheckTime" value="186859669" />
+</map>

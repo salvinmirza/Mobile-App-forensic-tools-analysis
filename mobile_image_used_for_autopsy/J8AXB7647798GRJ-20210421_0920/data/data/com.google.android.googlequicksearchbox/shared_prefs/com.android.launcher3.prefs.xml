@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="EMPTY_DATABASE_CREATED" value="true" />
+    <boolean name="pref_add_icon_to_home" value="true" />
+    <boolean name="pref_add_icon_to_home_initialized" value="true" />
+</map>

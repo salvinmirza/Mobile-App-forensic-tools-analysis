@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="LockboxPolicyFlags__forwarding_consent_reads_comparative_logging_sampling_interval" value="1000" />
+    <boolean name="set_opt_in_calls_facs" value="true" />
+    <long name="LockboxPolicyFlags__all_consent_writes_comparative_logging_sampling_interval" value="0" />
+    <long name="logging_interval_millis" value="10800000" />
+    <long name="connectionless_timeout_seconds" value="15" />
+    <long name="udc_connection_timeout_millis" value="1000" />
+    <boolean name="upload_via_usage_reporting" value="true" />
+    <boolean name="require_di_check" value="false" />
+    <boolean name="collect_shortcut_usage" value="true" />
+    <boolean name="Appusage__change_clearcut_upload_tier_to_unmetered_or_daily_for_appusage" value="false" />
+    <long name="max_num_task_info" value="1" />
+    <boolean name="use_facs" value="true" />
+    <boolean name="enable_task_info" value="false" />
+    <boolean name="skip_uploading_on_swaa_failure" value="false" />
+    <boolean name="use_connectionless" value="false" />
+    <boolean name="check_whitelist_via_flag" value="true" />
+    <boolean name="disable_task_info_for_multi_user" value="true" />
+    <string name="sign_in_package_whitelist">com.android.vending,com.google.android.googlequicksearchbox,com.google.android.gms.apitest,com.google.android.apps.assistant,com.google.android.apps.searchlite,com.google.android.carassistant</string>
+</map>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="org.chromium.weblayer.last_version_code_used" value="428010103" />
+    <int name="org.chromium.weblayer.notification_channels_version" value="0" />
+</map>

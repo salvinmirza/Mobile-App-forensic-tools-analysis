@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="CONTENT_URL">https://www.gstatic.com/android/config_update/16072019-network-watchlist-content.txt</string>
+    <string name="METADATA_URL">https://www.gstatic.com/android/config_update/16072019-network-watchlist-metadata.txt</string>
+</map>

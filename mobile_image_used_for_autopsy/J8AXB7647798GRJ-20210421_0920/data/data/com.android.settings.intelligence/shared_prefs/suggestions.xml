@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="com.google.android.setupwizard/com.google.android.setupwizard.deferred.DeferredSettingsSuggestionActivity_setup_time" value="1619869549486" />
+    <boolean name="com.google.android.setupwizard/com.google.android.setupwizard.deferred.DeferredSettingsSuggestionActivity_is_dismissed" value="false" />
+    <long name="com.android.settings.suggested.category.DEFERRED_SETUP_setup_time" value="1619869549467" />
+</map>

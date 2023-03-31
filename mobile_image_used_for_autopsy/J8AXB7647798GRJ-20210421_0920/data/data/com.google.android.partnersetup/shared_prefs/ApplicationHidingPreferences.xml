@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="managed_apps">
+        <string>com.android.vending</string>
+        <string>com.google.earth</string>
+    </set>
+    <int name="hiding_run_count" value="4" />
+    <string name="home_country">ru</string>
+</map>

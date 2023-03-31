@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="gms:chimera:module_packages">com.google.android.gms.policy_test_support,com.google.android.play.games,com.google.android.apps.kids.familylink,com.google.android.apps.kids.familylinkmanager</string>
+    <string name="gms:chimera:dev_module_packages"></string>
+    <string name="gms:chimera:dev_module_blacklist"></string>
+</map>

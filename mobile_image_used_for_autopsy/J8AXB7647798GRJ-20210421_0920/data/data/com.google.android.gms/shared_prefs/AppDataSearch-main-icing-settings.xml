@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="last-periodic-rebuild" value="1620171838073" />
+    <int name="settings-version" value="7" />
+    <string name="app_indexing_direct_mutation_allowlist">com.google.android.gms,com.google.android.keep,com.google.android.apps.wellbeing,com.android.chrome</string>
+    <string name="instance-id">662c731a-b495-454c-a2c4-c068562fb6f8</string>
+    <string name="current-os-build-id">PQ3A.190801.002</string>
+    <string name="pkg-info-com.google.android.gsf">KiNsYXN0LXVwZGF0ZS0xNjExNjkxMzQ4MDAwLXZlcnNpb24tM0gcUigzODkxOEE0NTNEMDcxOTkz&#10;NTRGOEIxOUFGMDVFQzY1NjJDRUQ1Nzg4&#10;    </string>
+    <long name="last-maintenance" value="1620171837497" />
+    <boolean name="unified-indexing-request-queue-status" value="true" />
+    <boolean name="all_docs_indexed_with_hit_score" value="true" />
+    <string name="pkg-info-com.google.android.backuptransport">KiNsYXN0LXVwZGF0ZS0xNjExNjkxMzI4MDAwLXZlcnNpb24tM0gcUigzODkxOEE0NTNEMDcxOTkz&#10;NTRGOEIxOUFGMDVFQzY1NjJDRUQ1Nzg4&#10;    </string>
+    <string name="pkg-info-com.google.android.googlequicksearchbox">KiNsYXN0LXVwZGF0ZS0xNjE5ODk5MzcxNzc3LXZlcnNpb24tMzABSOydzI8BUigzODkxOEE0NTNE&#10;MDcxOTkzNTRGOEIxOUFGMDVFQzY1NjJDRUQ1Nzg4&#10;    </string>
+    <string name="pkg-info-com.android.chrome">ChppbnN0YWxsLXRpbWUtMTYxOTg2OTExODA3NRoqChJjb20uYW5kcm9pZC5jaHJvbWUQm4PM+AcY&#10;ACCKhKD4ByoAMgA6AEIAIAEqI2xhc3QtdXBkYXRlLTE2MTk4NjkxMTgwNzUtdmVyc2lvbi0zMAE4&#10;hMfcp5MvSOOQn9MBUigzODkxOEE0NTNEMDcxOTkzNTRGOEIxOUFGMDVFQzY1NjJDRUQ1Nzg4&#10;    </string>
+    <boolean name="enabled-corpus-schema-store-as-ground-truth" value="false" />
+    <boolean name="enabled-appdatasearch-corpora-with-whitelist" value="true" />
+    <string name="pkg-info-com.google.android.apps.wellbeing">KiNsYXN0LXVwZGF0ZS0xNjIwMTcxOTg1MDIyLXZlcnNpb24tM0ipoQ1SKDRFQkREMDIzODBGMUZB&#10;MEI2NzQxNDkxRjBBRjM1NjI1REJBNzZFOUZgl6Dw0JMv&#10;    </string>
+    <boolean name="app-history-upload-pending" value="true" />
+    <string name="gmscore-info">CmIKFmNvbS5nb29nbGUuYW5kcm9pZC5nbXMQ8pTQ+AcY8ZTQ+AcggJGg+AcqGmFuZHJvaWQuaW50&#10;ZW50LmFjdGlvbi5NQUlOMgA6AEIWaW50ZXJuYWwuM3A6UGhvdG9ncmFwaApfChZjb20uZ29vZ2xl&#10;LmFuZHJvaWQuZ21zEOyU0PgHGOuU0PgHIIaQoPgHKhphbmRyb2lkLmludGVudC5hY3Rpb24uTUFJ&#10;TjIAOgBCE2NvbnRhY3RzX2NvbnRhY3RfaWQKZgoWY29tLmdvb2dsZS5hbmRyb2lkLmdtcxDwlND4&#10;BxjvlND4ByDCkaD4ByoaYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4yADoAQhppbnRlcm5hbC4z&#10;cDpNdXNpY1JlY29yZGluZwppChZjb20uZ29vZ2xlLmFuZHJvaWQuZ21zEOiU0PgHGOeU0PgHIOOR&#10;oPgHKhphbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTjIAOgBCHWludGVybmFsLjNwOk1vYmlsZUFw&#10;cGxpY2F0aW9uClAKFmNvbS5nb29nbGUuYW5kcm9pZC5nbXMQ6JTQ+AcY55TQ+Acg45Gg+AcqGmFu&#10;ZHJvaWQuaW50ZW50LmFjdGlvbi5NQUlOMgA6AEIEYXBwcwpfChZjb20uZ29vZ2xlLmFuZHJvaWQu&#10;Z21zEOyU0PgHGOuU0PgHIIaQoPgHKhphbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTjIAOgBCE2lu&#10;dGVybmFsLjNwOkNvbnRhY3QKXwoWY29tLmdvb2dsZS5hbmRyb2lkLmdtcxCEldD4BxiDldD4ByCs&#10;kqD4ByoaYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4yADoAQhNpbnRlcm5hbC4zcDpNZXNzYWdl&#10;CmcKFmNvbS5nb29nbGUuYW5kcm9pZC5nbXMQ7pTQ+AcY7ZTQ+Acgr5Cg+AcqGmFuZHJvaWQuaW50&#10;ZW50LmFjdGlvbi5NQUlOMgA6AEIbaW50ZXJuYWwuM3A6RGlnaXRhbERvY3VtZW50EAAQABAAEAAQ&#10;ABAAEAAQAA==&#10;    </string>
+    <boolean name="enable-patch-overlays" value="false" />
+    <string name="pkg-info-com.google.android.keep">ChppbnN0YWxsLXRpbWUtMTYxOTg2OTA3NDAwNxovChdjb20uZ29vZ2xlLmFuZHJvaWQua2VlcBDS&#10;gMj4BxgAIN6CoPgHKgAyADoAQgAgASojbGFzdC11cGRhdGUtMTYxOTg2OTA3NDAwNy12ZXJzaW9u&#10;LTMwATiCjJWS5y5IpLvnZFIoMzg5MThBNDUzRDA3MTk5MzU0RjhCMTlBRjA1RUM2NTYyQ0VENTc4&#10;OGDJhcPSki8=&#10;    </string>
+    <string name="request-queue-whitelist">com.google.android.gms,com.lge.music,com.google.android.apps.messaging,com.google.android.gm,com.google.android.youtube,com.android.chrome,com.wishabi.flipp,com.railyatri.in.mobile,ru.sberbankmobile,com.google.android.videos</string>
+    <string name="known-accounts">ChgKCFdoYXRzQXBwEgxjb20ud2hhdHNhcHA=&#10;    </string>
+    <int name="index-version" value="63" />
+    <string name="pkg-info-com.google.android.gms">ChppbnN0YWxsLXRpbWUtMTYxMTY5MTM0MDAwMBouChZjb20uZ29vZ2xlLmFuZHJvaWQuZ21zEJGJ&#10;0PgHGAAg8oig+AcqADIAOgBCACABKiNsYXN0LXVwZGF0ZS0xNjIwMTcxOTAxMTExLXZlcnNpb24t&#10;MzABOL3ctYL0LkiW7e1kUigzODkxOEE0NTNEMDcxOTkzNTRGOEIxOUFGMDVFQzY1NjJDRUQ1Nzg4&#10;YJO9kZuTLw==&#10;    </string>
+</map>

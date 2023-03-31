@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<subtypes>
+    <imi id="com.android.inputmethod.latin/.LatinIME">
+        <subtype subtypeId="784412869" icon="2131165335" label="2131625665" imeSubtypeLocale="de" languageTag="" imeSubtypeMode="keyboard" imeSubtypeExtraValue="KeyboardLayoutSet=qwerty,AsciiCapable,EmojiCapable,isAdditionalSubtype" isAuxiliary="0" isAsciiCapable="0" />
+        <subtype subtypeId="845917585" icon="2131165335" label="2131625666" imeSubtypeLocale="fr" languageTag="" imeSubtypeMode="keyboard" imeSubtypeExtraValue="KeyboardLayoutSet=qwertz,AsciiCapable,EmojiCapable,isAdditionalSubtype" isAuxiliary="0" isAsciiCapable="0" />
+    </imi>
+</subtypes>

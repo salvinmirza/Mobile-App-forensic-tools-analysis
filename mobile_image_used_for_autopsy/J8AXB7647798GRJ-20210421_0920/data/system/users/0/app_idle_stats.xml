@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<packages>
+    <package name="com.google.android.carriersetup" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.black" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.cts.priv.ctsshim" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.brown" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.green" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.internal.display.cutout.emulation.corner" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.ext.services" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="224346053" />
+    <package name="com.android.internal.display.cutout.emulation.double" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.providers.telephony" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438706" />
+    <package name="com.google.android.googlequicksearchbox" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="309421456" workingSetTimeoutTime="168982943" lastJobRunTime="309580382" />
+    <package name="com.android.providers.calendar" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="306133732" />
+    <package name="com.android.providers.media" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="305172085" />
+    <package name="com.google.android.onetimeinitializer" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.ext.shared" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.wallpapercropper" elapsedIdleTime="125892538" screenIdleTime="10563789" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="129492538" />
+    <package name="com.quicinc.cne.CNEService" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438707" />
+    <package name="com.android.documentsui" elapsedIdleTime="302986632" screenIdleTime="20243911" lastPredictedTime="-13655" appLimitBucket="10" bucketReason="305" activeTimeoutTime="306586632" />
+    <package name="android.auto_generated_rro__" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.externalstorage" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="131627680" />
+    <package name="com.android.htmlviewer" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.whatsapp" elapsedIdleTime="308806907" screenIdleTime="20885945" lastPredictedTime="309580554" appLimitBucket="10" bucketReason="305" activeTimeoutTime="312406907" workingSetTimeoutTime="142983279" lastJobRunTime="309421674" />
+    <package name="com.qualcomm.qti.uceShimService" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438707" />
+    <package name="com.android.companiondevicemanager" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.mms.service" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.android.providers.downloads" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="305172085" lastJobRunTime="203501611" />
+    <package name="com.android.messaging" elapsedIdleTime="91459753" screenIdleTime="8264327" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="95059753" lastJobRunTime="125768995" />
+    <package name="com.android.terminal" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.soundpicker" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.qualcomm.qti.telephonyservice" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438707" />
+    <package name="com.google.android.configupdater" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" lastJobRunTime="304711859" />
+    <package name="org.lineageos.lockclock" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.android.defcontainer" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="305318403" />
+    <package name="org.lineageos.overlay.black" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.providers.downloads.ui" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.vending" elapsedIdleTime="185238603" screenIdleTime="15251718" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="232782288" workingSetTimeoutTime="45056955" lastJobRunTime="306479480" />
+    <package name="com.android.pacprocessor" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.simappdialog" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.profiles" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="308438706" />
+    <package name="com.android.internal.display.cutout.emulation.tall" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.certinstaller" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.carrierconfig" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.qti.qualcomm.datastatusnotification" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438706" />
+    <package name="android" elapsedIdleTime="303114809" screenIdleTime="20372088" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="302" activeTimeoutTime="306714809" workingSetTimeoutTime="352022422" lastJobRunTime="298764226" />
+    <package name="com.android.contacts" elapsedIdleTime="91466574" screenIdleTime="8271148" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="95066574" />
+    <package name="com.qualcomm.qti.callfeaturessetting" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.qualcomm.wfd.service" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.recorder" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.egg" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.mtp" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="131627859" />
+    <package name="com.android.nfc" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438706" />
+    <package name="com.android.stk" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438706" />
+    <package name="com.android.launcher3" elapsedIdleTime="308810339" screenIdleTime="20889377" lastPredictedTime="-13655" appLimitBucket="10" bucketReason="305" activeTimeoutTime="312410339" />
+    <package name="com.android.backupconfirm" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.weather.provider" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.codeaurora.ims" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438707" />
+    <package name="com.android.statementservice" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.settings.intelligence" elapsedIdleTime="224309827" screenIdleTime="17435307" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="227909827" />
+    <package name="com.android.calendar" elapsedIdleTime="22946359" screenIdleTime="4261102" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="26546359" workingSetTimeoutTime="64261612" />
+    <package name="com.google.android.setupwizard" elapsedIdleTime="1588476" screenIdleTime="434741" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="224906693" workingSetTimeoutTime="164610782" lastJobRunTime="309421621" />
+    <package name="org.lineageos.setupwizard" elapsedIdleTime="993141" screenIdleTime="248565" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.qualcomm.qcrilmsgtunnel" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438706" />
+    <package name="com.android.providers.settings" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.android.sharedstoragebackup" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.printspooler" elapsedIdleTime="193150646" screenIdleTime="16491680" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="196750646" />
+    <package name="com.android.dreams.basic" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.webview" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="193016258" lastJobRunTime="304161841" />
+    <package name="com.android.se" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438706" />
+    <package name="com.android.inputdevices" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.qualcomm.qti.biometrics.fingerprint.service" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.google.android.apps.wellbeing" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="224908246" workingSetTimeoutTime="161934118" lastJobRunTime="307070402" />
+    <package name="org.lineageos.overlay.accent.orange" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.bips" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="193749678" />
+    <package name="com.qti.dpmserviceapp" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438707" />
+    <package name="org.lineageos.overlay.accent.purple" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.markup" elapsedIdleTime="193083767" screenIdleTime="16424801" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="196683767" />
+    <package name="com.android.cellbroadcastreceiver" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="224907568" />
+    <package name="com.android.onetimeinitializer" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.yellow" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.server.telecom" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.google.android.syncadapters.contacts" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.blue" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.cyan" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.pink" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.keychain" elapsedIdleTime="223792084" screenIdleTime="17015692" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="227392084" />
+    <package name="com.android.chrome" elapsedIdleTime="303486726" screenIdleTime="20744005" lastPredictedTime="309580554" appLimitBucket="30" bucketReason="500" activeTimeoutTime="307086726" lastJobRunTime="298770894" />
+    <package name="com.android.printservice.recommendation" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="193749959" />
+    <package name="com.android.dialer" elapsedIdleTime="192473580" screenIdleTime="15933923" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="196073580" lastJobRunTime="304161490" />
+    <package name="com.android.gallery3d" elapsedIdleTime="193173210" screenIdleTime="16514244" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="196773210" />
+    <package name="com.google.android.packageinstaller" elapsedIdleTime="224722583" screenIdleTime="17848063" lastPredictedTime="-13655" appLimitBucket="20" bucketReason="200" activeTimeoutTime="228322583" />
+    <package name="com.google.android.gms" elapsedIdleTime="224147070" screenIdleTime="17272550" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="309393726" workingSetTimeoutTime="45056955" lastJobRunTime="192462740" />
+    <package name="com.google.android.gsf" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="309421586" />
+    <package name="com.google.android.tts" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="135006692" />
+    <package name="com.android.calllogbackup" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.partnersetup" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" lastJobRunTime="309421524" />
+    <package name="com.android.carrierdefaultapp" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.dsi.ant.server" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.jelly" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.proxyhandler" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.inputmethod.latin" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="304037781" />
+    <package name="org.lineageos.eleven" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.feedback" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.topjohnwu.magisk" elapsedIdleTime="45445881" screenIdleTime="7706053" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="304137361" />
+    <package name="org.lineageos.snap" elapsedIdleTime="303415518" screenIdleTime="20672797" lastPredictedTime="-13655" appLimitBucket="10" bucketReason="305" activeTimeoutTime="307015518" />
+    <package name="com.google.android.syncadapters.calendar" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="306133884" lastJobRunTime="175901642" />
+    <package name="com.android.managedprovisioning" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.dreams.phototable" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.accent.red" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.smspush" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="308438706" />
+    <package name="com.android.wallpaper.livepicker" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.audiofx" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="308438706" />
+    <package name="com.android.apps.tag" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.overlay.dark" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.backuptransport" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="121370438" />
+    <package name="com.android.storagemanager" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.bookmarkprovider" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.settings" elapsedIdleTime="224313402" screenIdleTime="17438882" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="227913402" lastJobRunTime="267279265" />
+    <package name="com.qualcomm.qti.ims" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="net.mullvad.mullvadvpn" elapsedIdleTime="223813076" screenIdleTime="17036684" lastPredictedTime="309580554" appLimitBucket="20" bucketReason="302" activeTimeoutTime="227413076" workingSetTimeoutTime="352022424" />
+    <package name="com.android.calculator2" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.apps.turbo" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" lastJobRunTime="309580397" />
+    <package name="org.lineageos.updater" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.cts.ctsshim" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.opengapps.wellbeingoverlay" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.lineageparts" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="224908624" lastJobRunTime="1054984" />
+    <package name="com.caf.fmradio" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.lineagesettings" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.android.vpndialogs" elapsedIdleTime="223730236" screenIdleTime="16953844" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="227330236" />
+    <package name="lineageos.platform" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.google.android.keep" elapsedIdleTime="224134064" screenIdleTime="17259544" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="227734064" lastJobRunTime="302370735" />
+    <package name="com.android.email" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="37103392" />
+    <package name="com.android.phone" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="308438707" />
+    <package name="com.android.shell" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="131628158" />
+    <package name="com.android.wallpaperbackup" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.android.providers.blockednumber" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="309393713" />
+    <package name="com.android.providers.userdictionary" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="309393713" />
+    <package name="com.android.emergency" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="224907690" />
+    <package name="com.android.location.fused" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.android.deskclock" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.android.systemui" elapsedIdleTime="192745662" screenIdleTime="16206005" lastPredictedTime="-13655" appLimitBucket="30" bucketReason="200" activeTimeoutTime="308438705" workingSetTimeoutTime="235944987" />
+    <package name="com.android.exchange" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="306133884" />
+    <package name="com.android.bluetoothmidiservice" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.qualcomm.qti.poweroffalarm" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="org.lineageos.backgrounds" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.traceur" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="224908166" />
+    <package name="com.android.bluetooth" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.qualcomm.timeservice" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.development" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="7269561" />
+    <package name="com.qualcomm.embms" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.android.providers.contacts" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="5" bucketReason="100" activeTimeoutTime="309393713" />
+    <package name="com.android.captiveportallogin" elapsedIdleTime="-13655" screenIdleTime="-83216" lastPredictedTime="-13655" appLimitBucket="40" bucketReason="200" activeTimeoutTime="7269561" />
+    <package name="com.google.android.apps.restore" elapsedIdleTime="1798329" screenIdleTime="633722" lastPredictedTime="309580554" appLimitBucket="40" bucketReason="500" activeTimeoutTime="7269561" />
+</packages>

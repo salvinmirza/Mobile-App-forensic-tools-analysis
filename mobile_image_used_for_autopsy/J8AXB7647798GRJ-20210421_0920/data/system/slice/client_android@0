@@ -1,0 +1,1 @@
+<client pkg="android@0" fullAccess="0"><authority authority="com.google.android.gms.nearby.sharing" pkg="com.google.android.gms@0"><path>scan</path></authority></client>

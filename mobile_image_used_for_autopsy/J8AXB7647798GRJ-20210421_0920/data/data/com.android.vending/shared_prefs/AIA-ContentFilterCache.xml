@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="filter_level" value="0" />
+    <int name="authority" value="0" />
+</map>

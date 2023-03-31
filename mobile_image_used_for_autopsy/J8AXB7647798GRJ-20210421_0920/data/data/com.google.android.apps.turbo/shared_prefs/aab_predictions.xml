@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="timestamp_millis" value="1620176816909" />
+    <set name="rare">
+        <string>com.android.vpndialogs#0.04566606</string>
+        <string>com.google.android.apps.restore#0.007422683</string>
+        <string>com.google.android.setupwizard#0.023541301</string>
+        <string>com.topjohnwu.magisk#0.017214729</string>
+        <string>com.android.settings.intelligence#0.088556856</string>
+        <string>com.android.contacts#0.03277915</string>
+        <string>com.android.wallpapercropper#0.016686087</string>
+        <string>net.mullvad.mullvadvpn#0.058278795</string>
+        <string>com.android.calendar#0.019401083</string>
+        <string>com.android.printspooler#0.016112963</string>
+        <string>com.google.android.markup#0.0274393</string>
+        <string>com.android.gallery3d#0.031950664</string>
+        <string>com.google.android.keep#0.10996427</string>
+        <string>com.android.dialer#0.034935128</string>
+    </set>
+    <set name="frequent">
+        <string>com.android.chrome#0.222946</string>
+        <string>com.whatsapp#0.20056774</string>
+    </set>
+    <set name="active" />
+    <int name="model_id" value="9" />
+    <int name="bucketeer_id" value="3" />
+    <set name="working_set" />
+</map>

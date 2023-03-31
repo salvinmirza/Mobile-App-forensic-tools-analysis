@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="featureEventId" value="218" />
+    <int name="metricsSessionId" value="63674739" />
+    <int name="metricsEventId" value="18" />
+    <string name="last_checkin_success_build_fingerprint">asus/RU_X00TD/ASUS_X00T_6:9/PKQ1/16.2017.1903.050-20190401:user/release-keys</string>
+    <boolean name="deferredNotificationDismissed" value="true" />
+    <boolean name="setupwizard.timezone_is_set" value="true" />
+    <boolean name="setupwizard.time_is_set" value="true" />
+    <int name="lockScreenPasswordQuality" value="196608" />
+    <long name="deferred_scheduler_snooze_time" value="1619971200000" />
+</map>

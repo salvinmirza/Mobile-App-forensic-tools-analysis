@@ -1,0 +1,1267 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<usagestats version="1" endTime="86399999">
+    <interactive count="38" time="1620127446735" />
+    <non-interactive count="38" time="1620128460831" />
+    <keyguard-shown count="23" time="1620128460831" />
+    <keyguard-hidden count="23" time="1620127451821" />
+    <packages>
+        <package lastTimeActive="-1620042060832" package="com.google.android.carriersetup" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.black" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.cts.priv.ctsshim" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.brown" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.green" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.internal.display.cutout.emulation.corner" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.ext.services" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.internal.display.cutout.emulation.double" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.telephony" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.googlequicksearchbox" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.calendar" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.media" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.onetimeinitializer" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.ext.shared" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.quicinc.cne.CNEService" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="85229765" package="com.android.documentsui" timeActive="4272" lastEvent="2" appLaunchCount="2">
+            <chosen_action name="android.intent.action.GET_CONTENT">
+                <category name="*/*" count="2" />
+            </chosen_action>
+        </package>
+        <package lastTimeActive="-1620042060832" package="android.auto_generated_rro__" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.externalstorage" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.htmlviewer" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="9674815" package="com.whatsapp" timeActive="157604" lastEvent="2" appLaunchCount="2" />
+        <package lastTimeActive="-1620042060832" package="com.qualcomm.qti.uceShimService" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.companiondevicemanager" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.downloads" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.terminal" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.soundpicker" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.qualcomm.qti.telephonyservice" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.configupdater" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.defcontainer" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.black" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.downloads.ui" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="10445130" package="com.android.vending" timeActive="39604" lastEvent="2" appLaunchCount="2" />
+        <package lastTimeActive="-1620042060832" package="com.android.pacprocessor" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.simappdialog" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.profiles" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.internal.display.cutout.emulation.tall" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.certinstaller" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.carrierconfig" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.qti.qualcomm.datastatusnotification" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="85227436" package="android" timeActive="48568" lastEvent="2" appLaunchCount="18" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.recorder" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.egg" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.mtp" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.nfc" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.stk" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="85386524" package="com.android.launcher3" timeActive="932418" lastEvent="2" appLaunchCount="39" />
+        <package lastTimeActive="-1620042060832" package="com.android.backupconfirm" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.weather.provider" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.codeaurora.ims" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.statementservice" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="18314299" package="org.thoughtcrime.securesms" timeActive="746904" lastEvent="2" appLaunchCount="12">
+            <chosen_action name="android.intent.action.SEND">
+                <category name="image/png" count="1" />
+            </chosen_action>
+        </package>
+        <package lastTimeActive="49516354" package="com.android.settings.intelligence" timeActive="2413" lastEvent="2" appLaunchCount="1" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.setupwizard" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.qualcomm.qcrilmsgtunnel" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.sharedstoragebackup" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="18357169" package="com.android.printspooler" timeActive="1208" lastEvent="2" appLaunchCount="1" />
+        <package lastTimeActive="-1620042060832" package="com.android.dreams.basic" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.webview" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.se" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.apps.wellbeing" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.orange" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.bips" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.qti.dpmserviceapp" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.purple" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="18290293" package="com.google.android.markup" timeActive="443463" lastEvent="2" appLaunchCount="6">
+            <chosen_action name="android.intent.action.EDIT">
+                <category count="4" />
+            </chosen_action>
+        </package>
+        <package lastTimeActive="-1620042060832" package="com.android.cellbroadcastreceiver" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.onetimeinitializer" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.yellow" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.syncadapters.contacts" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.blue" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.cyan" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.pink" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="48998611" package="com.android.keychain" timeActive="10257" lastEvent="2" appLaunchCount="2" />
+        <package lastTimeActive="85325435" package="com.android.chrome" timeActive="1742873" lastEvent="2" appLaunchCount="26" />
+        <package lastTimeActive="-1620042060832" package="com.android.printservice.recommendation" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="17680106" package="com.android.dialer" timeActive="3254" lastEvent="2" appLaunchCount="1" />
+        <package lastTimeActive="18379708" package="com.android.gallery3d" timeActive="195115" lastEvent="2" appLaunchCount="9">
+            <chosen_action name="android.intent.action.EDIT">
+                <category count="1" />
+            </chosen_action>
+        </package>
+        <package lastTimeActive="49929110" package="com.google.android.packageinstaller" timeActive="9977" lastEvent="2" appLaunchCount="7" />
+        <package lastTimeActive="49353596" package="com.google.android.gms" timeActive="33727" lastEvent="2" appLaunchCount="5" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.gsf" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.tts" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.calllogbackup" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.partnersetup" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.carrierdefaultapp" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.jelly" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.proxyhandler" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.inputmethod.latin" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.eleven" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.feedback" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.topjohnwu.magisk" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.snap" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.syncadapters.calendar" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.managedprovisioning" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.dreams.phototable" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.accent.red" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.smspush" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.wallpaper.livepicker" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.audiofx" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.apps.tag" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.overlay.dark" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.google.android.backuptransport" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.storagemanager" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.bookmarkprovider" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="49519929" package="com.android.settings" timeActive="49675" lastEvent="2" appLaunchCount="8" />
+        <package lastTimeActive="85099997" package="net.mullvad.mullvadvpn" timeActive="44236" lastEvent="2" appLaunchCount="4" />
+        <package lastTimeActive="-1620042060832" package="com.android.calculator2" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.updater" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.cts.ctsshim" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.opengapps.wellbeingoverlay" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.lineageparts" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="48936763" package="com.android.vpndialogs" timeActive="1100" lastEvent="2" appLaunchCount="1" />
+        <package lastTimeActive="49340591" package="com.google.android.keep" timeActive="711" lastEvent="2" appLaunchCount="3" />
+        <package lastTimeActive="-1620042060832" package="com.android.email" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.phone" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.blockednumber" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.userdictionary" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.emergency" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="17952189" package="com.android.systemui" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.exchange" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.bluetoothmidiservice" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="org.lineageos.backgrounds" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.traceur" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.qualcomm.timeservice" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.qualcomm.embms" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.providers.contacts" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1620042060832" package="com.android.captiveportallogin" timeActive="0" lastEvent="0" />
+    </packages>
+    <configurations />
+    <event-log>
+        <event time="0" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="1" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="1" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="1" package="com.android.systemui" flags="0" type="11" standbyBucket="1966592" />
+        <event time="24229" package="com.google.android.carriersetup" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24236" package="org.lineageos.overlay.accent.black" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24236" package="com.android.cts.priv.ctsshim" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24236" package="org.lineageos.overlay.accent.brown" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24236" package="org.lineageos.overlay.accent.green" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="com.android.internal.display.cutout.emulation.corner" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="com.google.android.ext.services" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="com.android.internal.display.cutout.emulation.double" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="com.android.providers.media" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="com.google.android.onetimeinitializer" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="com.google.android.ext.shared" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="android.auto_generated_rro__" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24237" package="com.android.externalstorage" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24238" package="com.android.htmlviewer" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24238" package="com.android.companiondevicemanager" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24238" package="com.android.terminal" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24238" package="com.google.android.soundpicker" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24242" package="com.google.android.configupdater" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24246" package="com.android.defcontainer" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24246" package="org.lineageos.overlay.black" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24246" package="com.android.providers.downloads.ui" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24246" package="com.android.pacprocessor" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24251" package="com.android.simappdialog" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24251" package="com.android.internal.display.cutout.emulation.tall" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24251" package="com.android.certinstaller" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24251" package="com.android.carrierconfig" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24252" package="org.lineageos.recorder" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24252" package="com.android.egg" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24252" package="com.android.mtp" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24252" package="com.android.backupconfirm" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24252" package="org.lineageos.weather.provider" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24252" package="com.android.statementservice" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24257" package="com.android.sharedstoragebackup" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24257" package="com.android.printspooler" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24257" package="com.android.dreams.basic" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24257" package="com.android.webview" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24261" package="com.google.android.apps.wellbeing" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24265" package="org.lineageos.overlay.accent.orange" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24266" package="com.android.bips" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24269" package="org.lineageos.overlay.accent.purple" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24270" package="com.google.android.markup" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24270" package="com.android.onetimeinitializer" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24270" package="org.lineageos.overlay.accent.yellow" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24270" package="com.google.android.syncadapters.contacts" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24275" package="org.lineageos.overlay.accent.blue" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24275" package="org.lineageos.overlay.accent.cyan" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24275" package="org.lineageos.overlay.accent.pink" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24275" package="com.android.printservice.recommendation" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32668" package="com.google.android.packageinstaller" flags="0" type="11" standbyBucket="1311232" />
+        <event time="32669" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32669" package="com.google.android.tts" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32674" package="com.android.calllogbackup" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32674" package="com.google.android.partnersetup" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32679" package="com.android.carrierdefaultapp" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32686" package="org.lineageos.jelly" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32691" package="com.android.proxyhandler" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32695" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32695" package="org.lineageos.eleven" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32699" package="com.google.android.feedback" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32704" package="org.lineageos.snap" flags="0" type="11" standbyBucket="1311232" />
+        <event time="32704" package="com.google.android.syncadapters.calendar" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32709" package="com.android.managedprovisioning" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32714" package="com.android.dreams.phototable" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32714" package="org.lineageos.overlay.accent.red" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32715" package="com.android.wallpaper.livepicker" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32715" package="com.android.apps.tag" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32715" package="org.lineageos.overlay.dark" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32715" package="com.google.android.backuptransport" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32716" package="com.android.storagemanager" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32716" package="com.android.bookmarkprovider" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32716" package="com.android.calculator2" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32716" package="org.lineageos.updater" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32722" package="com.android.cts.ctsshim" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32722" package="com.opengapps.wellbeingoverlay" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32723" package="com.android.email" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32728" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32729" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32729" package="com.android.emergency" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32729" package="com.android.exchange" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32735" package="com.android.bluetoothmidiservice" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32735" package="org.lineageos.backgrounds" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32735" package="com.android.traceur" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32736" package="com.qualcomm.timeservice" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32736" package="com.qualcomm.embms" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32744" package="com.android.captiveportallogin" flags="0" type="11" standbyBucket="2621952" />
+        <event time="472841" package="android" flags="0" type="15" />
+        <event time="472946" package="android" flags="0" type="12" />
+        <event time="472947" package="android" flags="0" type="12" />
+        <event time="472990" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="473013" package="com.android.providers.media" flags="0" type="11" standbyBucket="656129" />
+        <event time="473388" package="android" flags="0" type="10" />
+        <event time="473388" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="482000" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="482756" package="android" flags="0" type="16" />
+        <event time="507016" package="android" flags="0" type="15" />
+        <event time="507598" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="509581" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="509684" package="android" flags="0" type="18" />
+        <event time="511651" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="511651" package="android" flags="0" type="10" />
+        <event time="513594" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="513608" package="com.android.chrome" flags="0" type="11" standbyBucket="656129" />
+        <event time="513612" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="517072" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="517099" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="555850" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="555861" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="616174" package="android" flags="0" type="16" />
+        <event time="616695" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="621215" package="android" flags="0" type="17" />
+        <event time="641265" package="android" flags="0" type="15" />
+        <event time="642016" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="644550" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="644654" package="android" flags="0" type="18" />
+        <event time="645555" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="645607" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="648308" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="648334" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="657852" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="657867" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="717990" package="android" flags="0" type="16" />
+        <event time="718514" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="723134" package="android" flags="0" type="17" />
+        <event time="735333" package="android" flags="0" type="15" />
+        <event time="735900" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="737854" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="737941" package="android" flags="0" type="18" />
+        <event time="739106" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="739149" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="741576" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="741606" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="745552" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="745562" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="750092" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="750125" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="778850" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="656129" />
+        <event time="785969" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="785982" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="846312" package="android" flags="0" type="16" />
+        <event time="846837" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="851380" package="android" flags="0" type="17" />
+        <event time="1073021" package="com.android.providers.media" flags="0" type="11" standbyBucket="2621952" />
+        <event time="1219508" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="1352067" package="android" flags="0" type="15" />
+        <event time="1352737" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="1354829" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="1354914" package="android" flags="0" type="18" />
+        <event time="1356041" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="1356058" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="1359030" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="1359061" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="1361565" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="1361574" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="1363494" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="1363520" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="1378892" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="2621952" />
+        <event time="1458700" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="1458708" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="1463079" package="android" flags="0" type="12" />
+        <event time="1463080" package="android" flags="0" type="12" />
+        <event time="1494423" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="1494471" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="1497483" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="1497516" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="1509711" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="1509729" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="1547605" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="1603280" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="1603281" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="1603281" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="1603281" package="com.android.systemui" flags="0" type="11" standbyBucket="656129" />
+        <event time="1627230" package="android" flags="0" type="16" />
+        <event time="1627750" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="1632268" package="android" flags="0" type="17" />
+        <event time="2147708" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="2182509" package="android" flags="0" type="15" />
+        <event time="2183084" package="android" flags="0" type="10" />
+        <event time="2183085" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="2192494" package="android" flags="0" type="16" />
+        <event time="3474924" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="3474934" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="3474935" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="3474935" package="com.android.systemui" flags="0" type="11" standbyBucket="1966592" />
+        <event time="5375055" package="com.android.chrome" flags="0" type="11" standbyBucket="1312000" />
+        <event time="5375056" package="com.google.android.keep" flags="0" type="11" standbyBucket="2622720" />
+        <event time="9296667" package="android" flags="0" type="15" />
+        <event time="9296698" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="9296704" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="9296704" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="9296704" package="com.android.systemui" flags="0" type="11" standbyBucket="656129" />
+        <event time="9297254" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="9299507" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="9299577" package="android" flags="0" type="18" />
+        <event time="9303914" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="9303926" package="com.whatsapp" flags="0" type="11" standbyBucket="656129" />
+        <event time="9303930" package="com.whatsapp" class="com.whatsapp.Main" flags="0" type="1" />
+        <event time="9303988" package="com.whatsapp" class="com.whatsapp.Main" flags="0" type="2" />
+        <event time="9304010" package="com.whatsapp" class="com.whatsapp.HomeActivity" flags="0" type="1" />
+        <event time="9304019" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="656129" />
+        <event time="9304020" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="656129" />
+        <event time="9304020" package="com.android.exchange" flags="0" type="11" standbyBucket="656136" />
+        <event time="9305385" package="com.whatsapp" class="com.whatsapp.HomeActivity" flags="0" type="2" />
+        <event time="9305393" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="1" />
+        <event time="9436720" package="android" flags="0" type="16" />
+        <event time="9437257" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="2" />
+        <event time="9441802" package="android" flags="0" type="17" />
+        <event time="9471956" package="android" flags="0" type="15" />
+        <event time="9472694" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="9474739" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="1" />
+        <event time="9474798" package="android" flags="0" type="18" />
+        <event time="9491963" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="2" />
+        <event time="9491971" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="9552070" package="android" flags="0" type="16" />
+        <event time="9552594" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="9557148" package="android" flags="0" type="17" />
+        <event time="9596689" package="android" flags="0" type="15" />
+        <event time="9596779" package="android" flags="0" type="12" />
+        <event time="9596779" package="android" flags="0" type="12" />
+        <event time="9597678" package="android" flags="0" type="10" />
+        <event time="9597679" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="9606662" package="android" flags="0" type="16" />
+        <event time="9641868" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="9663117" package="android" flags="0" type="15" />
+        <event time="9663691" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="9666712" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="9666827" package="android" flags="0" type="18" />
+        <event time="9667641" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="9667655" package="com.whatsapp" class="com.whatsapp.Main" flags="0" type="1" />
+        <event time="9667713" package="com.whatsapp" class="com.whatsapp.Main" flags="0" type="2" />
+        <event time="9667727" package="com.whatsapp" class="com.whatsapp.HomeActivity" flags="0" type="1" />
+        <event time="9669078" package="com.whatsapp" class="com.whatsapp.HomeActivity" flags="0" type="2" />
+        <event time="9669087" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="1" />
+        <event time="9670198" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="2" />
+        <event time="9670245" package="com.whatsapp" class="com.whatsapp.HomeActivity" flags="0" type="1" />
+        <event time="9670882" package="com.whatsapp" class="com.whatsapp.HomeActivity" flags="0" type="2" />
+        <event time="9670889" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="1" />
+        <event time="9674815" package="com.whatsapp" class="com.whatsapp.Conversation" flags="0" type="2" />
+        <event time="9674826" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="9734860" package="android" flags="0" type="16" />
+        <event time="9735398" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="9739925" package="android" flags="0" type="17" />
+        <event time="9932470" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="9932471" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="9932472" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="9932472" package="com.android.systemui" flags="0" type="11" standbyBucket="1966592" />
+        <event time="9976927" package="android" flags="0" type="15" />
+        <event time="9977518" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="9979443" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="9979532" package="android" flags="0" type="18" />
+        <event time="9981648" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="9986806" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="9986829" package="com.android.vending" class="com.google.android.finsky.activities.MainActivity" flags="0" type="1" />
+        <event time="9989469" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="656129" />
+        <event time="9996898" package="com.android.vending" flags="0" type="12" />
+        <event time="10009085" package="com.android.defcontainer" flags="0" type="11" standbyBucket="656129" />
+        <event time="10016390" package="com.android.vending" class="com.google.android.finsky.activities.MainActivity" flags="0" type="2" />
+        <event time="10016469" package="org.thoughtcrime.securesms" flags="0" type="11" standbyBucket="656129" />
+        <event time="10016471" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10017217" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10017251" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.PassphraseCreateActivity" flags="0" type="1" />
+        <event time="10017637" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.PassphraseCreateActivity" flags="0" type="2" />
+        <event time="10017648" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10017665" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10017681" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="1" />
+        <event time="10020470" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="2" />
+        <event time="10020526" package="com.google.android.packageinstaller" flags="0" type="11" standbyBucket="656129" />
+        <event time="10020529" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="1" />
+        <event time="10022818" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="2" />
+        <event time="10022830" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="1" />
+        <event time="10023537" package="com.android.providers.media" flags="0" type="11" standbyBucket="656129" />
+        <event time="10110490" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="2621952" />
+        <event time="10110490" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="2621952" />
+        <event time="10152296" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="2" />
+        <event time="10152316" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.profiles.edit.EditProfileActivity" flags="0" type="1" />
+        <event time="10152380" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="656129" />
+        <event time="10152380" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="656129" />
+        <event time="10157325" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.profiles.edit.EditProfileActivity" flags="0" type="2" />
+        <event time="10157339" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10157352" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10157369" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.lock.v2.CreateKbsPinActivity" flags="0" type="1" />
+        <event time="10175510" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.lock.v2.CreateKbsPinActivity" flags="0" type="2" />
+        <event time="10175537" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10182837" package="com.android.systemui" flags="0" type="11" standbyBucket="656129" />
+        <event time="10184696" package="com.android.systemui" flags="0" type="12" />
+        <event time="10184908" package="com.android.systemui" flags="0" type="10" />
+        <event time="10185275" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10185283" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.NewConversationActivity" flags="0" type="1" />
+        <event time="10185653" package="com.android.systemui" flags="0" type="10" />
+        <event time="10185654" package="com.android.systemui" flags="0" type="12" />
+        <event time="10186756" package="com.android.systemui" flags="0" type="7" />
+        <event time="10186777" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.NewConversationActivity" flags="0" type="2" />
+        <event time="10186828" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="10186926" package="com.google.android.ext.services" flags="0" type="11" standbyBucket="656129" />
+        <event time="10189039" package="com.google.android.markup" flags="0" type="9" />
+        <event time="10189049" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="10189115" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="10189164" package="com.google.android.markup" flags="0" type="11" standbyBucket="656129" />
+        <event time="10197478" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="10197502" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.NewConversationActivity" flags="0" type="1" />
+        <event time="10202107" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.NewConversationActivity" flags="0" type="2" />
+        <event time="10202115" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10203905" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10203916" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="1" />
+        <event time="10215283" package="com.android.systemui" flags="0" type="12" />
+        <event time="10215477" package="com.android.systemui" flags="0" type="10" />
+        <event time="10216149" package="com.android.systemui" flags="0" type="10" />
+        <event time="10216150" package="com.android.systemui" flags="0" type="12" />
+        <event time="10216658" package="com.android.systemui" flags="0" type="7" />
+        <event time="10216673" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="2" />
+        <event time="10216688" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="10217508" package="com.android.gallery3d" flags="0" type="9" />
+        <event time="10217517" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="10217576" package="com.android.gallery3d" flags="0" type="11" standbyBucket="656129" />
+        <event time="10217582" package="com.android.gallery3d" class="com.android.gallery3d.filtershow.FilterShowActivity" flags="0" type="1" />
+        <event time="10230470" package="com.android.gallery3d" class="com.android.gallery3d.filtershow.FilterShowActivity" flags="0" type="2" />
+        <event time="10230491" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="1" />
+        <event time="10234461" package="com.android.systemui" flags="0" type="12" />
+        <event time="10234628" package="com.android.systemui" flags="0" type="10" />
+        <event time="10235302" package="com.android.systemui" flags="0" type="10" />
+        <event time="10235303" package="com.android.systemui" flags="0" type="12" />
+        <event time="10235728" package="com.android.systemui" flags="0" type="7" />
+        <event time="10235751" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="2" />
+        <event time="10235764" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="10236593" package="com.google.android.markup" flags="0" type="9" />
+        <event time="10236599" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="10236611" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="10241873" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="10304913" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="10304948" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="1" />
+        <event time="10307411" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="2" />
+        <event time="10307420" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10308181" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10308248" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.DummyActivity" flags="0" type="1" />
+        <event time="10308697" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.DummyActivity" flags="0" type="2" />
+        <event time="10308733" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10315668" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10315685" package="com.google.android.packageinstaller" class="com.android.packageinstaller.UninstallerActivity" flags="0" type="1" />
+        <event time="10316540" package="com.google.android.packageinstaller" class="com.android.packageinstaller.UninstallerActivity" flags="0" type="2" />
+        <event time="10316554" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10316702" package="com.google.android.packageinstaller" flags="0" type="12" />
+        <event time="10372672" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="10373698" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10373739" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="10413145" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="10413156" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10415704" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="10417344" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10417361" package="com.android.vending" class="com.google.android.finsky.activities.MainActivity" flags="0" type="1" />
+        <event time="10425018" package="com.android.vending" flags="0" type="12" />
+        <event time="10445130" package="com.android.vending" class="com.google.android.finsky.activities.MainActivity" flags="0" type="2" />
+        <event time="10445210" package="org.thoughtcrime.securesms" flags="0" type="11" standbyBucket="656129" />
+        <event time="10445212" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10445817" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10445853" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.PassphraseCreateActivity" flags="0" type="1" />
+        <event time="10446202" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.PassphraseCreateActivity" flags="0" type="2" />
+        <event time="10446214" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10446231" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10446254" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="1" />
+        <event time="10447985" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="2" />
+        <event time="10448020" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="1" />
+        <event time="10450611" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="2" />
+        <event time="10450621" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="1" />
+        <event time="10594434" package="android" flags="0" type="16" />
+        <event time="10594993" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="2" />
+        <event time="10598802" package="android" flags="0" type="15" />
+        <event time="10598918" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="1" />
+        <event time="10630420" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.registration.RegistrationNavigationActivity" flags="0" type="2" />
+        <event time="10630439" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.profiles.edit.EditProfileActivity" flags="0" type="1" />
+        <event time="10632644" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.profiles.edit.EditProfileActivity" flags="0" type="2" />
+        <event time="10632657" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10632671" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10632686" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.lock.v2.CreateKbsPinActivity" flags="0" type="1" />
+        <event time="10651596" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.lock.v2.CreateKbsPinActivity" flags="0" type="2" />
+        <event time="10651637" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="10656278" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="10656293" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="1" />
+        <event time="10717442" package="com.android.systemui" flags="0" type="12" />
+        <event time="10717630" package="com.android.systemui" flags="0" type="10" />
+        <event time="10718334" package="com.android.systemui" flags="0" type="10" />
+        <event time="10718335" package="com.android.systemui" flags="0" type="12" />
+        <event time="10718849" package="com.android.systemui" flags="0" type="7" />
+        <event time="10718870" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="2" />
+        <event time="10718884" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="10720029" package="com.google.android.markup" flags="0" type="9" />
+        <event time="10720038" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="10720103" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="10829767" package="android" flags="0" type="16" />
+        <event time="10830292" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="10832071" package="android" flags="0" type="15" />
+        <event time="10832179" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="10841275" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="10841297" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="1" />
+        <event time="10846510" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="2" />
+        <event time="10846519" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10847100" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10847162" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.DummyActivity" flags="0" type="1" />
+        <event time="10847598" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.DummyActivity" flags="0" type="2" />
+        <event time="10847624" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10848203" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10848215" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="10849872" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="10849889" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10855423" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10855467" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="10861725" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="10861771" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10864117" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10864129" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="10869734" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="10869754" package="com.android.gallery3d" class="com.android.gallery3d.filtershow.FilterShowActivity" flags="0" type="1" />
+        <event time="10871449" package="com.android.gallery3d" class="com.android.gallery3d.filtershow.FilterShowActivity" flags="0" type="2" />
+        <event time="10871457" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="10879433" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="10879443" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10881024" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10881036" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="10932077" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="10932096" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10933607" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10933622" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="10942588" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="10942611" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10943896" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10943909" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="10969242" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="10969249" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="10972817" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="10972866" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="10984756" package="com.android.systemui" flags="0" type="12" />
+        <event time="10984913" package="com.android.systemui" flags="0" type="10" />
+        <event time="10985676" package="com.android.systemui" flags="0" type="10" />
+        <event time="10985678" package="com.android.systemui" flags="0" type="12" />
+        <event time="11002025" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="11002040" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="11003791" package="android" flags="0" type="16" />
+        <event time="11004319" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="11004862" package="android" flags="0" type="17" />
+        <event time="11304459" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="11362174" package="android" flags="0" type="15" />
+        <event time="11362755" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="11364707" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="11364778" package="android" flags="0" type="18" />
+        <event time="11374360" package="com.android.defcontainer" flags="0" type="11" standbyBucket="2621952" />
+        <event time="11380358" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="2621952" />
+        <event time="11380359" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="2621952" />
+        <event time="11390700" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="2621952" />
+        <event time="11424128" package="android" flags="0" type="16" />
+        <event time="11424710" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="11429191" package="android" flags="0" type="17" />
+        <event time="12804686" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="13756866" package="com.whatsapp" flags="0" type="11" standbyBucket="1312000" />
+        <event time="13756869" package="com.google.android.keep" flags="0" type="11" standbyBucket="1967360" />
+        <event time="13944606" package="com.android.exchange" flags="0" type="11" standbyBucket="2621952" />
+        <event time="15377234" package="com.android.providers.media" flags="0" type="11" standbyBucket="2621952" />
+        <event time="15388293" package="com.google.android.ext.services" flags="0" type="11" standbyBucket="2621952" />
+        <event time="15399501" package="com.google.android.markup" flags="0" type="11" standbyBucket="1967361" />
+        <event time="16584543" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="16584544" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="16584544" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="17613916" package="android" flags="0" type="15" />
+        <event time="17616279" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="17616391" package="android" flags="0" type="18" />
+        <event time="17617199" package="org.thoughtcrime.securesms" flags="0" type="11" standbyBucket="1967360" />
+        <event time="17617199" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="2622720" />
+        <event time="17617201" package="com.google.android.markup" flags="0" type="11" standbyBucket="2622720" />
+        <event time="17617201" package="com.android.chrome" flags="0" type="11" standbyBucket="1967360" />
+        <event time="17617201" package="com.android.gallery3d" flags="0" type="11" standbyBucket="1967360" />
+        <event time="17617202" package="com.google.android.keep" flags="0" type="11" standbyBucket="2622720" />
+        <event time="17618539" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="17619285" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="17619352" package="com.android.settings" class="com.android.settings.Settings" flags="0" type="1" />
+        <event time="17619631" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="656129" />
+        <event time="17619822" package="com.google.android.setupwizard" flags="0" type="11" standbyBucket="656129" />
+        <event time="17621802" package="com.android.settings" class="com.android.settings.Settings" flags="0" type="2" />
+        <event time="17621845" package="com.google.android.gms" class="com.google.android.gms.app.settings.GoogleSettingsActivity" flags="0" type="1" />
+        <event time="17622144" package="com.google.android.gms" class="com.google.android.gms.app.settings.GoogleSettingsActivity" flags="0" type="2" />
+        <event time="17622165" package="com.google.android.gms" class="com.google.android.gms.accountsettings.ui.ZeroPartyEntryPointActivity" flags="0" type="1" />
+        <event time="17622240" package="com.google.android.gms" class="com.google.android.gms.accountsettings.ui.ZeroPartyEntryPointActivity" flags="0" type="2" />
+        <event time="17622250" package="com.google.android.gms" class="com.google.android.gms.accountsettings.mg.ui.main.MainActivity" flags="0" type="1" />
+        <event time="17622786" package="com.android.webview" flags="0" type="11" standbyBucket="656129" />
+        <event time="17628176" package="com.google.android.gms" class="com.google.android.gms.accountsettings.mg.ui.main.MainActivity" flags="0" type="2" />
+        <event time="17628184" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountChipAccountPickerActivity" flags="0" type="1" />
+        <event time="17628227" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountChipAccountPickerActivity" flags="0" type="2" />
+        <event time="17628242" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountPickerActivity" flags="0" type="1" />
+        <event time="17633955" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountPickerActivity" flags="0" type="2" />
+        <event time="17633964" package="com.google.android.gms" class="com.google.android.gms.accountsettings.mg.ui.main.MainActivity" flags="0" type="1" />
+        <event time="17637978" package="com.google.android.gms" class="com.google.android.gms.accountsettings.mg.ui.main.MainActivity" flags="0" type="2" />
+        <event time="17637986" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountChipAccountPickerActivity" flags="0" type="1" />
+        <event time="17638001" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountChipAccountPickerActivity" flags="0" type="2" />
+        <event time="17638018" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountPickerActivity" flags="0" type="1" />
+        <event time="17639012" package="com.google.android.gms" class="com.google.android.gms.common.account.AccountPickerActivity" flags="0" type="2" />
+        <event time="17639037" package="com.android.settings" class="com.android.settings.Settings$AccountDashboardActivity" flags="0" type="1" />
+        <event time="17648836" package="com.android.settings" class="com.android.settings.Settings$AccountDashboardActivity" flags="0" type="2" />
+        <event time="17648844" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="17652000" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="17652008" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="17656298" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="17656306" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="17660972" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="17660984" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.UnpackingRedirectActivity" flags="0" type="1" />
+        <event time="17661000" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.UnpackingRedirectActivity" flags="0" type="2" />
+        <event time="17661014" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.FilteringRedirectActivity" flags="0" type="1" />
+        <event time="17661028" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.FilteringRedirectActivity" flags="0" type="2" />
+        <event time="17661046" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.removeaccount.GetAccountRemovalAllowedActivity" flags="0" type="1" />
+        <event time="17661072" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.removeaccount.GetAccountRemovalAllowedActivity" flags="0" type="2" />
+        <event time="17661093" package="com.google.android.gms" class="com.google.android.gms.auth.login.ConfirmAccountDeletionActivity" flags="0" type="1" />
+        <event time="17663056" package="com.google.android.gms" class="com.google.android.gms.auth.login.ConfirmAccountDeletionActivity" flags="0" type="2" />
+        <event time="17663069" package="com.android.settings" class="com.android.settings.password.ConfirmDeviceCredentialActivity" flags="0" type="1" />
+        <event time="17663084" package="com.android.settings" class="com.android.settings.password.ConfirmDeviceCredentialActivity" flags="0" type="2" />
+        <event time="17663096" package="com.android.settings" class="com.android.settings.password.ConfirmLockPassword" flags="0" type="1" />
+        <event time="17663272" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="656129" />
+        <event time="17666642" package="com.android.settings" class="com.android.settings.password.ConfirmLockPassword" flags="0" type="2" />
+        <event time="17666659" package="com.google.android.gms" class="com.google.android.gms.auth.login.ConfirmAccountDeletionActivity" flags="0" type="1" />
+        <event time="17666670" package="com.google.android.gms" class="com.google.android.gms.auth.login.ConfirmAccountDeletionActivity" flags="0" type="2" />
+        <event time="17666690" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.FilteringRedirectActivity" flags="0" type="1" />
+        <event time="17666706" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.FilteringRedirectActivity" flags="0" type="2" />
+        <event time="17666732" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="17671384" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="17671391" package="com.android.settings" class="com.android.settings.Settings$AccountDashboardActivity" flags="0" type="1" />
+        <event time="17673193" package="com.android.settings" class="com.android.settings.Settings$AccountDashboardActivity" flags="0" type="2" />
+        <event time="17673201" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="17676783" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="17676851" package="com.android.dialer" flags="0" type="11" standbyBucket="656129" />
+        <event time="17676852" package="com.android.dialer" class="com.android.dialer.app.DialtactsActivity" flags="0" type="1" />
+        <event time="17677347" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="656129" />
+        <event time="17677347" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="656129" />
+        <event time="17677350" package="com.android.exchange" flags="0" type="11" standbyBucket="656136" />
+        <event time="17680106" package="com.android.dialer" class="com.android.dialer.app.DialtactsActivity" flags="0" type="2" />
+        <event time="17680115" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="17689350" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="17689364" package="org.thoughtcrime.securesms" flags="0" type="11" standbyBucket="656129" />
+        <event time="17689369" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="1" />
+        <event time="17692201" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MainActivity" flags="0" type="2" />
+        <event time="17692215" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="1" />
+        <event time="17950568" package="com.android.systemui" flags="0" type="12" />
+        <event time="17950723" package="com.android.systemui" flags="0" type="10" />
+        <event time="17950959" package="com.android.providers.media" flags="0" type="11" standbyBucket="656129" />
+        <event time="17951512" package="com.android.systemui" flags="0" type="10" />
+        <event time="17951513" package="com.android.systemui" flags="0" type="12" />
+        <event time="17952189" package="com.android.systemui" flags="0" type="7" />
+        <event time="17952212" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.ApplicationPreferencesActivity" flags="0" type="2" />
+        <event time="17952227" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="17952306" package="com.google.android.ext.services" flags="0" type="11" standbyBucket="656129" />
+        <event time="17971374" package="com.google.android.markup" flags="0" type="9" />
+        <event time="17971384" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="17971462" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="17971475" package="com.google.android.markup" flags="0" type="11" standbyBucket="656129" />
+        <event time="18100845" package="com.android.documentsui" flags="0" type="11" standbyBucket="1311232" />
+        <event time="18100845" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="18100845" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="18100846" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="18162851" package="android" flags="0" type="16" />
+        <event time="18163408" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="18167929" package="android" flags="0" type="17" />
+        <event time="18284724" package="android" flags="0" type="15" />
+        <event time="18285292" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="18287424" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="1" />
+        <event time="18287487" package="android" flags="0" type="18" />
+        <event time="18290293" package="com.google.android.markup" class="com.google.android.markup.AnnotateActivity" flags="0" type="2" />
+        <event time="18290306" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="18297752" package="org.thoughtcrime.securesms" flags="0" type="9" />
+        <event time="18297761" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="18297777" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.sharing.ShareActivity" flags="0" type="1" />
+        <event time="18300038" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.sharing.ShareActivity" flags="0" type="2" />
+        <event time="18300055" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.conversation.ConversationActivity" flags="0" type="1" />
+        <event time="18300489" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.conversation.ConversationActivity" flags="0" type="2" />
+        <event time="18300593" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.mediasend.MediaSendActivity" flags="0" type="1" />
+        <event time="18304825" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.mediasend.MediaSendActivity" flags="0" type="2" />
+        <event time="18304838" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.conversation.ConversationActivity" flags="0" type="1" />
+        <event time="18306100" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.conversation.ConversationActivity" flags="0" type="2" />
+        <event time="18306108" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MediaPreviewActivity" flags="0" type="1" />
+        <event time="18314299" package="org.thoughtcrime.securesms" class="org.thoughtcrime.securesms.MediaPreviewActivity" flags="0" type="2" />
+        <event time="18314310" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="18320550" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="18320590" package="com.android.gallery3d" flags="0" type="11" standbyBucket="656129" />
+        <event time="18320592" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="18330055" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="2622721" />
+        <event time="18330055" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="18330242" package="com.google.android.setupwizard" flags="0" type="11" standbyBucket="2622721" />
+        <event time="18333182" package="com.android.webview" flags="0" type="11" standbyBucket="2621952" />
+        <event time="18355893" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="18355960" package="com.android.printspooler" flags="0" type="11" standbyBucket="656129" />
+        <event time="18355961" package="com.android.printspooler" class="com.android.printspooler.ui.PrintActivity" flags="0" type="1" />
+        <event time="18356115" package="com.android.bips" flags="0" type="11" standbyBucket="656129" />
+        <event time="18356486" package="com.android.printservice.recommendation" flags="0" type="11" standbyBucket="656129" />
+        <event time="18357169" package="com.android.printspooler" class="com.android.printspooler.ui.PrintActivity" flags="0" type="2" />
+        <event time="18357180" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="1" />
+        <event time="18357486" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="18373701" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="2621952" />
+        <event time="18379708" package="com.android.gallery3d" class="com.android.gallery3d.app.GalleryActivity" flags="0" type="2" />
+        <event time="18379721" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="18385170" package="android" flags="0" type="16" />
+        <event time="18385698" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="18386234" package="android" flags="0" type="17" />
+        <event time="18387776" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="2621952" />
+        <event time="18387777" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="2621952" />
+        <event time="19100840" package="android" flags="0" type="15" />
+        <event time="19100954" package="android" flags="0" type="12" />
+        <event time="19100954" package="android" flags="0" type="12" />
+        <event time="19101388" package="android" flags="0" type="10" />
+        <event time="19101389" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="19106680" package="android" flags="0" type="12" />
+        <event time="19106681" package="android" flags="0" type="12" />
+        <event time="19107067" package="android" flags="0" type="10" />
+        <event time="19115222" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="19116546" package="android" flags="0" type="16" />
+        <event time="19340683" package="com.android.providers.media" flags="0" type="11" standbyBucket="2621952" />
+        <event time="19342012" package="com.google.android.ext.services" flags="0" type="11" standbyBucket="2621952" />
+        <event time="19635417" package="com.android.bips" flags="0" type="11" standbyBucket="2621952" />
+        <event time="19635822" package="com.android.printservice.recommendation" flags="0" type="11" standbyBucket="2621952" />
+        <event time="19931960" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="19972068" package="android" flags="0" type="15" />
+        <event time="19972649" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="19982046" package="android" flags="0" type="16" />
+        <event time="20485814" package="android" flags="0" type="15" />
+        <event time="20485935" package="android" flags="0" type="12" />
+        <event time="20485936" package="android" flags="0" type="12" />
+        <event time="20486797" package="android" flags="0" type="10" />
+        <event time="20486798" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="20489031" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="20495789" package="android" flags="0" type="16" />
+        <event time="20609777" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="21089072" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="21129919" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="21217563" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="1967360" />
+        <event time="21217565" package="com.android.chrome" flags="0" type="11" standbyBucket="1312000" />
+        <event time="21217565" package="com.google.android.keep" flags="0" type="11" standbyBucket="1967360" />
+        <event time="21729959" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="21915663" package="com.google.android.markup" flags="0" type="11" standbyBucket="1312001" />
+        <event time="21926584" package="org.thoughtcrime.securesms" flags="0" type="11" standbyBucket="1312001" />
+        <event time="22018910" package="com.android.gallery3d" flags="0" type="11" standbyBucket="1312001" />
+        <event time="22549557" package="com.android.dialer" flags="0" type="11" standbyBucket="1967361" />
+        <event time="22763927" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="22765211" package="com.android.providers.media" flags="0" type="11" standbyBucket="656129" />
+        <event time="22765581" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="656129" />
+        <event time="22765583" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="656129" />
+        <event time="23118265" package="com.android.printspooler" flags="0" type="11" standbyBucket="2622721" />
+        <event time="23365504" package="com.android.providers.media" flags="0" type="11" standbyBucket="2621952" />
+        <event time="23365684" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="2621952" />
+        <event time="23365692" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="2621952" />
+        <event time="23425665" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="23544929" package="android" flags="0" type="15" />
+        <event time="23545024" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="23545512" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="23554895" package="android" flags="0" type="16" />
+        <event time="23925178" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="23925181" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="23925182" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="24031753" package="android" flags="0" type="15" />
+        <event time="24031863" package="android" flags="0" type="12" />
+        <event time="24031864" package="android" flags="0" type="12" />
+        <event time="24032304" package="android" flags="0" type="10" />
+        <event time="24032305" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="24041734" package="android" flags="0" type="16" />
+        <event time="24048091" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="24108485" package="android" flags="0" type="15" />
+        <event time="24109043" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="24111501" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="24111598" package="android" flags="0" type="18" />
+        <event time="24112178" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="24114427" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="24115367" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="24115427" package="com.android.chrome" flags="0" type="11" standbyBucket="656129" />
+        <event time="24115428" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="24119405" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="24119438" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="24148049" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="24148057" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="24150085" package="android" flags="0" type="16" />
+        <event time="24150606" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="24151162" package="android" flags="0" type="17" />
+        <event time="24154606" package="android" flags="0" type="15" />
+        <event time="24154714" package="android" flags="0" type="12" />
+        <event time="24154715" package="android" flags="0" type="12" />
+        <event time="24155161" package="android" flags="0" type="10" />
+        <event time="24155162" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="24164588" package="android" flags="0" type="16" />
+        <event time="24622798" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24622799" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24622800" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24648174" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="24719914" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="24817814" package="com.google.android.markup" flags="0" type="11" standbyBucket="1967360" />
+        <event time="28708154" package="org.thoughtcrime.securesms" flags="0" type="11" standbyBucket="1967360" />
+        <event time="28708154" package="com.android.gallery3d" flags="0" type="11" standbyBucket="1967360" />
+        <event time="28722054" package="android" flags="0" type="15" />
+        <event time="28724885" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="28724975" package="android" flags="0" type="18" />
+        <event time="28725539" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="28725624" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="28730032" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="28730084" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="28769920" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="28769928" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="28771682" package="android" flags="0" type="16" />
+        <event time="28772181" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="28772619" package="android" flags="0" type="17" />
+        <event time="28774829" package="android" flags="0" type="15" />
+        <event time="28774982" package="android" flags="0" type="12" />
+        <event time="28774983" package="android" flags="0" type="12" />
+        <event time="28775028" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="28775134" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="656129" />
+        <event time="28775134" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="656129" />
+        <event time="28775917" package="android" flags="0" type="10" />
+        <event time="28775918" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="28784816" package="android" flags="0" type="16" />
+        <event time="29375319" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="2621952" />
+        <event time="29375320" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="2621952" />
+        <event time="29375477" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="30625717" package="com.android.exchange" flags="0" type="11" standbyBucket="2621952" />
+        <event time="31324001" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="31324001" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="31324001" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="31923992" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="31923994" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="31923995" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="32014453" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="32449127" package="com.google.android.keep" flags="0" type="11" standbyBucket="2622720" />
+        <event time="32615352" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="33274767" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="33865250" package="android" flags="0" type="15" />
+        <event time="33865812" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="33875192" package="android" flags="0" type="16" />
+        <event time="37364727" package="com.whatsapp" flags="0" type="11" standbyBucket="1967360" />
+        <event time="37364728" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="2622720" />
+        <event time="37364730" package="com.google.android.markup" flags="0" type="11" standbyBucket="2622720" />
+        <event time="37364731" package="com.android.chrome" flags="0" type="11" standbyBucket="1967360" />
+        <event time="38524398" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="38524401" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="38524401" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="40020673" package="android" flags="0" type="15" />
+        <event time="40020792" package="android" flags="0" type="12" />
+        <event time="40020792" package="android" flags="0" type="12" />
+        <event time="40021183" package="android" flags="0" type="10" />
+        <event time="40021184" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="40030602" package="android" flags="0" type="16" />
+        <event time="40041418" package="android" flags="0" type="15" />
+        <event time="40041986" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="40045085" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="40045215" package="android" flags="0" type="18" />
+        <event time="40046324" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="40046336" package="com.android.chrome" flags="0" type="11" standbyBucket="656129" />
+        <event time="40046340" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="40049727" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="40049771" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="40084164" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="40084173" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="40085998" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="40086062" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="40092856" package="android" flags="0" type="12" />
+        <event time="40092858" package="android" flags="0" type="12" />
+        <event time="40108229" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="40171009" package="android" flags="0" type="16" />
+        <event time="40171551" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="40176069" package="android" flags="0" type="17" />
+        <event time="40186842" package="android" flags="0" type="15" />
+        <event time="40187711" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="40190578" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="40190695" package="android" flags="0" type="18" />
+        <event time="40196011" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="40196070" package="com.google.android.packageinstaller" class="com.android.packageinstaller.UninstallerActivity" flags="0" type="1" />
+        <event time="40197003" package="com.google.android.packageinstaller" flags="0" type="12" />
+        <event time="40197007" package="com.google.android.packageinstaller" class="com.android.packageinstaller.UninstallerActivity" flags="0" type="2" />
+        <event time="40197023" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="40200091" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="40201629" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="40201647" package="com.google.android.packageinstaller" class="com.android.packageinstaller.UninstallerActivity" flags="0" type="1" />
+        <event time="40202553" package="com.google.android.packageinstaller" class="com.android.packageinstaller.UninstallerActivity" flags="0" type="2" />
+        <event time="40202722" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="40202752" package="com.google.android.packageinstaller" flags="0" type="12" />
+        <event time="40210492" package="android" flags="0" type="12" />
+        <event time="40210494" package="android" flags="0" type="12" />
+        <event time="40211370" package="android" flags="0" type="16" />
+        <event time="40211910" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="40212449" package="android" flags="0" type="17" />
+        <event time="40616020" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="40616021" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="40616021" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="40860571" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="40882344" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="40973753" package="com.android.dialer" flags="0" type="11" standbyBucket="2622720" />
+        <event time="42801023" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="656129" />
+        <event time="43557249" package="com.topjohnwu.magisk" flags="0" type="11" standbyBucket="2622721" />
+        <event time="44075511" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="44339412" package="com.android.exchange" flags="0" type="11" standbyBucket="656136" />
+        <event time="44339421" package="com.google.android.syncadapters.calendar" flags="0" type="11" standbyBucket="656136" />
+        <event time="44573979" package="com.whatsapp" flags="0" type="11" standbyBucket="2622720" />
+        <event time="44573985" package="com.android.gallery3d" flags="0" type="11" standbyBucket="2622720" />
+        <event time="44675529" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="45727245" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="45727245" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="45727245" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="46327270" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="46327271" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="46327272" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="47465210" package="org.lineageos.snap" flags="0" type="11" standbyBucket="1966592" />
+        <event time="47465210" package="com.google.android.syncadapters.calendar" flags="0" type="11" standbyBucket="2621952" />
+        <event time="47465220" package="com.android.exchange" flags="0" type="11" standbyBucket="2621952" />
+        <event time="48174013" package="com.android.chrome" flags="0" type="11" standbyBucket="1967360" />
+        <event time="48799880" package="android" flags="0" type="15" />
+        <event time="48803675" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="48803775" package="android" flags="0" type="18" />
+        <event time="48814257" package="android" flags="0" type="16" />
+        <event time="48814793" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="48815213" package="android" flags="0" type="17" />
+        <event time="48850917" package="android" flags="0" type="15" />
+        <event time="48851022" package="android" flags="0" type="12" />
+        <event time="48851022" package="android" flags="0" type="12" />
+        <event time="48851914" package="android" flags="0" type="10" />
+        <event time="48857429" package="com.android.defcontainer" flags="0" type="11" standbyBucket="656129" />
+        <event time="48860872" package="android" flags="0" type="16" />
+        <event time="48862306" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="48875528" package="android" flags="0" type="15" />
+        <event time="48878520" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="48878599" package="android" flags="0" type="18" />
+        <event time="48885172" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="48885223" package="net.mullvad.mullvadvpn" flags="0" type="11" standbyBucket="656129" />
+        <event time="48885226" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="1" />
+        <event time="48885404" package="net.mullvad.mullvadvpn" flags="0" type="12" />
+        <event time="48886673" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="656129" />
+        <event time="48901060" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="2" />
+        <event time="48901073" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="48902513" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="48902528" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="1" />
+        <event time="48925295" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="48932412" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="656129" />
+        <event time="48932420" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="656129" />
+        <event time="48932727" package="com.android.exchange" flags="0" type="11" standbyBucket="656136" />
+        <event time="48935620" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="2" />
+        <event time="48935659" package="com.android.vpndialogs" flags="0" type="11" standbyBucket="656129" />
+        <event time="48935663" package="com.android.vpndialogs" class="com.android.vpndialogs.ConfirmDialog" flags="0" type="1" />
+        <event time="48936763" package="com.android.vpndialogs" class="com.android.vpndialogs.ConfirmDialog" flags="0" type="2" />
+        <event time="48936772" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="1" />
+        <event time="48941239" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="48952456" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="2" />
+        <event time="48952497" package="android" class="com.android.internal.app.ResolverActivity" flags="0" type="1" />
+        <event time="48952581" package="com.google.android.ext.services" flags="0" type="11" standbyBucket="656129" />
+        <event time="48955785" package="android" class="com.android.internal.app.ResolverActivity" flags="0" type="2" />
+        <event time="48955862" package="com.android.chrome" flags="0" type="11" standbyBucket="656129" />
+        <event time="48955865" package="com.android.chrome" class="org.chromium.chrome.browser.document.ChromeLauncherActivity" flags="0" type="1" />
+        <event time="48956233" package="com.android.chrome" class="org.chromium.chrome.browser.document.ChromeLauncherActivity" flags="0" type="2" />
+        <event time="48956253" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="48985597" package="net.mullvad.mullvadvpn" flags="0" type="7" />
+        <event time="48987158" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="48987246" package="com.android.keychain" class="com.android.keychain.KeyChainActivity" flags="0" type="1" />
+        <event time="48996302" package="com.android.keychain" class="com.android.keychain.KeyChainActivity" flags="0" type="2" />
+        <event time="48996312" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="48997383" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="48997410" package="com.android.keychain" class="com.android.keychain.KeyChainActivity" flags="0" type="1" />
+        <event time="48998611" package="com.android.keychain" class="com.android.keychain.KeyChainActivity" flags="0" type="2" />
+        <event time="48998624" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49010509" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49010557" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49011977" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="49012550" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49012564" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="1" />
+        <event time="49019602" package="net.mullvad.mullvadvpn" class="net.mullvad.mullvadvpn.ui.MainActivity" flags="0" type="2" />
+        <event time="49019609" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49022289" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49022360" package="com.android.settings" class="com.android.settings.Settings" flags="0" type="1" />
+        <event time="49022567" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="656129" />
+        <event time="49022735" package="com.google.android.setupwizard" flags="0" type="11" standbyBucket="656129" />
+        <event time="49025189" package="com.android.settings" class="com.android.settings.Settings" flags="0" type="2" />
+        <event time="49025196" package="com.android.settings" class="com.android.settings.Settings$AppAndNotificationDashboardActivity" flags="0" type="1" />
+        <event time="49026589" package="com.android.settings" class="com.android.settings.Settings$AppAndNotificationDashboardActivity" flags="0" type="2" />
+        <event time="49026595" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="49028489" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="49028506" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="49031474" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="49031528" package="com.android.chrome" class="org.chromium.chrome.browser.site_settings.ManageSpaceActivity" flags="0" type="1" />
+        <event time="49039767" package="com.android.chrome" class="org.chromium.chrome.browser.site_settings.ManageSpaceActivity" flags="0" type="2" />
+        <event time="49039779" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="49041457" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="49041463" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49102083" package="android" flags="0" type="16" />
+        <event time="49102715" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49107152" package="android" flags="0" type="17" />
+        <event time="49200822" package="android" flags="0" type="15" />
+        <event time="49201412" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="49204036" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49204144" package="android" flags="0" type="18" />
+        <event time="49206342" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49206403" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49206783" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49206825" package="com.android.chrome" class="org.chromium.chrome.browser.firstrun.FirstRunActivity" flags="0" type="1" />
+        <event time="49211351" package="com.android.chrome" class="org.chromium.chrome.browser.firstrun.FirstRunActivity" flags="0" type="2" />
+        <event time="49211369" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49334693" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49334739" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49336312" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49336360" package="com.google.android.keep" flags="0" type="11" standbyBucket="656129" />
+        <event time="49336362" package="com.google.android.keep" class="com.google.android.apps.keep.ui.activities.BrowseActivity" flags="0" type="1" />
+        <event time="49336912" package="com.google.android.keep" class="com.google.android.apps.keep.ui.activities.BrowseActivity" flags="0" type="2" />
+        <event time="49337016" package="android" class="android.accounts.ChooseTypeAndAccountActivity" flags="0" type="1" />
+        <event time="49337294" package="android" class="android.accounts.ChooseTypeAndAccountActivity" flags="0" type="2" />
+        <event time="49337309" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.UnpackingRedirectActivity" flags="0" type="1" />
+        <event time="49337347" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.UnpackingRedirectActivity" flags="0" type="2" />
+        <event time="49337387" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.AccountIntroActivity" flags="0" type="1" />
+        <event time="49337423" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.AccountIntroActivity" flags="0" type="2" />
+        <event time="49337632" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="1" />
+        <event time="49337742" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="2" />
+        <event time="49337759" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.PreAddAccountActivity" flags="0" type="1" />
+        <event time="49338855" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.PreAddAccountActivity" flags="0" type="2" />
+        <event time="49338869" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="1" />
+        <event time="49338943" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="2" />
+        <event time="49338962" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.minutemaid.MinuteMaidActivity" flags="0" type="1" />
+        <event time="49339397" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.minutemaid.MinuteMaidActivity" flags="0" type="2" />
+        <event time="49339419" package="android" class="android.accounts.ChooseTypeAndAccountActivity" flags="0" type="1" />
+        <event time="49339431" package="android" class="android.accounts.ChooseTypeAndAccountActivity" flags="0" type="2" />
+        <event time="49339439" package="com.google.android.keep" class="com.google.android.apps.keep.ui.activities.BrowseActivity" flags="0" type="1" />
+        <event time="49339459" package="com.google.android.keep" class="com.google.android.apps.keep.ui.activities.BrowseActivity" flags="0" type="2" />
+        <event time="49339479" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49340433" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49340450" package="com.google.android.keep" class="com.google.android.apps.keep.ui.activities.BrowseActivity" flags="0" type="1" />
+        <event time="49340591" package="com.google.android.keep" class="com.google.android.apps.keep.ui.activities.BrowseActivity" flags="0" type="2" />
+        <event time="49340629" package="android" class="android.accounts.ChooseTypeAndAccountActivity" flags="0" type="1" />
+        <event time="49340689" package="android" class="android.accounts.ChooseTypeAndAccountActivity" flags="0" type="2" />
+        <event time="49340708" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.UnpackingRedirectActivity" flags="0" type="1" />
+        <event time="49340721" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.common.UnpackingRedirectActivity" flags="0" type="2" />
+        <event time="49340734" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.AccountIntroActivity" flags="0" type="1" />
+        <event time="49340748" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.AccountIntroActivity" flags="0" type="2" />
+        <event time="49340760" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="1" />
+        <event time="49340794" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="2" />
+        <event time="49340809" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.PreAddAccountActivity" flags="0" type="1" />
+        <event time="49341867" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.PreAddAccountActivity" flags="0" type="2" />
+        <event time="49341883" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="1" />
+        <event time="49341905" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.addaccount.WrapperControlledActivity" flags="0" type="2" />
+        <event time="49341924" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.minutemaid.MinuteMaidActivity" flags="0" type="1" />
+        <event time="49353596" package="com.google.android.gms" class="com.google.android.gms.auth.uiflows.minutemaid.MinuteMaidActivity" flags="0" type="2" />
+        <event time="49353607" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49360697" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49360718" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49509864" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="49512829" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49512943" package="com.android.settings" class="com.android.settings.Settings" flags="0" type="1" />
+        <event time="49513927" package="com.android.settings" class="com.android.settings.Settings" flags="0" type="2" />
+        <event time="49513941" package="com.android.settings.intelligence" class="com.android.settings.intelligence.search.SearchActivity" flags="0" type="1" />
+        <event time="49514218" package="com.android.emergency" flags="0" type="11" standbyBucket="656129" />
+        <event time="49514693" package="com.android.traceur" flags="0" type="11" standbyBucket="656129" />
+        <event time="49514774" package="com.google.android.apps.wellbeing" flags="0" type="11" standbyBucket="656129" />
+        <event time="49516354" package="com.android.settings.intelligence" class="com.android.settings.intelligence.search.SearchActivity" flags="0" type="2" />
+        <event time="49516363" package="com.android.settings" class="com.android.settings.search.SearchResultTrampoline" flags="0" type="1" />
+        <event time="49516372" package="com.android.settings" class="com.android.settings.search.SearchResultTrampoline" flags="0" type="2" />
+        <event time="49516385" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="1" />
+        <event time="49519929" package="com.android.settings" class="com.android.settings.SubSettings" flags="0" type="2" />
+        <event time="49519935" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="49521721" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="49521743" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49638789" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49638826" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="1" />
+        <event time="49640327" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="2" />
+        <event time="49640340" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49642510" package="com.google.android.ext.services" flags="0" type="11" standbyBucket="2621952" />
+        <event time="49720759" package="com.android.defcontainer" flags="0" type="11" standbyBucket="2621952" />
+        <event time="49927253" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49927279" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="1" />
+        <event time="49929110" package="com.google.android.packageinstaller" class="com.android.packageinstaller.permission.ui.GrantPermissionsActivity" flags="0" type="2" />
+        <event time="49929134" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49929189" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49929222" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="49930237" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="49930251" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49965637" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49965660" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="49966559" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="49966572" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="49980993" package="com.android.providers.media" flags="0" type="11" standbyBucket="656129" />
+        <event time="49998384" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="49998409" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="50001039" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="50001052" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="50025226" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="50025250" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="50027675" package="com.android.documentsui" flags="0" type="9" />
+        <event time="50027689" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="50027699" package="com.android.documentsui" flags="0" type="11" standbyBucket="656129" />
+        <event time="50027701" package="com.android.documentsui" class="com.android.documentsui.picker.PickActivity" flags="0" type="1" />
+        <event time="50029657" package="com.android.documentsui" class="com.android.documentsui.picker.PickActivity" flags="0" type="2" />
+        <event time="50029677" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="50094351" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="50094387" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="50096183" package="android" flags="0" type="16" />
+        <event time="50096779" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="50097272" package="android" flags="0" type="17" />
+        <event time="50175980" package="android" flags="0" type="15" />
+        <event time="50176543" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="50178679" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="50178767" package="android" flags="0" type="18" />
+        <event time="50179732" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="50179756" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="50180895" package="com.google.android.setupwizard" flags="0" type="11" standbyBucket="2622721" />
+        <event time="50181889" package="com.android.emergency" flags="0" type="11" standbyBucket="2621952" />
+        <event time="50182377" package="com.android.traceur" flags="0" type="11" standbyBucket="2621952" />
+        <event time="50182445" package="com.google.android.apps.wellbeing" flags="0" type="11" standbyBucket="2621952" />
+        <event time="50183990" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="50184012" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="50188472" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="50188483" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="50209923" package="android" flags="0" type="16" />
+        <event time="50210502" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="50210968" package="android" flags="0" type="17" />
+        <event time="50223577" package="android" flags="0" type="15" />
+        <event time="50225805" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="50225847" package="android" flags="0" type="18" />
+        <event time="50228396" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="50228419" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="50271495" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="2621952" />
+        <event time="50271496" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="2621952" />
+        <event time="50279897" package="android" flags="0" type="16" />
+        <event time="50280431" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="50280938" package="android" flags="0" type="17" />
+        <event time="50829780" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="2621952" />
+        <event time="51731369" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="51984796" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="53183273" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="53183277" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="53183278" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="57357972" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="2622720" />
+        <event time="57357973" package="com.android.chrome" flags="0" type="11" standbyBucket="2622720" />
+        <event time="57357979" package="net.mullvad.mullvadvpn" flags="0" type="11" standbyBucket="1311495" />
+        <event time="57357979" package="com.android.vpndialogs" flags="0" type="11" standbyBucket="2622720" />
+        <event time="57357979" package="com.google.android.keep" flags="0" type="11" standbyBucket="2622720" />
+        <event time="60760176" package="com.android.providers.media" flags="0" type="11" standbyBucket="2621952" />
+        <event time="68220537" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="70516278" package="com.android.systemui" flags="0" type="11" standbyBucket="1311232" />
+        <event time="70516279" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="70516279" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="70516279" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="75369623" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="75369623" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="75369624" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="75369624" package="com.android.systemui" flags="0" type="11" standbyBucket="656129" />
+        <event time="78419019" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="78421073" package="com.whatsapp" flags="0" type="11" standbyBucket="1967360" />
+        <event time="78421083" package="com.android.settings.intelligence" flags="0" type="11" standbyBucket="1967360" />
+        <event time="78421083" package="com.android.chrome" flags="0" type="11" standbyBucket="1312000" />
+        <event time="78421090" package="com.google.android.keep" flags="0" type="11" standbyBucket="1967360" />
+        <event time="78437555" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="78437555" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="78437555" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="78437555" package="com.android.systemui" flags="0" type="11" standbyBucket="1311232" />
+        <event time="79697466" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="79754325" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="82600789" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="656129" />
+        <event time="82600790" package="com.android.smspush" flags="0" type="11" standbyBucket="656129" />
+        <event time="82600790" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="656129" />
+        <event time="82600790" package="com.android.systemui" flags="0" type="11" standbyBucket="656129" />
+        <event time="83178794" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+        <event time="84165613" package="android" flags="0" type="15" />
+        <event time="84165761" package="com.google.android.gsf" flags="0" type="11" standbyBucket="656129" />
+        <event time="84166190" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="84168352" package="com.android.chrome" flags="0" type="11" standbyBucket="656129" />
+        <event time="84168366" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="84168422" package="android" flags="0" type="18" />
+        <event time="84170811" package="com.android.gallery3d" flags="0" type="11" standbyBucket="1967360" />
+        <event time="84171280" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="84171295" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="84190906" package="com.android.inputmethod.latin" flags="0" type="11" standbyBucket="656129" />
+        <event time="84194471" package="com.android.providers.blockednumber" flags="0" type="11" standbyBucket="656129" />
+        <event time="84194472" package="com.android.providers.userdictionary" flags="0" type="11" standbyBucket="656129" />
+        <event time="84207887" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="84207915" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="84210335" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="84210350" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="84238466" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="84238494" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="84239606" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="84239619" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="84255958" package="org.lineageos.profiles" flags="0" type="11" standbyBucket="2621952" />
+        <event time="84255959" package="com.android.smspush" flags="0" type="11" standbyBucket="2621952" />
+        <event time="84255959" package="org.lineageos.audiofx" flags="0" type="11" standbyBucket="2621952" />
+        <event time="84255959" package="com.android.systemui" flags="0" type="11" standbyBucket="1311232" />
+        <event time="84323293" package="android" flags="0" type="16" />
+        <event time="84323853" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="84328362" package="android" flags="0" type="17" />
+        <event time="84643413" package="android" flags="0" type="15" />
+        <event time="84644280" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="84646122" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="84646188" package="android" flags="0" type="18" />
+        <event time="84704652" package="android" flags="0" type="16" />
+        <event time="84705182" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="84705666" package="android" flags="0" type="17" />
+        <event time="85099352" package="android" flags="0" type="15" />
+        <event time="85099997" package="net.mullvad.mullvadvpn" flags="0" type="10" />
+        <event time="85101821" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="85101873" package="android" flags="0" type="18" />
+        <event time="85127205" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="85127230" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="85135735" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="85135744" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="85161581" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="85161608" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="85163169" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="85163183" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="85226207" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="85226233" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="1" />
+        <event time="85227426" package="com.android.documentsui" flags="0" type="9" />
+        <event time="85227436" package="android" class="com.android.internal.app.ChooserActivity" flags="0" type="2" />
+        <event time="85227449" package="com.android.documentsui" class="com.android.documentsui.picker.PickActivity" flags="0" type="1" />
+        <event time="85227646" package="com.android.providers.media" flags="0" type="11" standbyBucket="656129" />
+        <event time="85229765" package="com.android.documentsui" class="com.android.documentsui.picker.PickActivity" flags="0" type="2" />
+        <event time="85229783" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="1" />
+        <event time="85259714" package="com.android.chrome" class="org.chromium.chrome.browser.ChromeTabbedActivity" flags="0" type="2" />
+        <event time="85259741" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="1" />
+        <event time="85325435" package="com.android.chrome" class="org.chromium.chrome.browser.history.HistoryActivity" flags="0" type="2" />
+        <event time="85325455" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="1" />
+        <event time="85385903" package="android" flags="0" type="16" />
+        <event time="85386524" package="com.android.launcher3" class="com.android.launcher3.lineage.LineageLauncher" flags="0" type="2" />
+        <event time="85390989" package="android" flags="0" type="17" />
+        <event time="86317346" package="com.google.android.gsf" flags="0" type="11" standbyBucket="2621952" />
+    </event-log>
+</usagestats>

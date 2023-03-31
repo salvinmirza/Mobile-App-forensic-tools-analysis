@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="emoji_recent_keys"></string>
+    <int name="last_shown_emoji_category_id" value="8" />
+</map>

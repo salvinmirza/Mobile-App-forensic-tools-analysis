@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="tickle_sync_gaia_id_cache_last_update_timestamp_105315588668212012215" value="1619869062811" />
+    <boolean name="backup_and_sync_opt_in_validator_enabled" value="true" />
+    <boolean name="force_verbose_log" value="false" />
+    <boolean name="deleted_null_contacts_cleanup_persisted" value="true" />
+    <boolean name="deleted_null_contacts_cleanup_use_flex" value="false" />
+    <long name="deleted_null_contacts_cleanup_periodic_interval_seconds" value="86400" />
+    <boolean name="backup_and_sync_opt_in_validator_use_flex" value="false" />
+    <long name="backup_and_sync_opt_in_validator_flex_seconds" value="600" />
+    <boolean name="backup_and_sync_opt_in_validator_requires_charging" value="true" />
+    <long name="deleted_null_contacts_cleanup_last_run_timestamp" value="1620170768056" />
+    <string name="tickle_sync_gaia_cache_account_name_105315588668212012215">horatio0.42k@gmail.com</string>
+    <long name="backup_and_sync_opt_in_validator_periodic_interval_seconds" value="86400" />
+    <boolean name="deleted_null_contacts_cleanup_enabled" value="true" />
+    <boolean name="backup_and_sync_opt_in_validator_persisted" value="true" />
+    <boolean name="backup_and_sync_opt_in_validator_requires_device_idle" value="false" />
+    <long name="focus_sync_permission_denied_notify_time" value="0" />
+    <boolean name="is_first_sync" value="false" />
+    <boolean name="deleted_null_contacts_cleanup_requires_charging" value="true" />
+    <long name="deleted_null_contacts_cleanup_flex_seconds" value="600" />
+    <int name="saved_cover_photo_width_pixels" value="512" />
+    <boolean name="deleted_null_contacts_cleanup_requires_device_idle" value="false" />
+</map>

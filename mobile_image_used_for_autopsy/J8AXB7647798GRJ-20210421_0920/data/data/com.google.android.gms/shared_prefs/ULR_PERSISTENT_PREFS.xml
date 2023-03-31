@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="disable_ulr_key" value="0" />
+    <int name="location_enabled_key" value="0" />
+    <int name="Location_battery_saver_mode_threshold_key" value="0" />
+    <int name="location_enabled_for_google_app_key" value="1" />
+    <int name="wifi_enabled_key" value="1" />
+    <int name="Location_wifi_scan_enabled_key" value="0" />
+    <long name="reportingAutoenableManagerInitTimeMillisKey" value="1611691562112" />
+    <string name="reportingConfig">Gg4IARAAGAEgACgBMAA4AQ==</string>
+    <int name="deviceTag_Account {name=@@ContextManagerNullAccount@@, type=com.google}" value="-1970501381" />
+    <int name="Location_Ble_scan_enabled_key" value="0" />
+    <int name="Location_battery_saver_enabled_key" value="0" />
+    <int name="deviceTag_Account {name=horatio0.42k@gmail.com, type=com.google}" value="-836316244" />
+    <int name="geo_supported_key" value="1" />
+    <int name="Location_airplane_mode_enabled_key" value="0" />
+</map>

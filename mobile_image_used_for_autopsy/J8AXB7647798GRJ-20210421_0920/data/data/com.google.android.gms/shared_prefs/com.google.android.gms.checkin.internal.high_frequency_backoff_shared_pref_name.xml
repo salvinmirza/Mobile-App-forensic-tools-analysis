@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="HighFrequency_Count" value="1" />
+    <long name="HighFrequency_TimeGapSum" value="0" />
+    <long name="HighFrequency_LastCheckinStartTime" value="178918478" />
+</map>

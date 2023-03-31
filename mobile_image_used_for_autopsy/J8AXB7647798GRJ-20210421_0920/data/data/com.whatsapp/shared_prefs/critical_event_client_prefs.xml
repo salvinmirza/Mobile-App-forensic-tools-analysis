@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="build_version" value="210817004" />
+    <string name="critical_event_client_config"></string>
+</map>

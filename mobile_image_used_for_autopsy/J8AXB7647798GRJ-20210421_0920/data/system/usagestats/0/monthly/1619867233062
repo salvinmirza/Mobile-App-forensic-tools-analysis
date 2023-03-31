@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<usagestats version="1" endTime="1053884">
+    <interactive count="2" time="1611691665597" />
+    <non-interactive count="1" time="1611692341249" />
+    <keyguard-shown count="0" time="0" />
+    <keyguard-hidden count="0" time="0" />
+    <packages>
+        <package lastTimeActive="-1611691467610" package="com.google.android.ext.services" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.telephony" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.google.android.googlequicksearchbox" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.calendar" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.media" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.quicinc.cne.CNEService" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.qti.uceShimService" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.mms.service" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.downloads" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.messaging" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.qti.telephonyservice" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.defcontainer" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="992171" package="com.android.vending" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1554408267609" package="org.lineageos.profiles" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qti.qualcomm.datastatusnotification" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="1044871" package="android" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.qti.callfeaturessetting" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.wfd.service" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.nfc" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.stk" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="1045993" package="com.android.launcher3" timeActive="12193" lastEvent="2" appLaunchCount="2" />
+        <package lastTimeActive="-1611691467610" package="org.codeaurora.ims" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="1043304" package="com.android.calendar" timeActive="38661" lastEvent="2" appLaunchCount="2" />
+        <package lastTimeActive="993642" package="com.google.android.setupwizard" timeActive="218813" lastEvent="2" appLaunchCount="6" />
+        <package lastTimeActive="992198" package="org.lineageos.setupwizard" timeActive="4646" lastEvent="2" appLaunchCount="3" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.qcrilmsgtunnel" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.settings" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.printspooler" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1554408267609" package="com.android.webview" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.se" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.inputdevices" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.qti.biometrics.fingerprint.service" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="89812" package="com.google.android.apps.wellbeing" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qti.dpmserviceapp" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.cellbroadcastreceiver" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.server.telecom" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.google.android.syncadapters.contacts" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.keychain" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="1004868" package="com.google.android.gms" timeActive="12412" lastEvent="2" appLaunchCount="2" />
+        <package lastTimeActive="-1611691467610" package="com.google.android.gsf" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.google.android.tts" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.dsi.ant.server" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1554408267609" package="com.android.inputmethod.latin" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.google.android.syncadapters.calendar" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.smspush" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="org.lineageos.audiofx" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="1046005" package="com.android.settings" timeActive="13239" lastEvent="1" appLaunchCount="4" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.qti.ims" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.google.android.apps.turbo" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="org.lineageos.lineageparts" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.caf.fmradio" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="org.lineageos.lineagesettings" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="lineageos.platform" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.phone" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.shell" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.wallpaperbackup" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.blockednumber" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.userdictionary" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.location.fused" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.deskclock" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.systemui" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.exchange" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.qualcomm.qti.poweroffalarm" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.bluetooth" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.development" timeActive="0" lastEvent="0" />
+        <package lastTimeActive="-1611691467610" package="com.android.providers.contacts" timeActive="0" lastEvent="0" />
+    </packages>
+    <configurations>
+        <config lastTimeActive="48" timeActive="32" count="1" fs="1065353216" locales="en-US" touch="3" key="1" keyHid="2" hardKeyHid="2" nav="1" navHid="2" ori="1" scrLay="268435810" clrMod="5" width="360" height="648" sw="360" density="480" />
+        <config lastTimeActive="78814" timeActive="78766" count="2" fs="1065353216" locales="en-US" touch="3" key="1" keyHid="2" hardKeyHid="2" nav="1" navHid="2" ori="1" scrLay="268435810" clrMod="5" ui="17" width="360" height="648" sw="360" density="480" />
+        <config lastTimeActive="78815" timeActive="0" count="1" active="true" fs="1065353216" locales="en-US" touch="3" key="1" keyHid="1" hardKeyHid="2" nav="1" navHid="2" ori="1" scrLay="268435810" clrMod="5" ui="17" width="360" height="648" sw="360" density="480" />
+        <config lastTimeActive="16" timeActive="17" count="1" fs="1065353216" locales="en-US" touch="1" key="1" keyHid="2" hardKeyHid="2" nav="1" navHid="2" ori="1" scrLay="268435810" clrMod="5" width="360" height="720" sw="360" density="480" />
+    </configurations>
+    <event-log />
+</usagestats>

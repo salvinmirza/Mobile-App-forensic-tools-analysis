@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="feature_list_horatio0.42k@gmail.com">
+        <string>SMS_CONNECT_HOST</string>
+        <string>EASY_UNLOCK_HOST</string>
+        <string>MAGIC_TETHER_HOST</string>
+        <string>PHONE_HUB_HOST</string>
+        <string>BETTER_TOGETHER_HOST</string>
+    </set>
+</map>

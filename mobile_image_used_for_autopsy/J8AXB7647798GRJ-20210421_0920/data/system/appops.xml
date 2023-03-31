@@ -1,0 +1,722 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<app-ops v="1">
+<uid n="1001">
+<op n="15" m="0" />
+</uid>
+<pkg n="com.android.phone">
+<uid n="0" p="false">
+<op n="75" ns="MANAGE_IPSEC_TUNNELS" m="0" />
+</uid>
+</pkg>
+<pkg n="com.quicinc.cne.CNEService">
+<uid n="1000" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1619993025082" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1619993025082" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qti.uceShimService">
+<uid n="1000" p="false">
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993043995" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="android">
+<uid n="1000" p="true">
+<op n="0" ns="COARSE_LOCATION" dm="0" tp="1620066139572" pu="0" ac="20" />
+<op n="1" ns="FINE_LOCATION" dm="0" tp="1554409319898" pu="0" ac="5" />
+<op n="3" ns="VIBRATE" dm="0" tp="1620091392473" d="174" ac="7" />
+<op n="4" ns="READ_CONTACTS" dm="0" tp="1619911208180" pu="0" pp="com.android.providers.contacts" ac="8" />
+<op n="8" ns="READ_CALENDAR" dm="0" tp="1620172800343" pu="0" pp="com.android.providers.calendar" ac="1250" />
+<op n="24" ns="SYSTEM_ALERT_WINDOW" dm="3" rp="1619966408925" ic="8" />
+<op n="36" ns="AUDIO_MEDIA_VOLUME" dm="0" tp="1620176074978" pu="0" ac="80" />
+<op n="40" ns="WAKE_LOCK" dm="0" tp="1620179773389" d="113" ac="3118" />
+<op n="41" ns="MONITOR_LOCATION" dm="0" tp="1619993031363" d="9405079" ac="2" />
+<op n="43" ns="GET_USAGE_STATS" dm="3" rp="1620179777066" ic="1215" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1620091397802" pu="0" ac="5" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1620091397802" pu="0" ac="5" />
+<op n="61" ns="TURN_ON_SCREEN" dm="0" tp="1620179757314" pu="0" ac="136" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993037144" pu="0" ac="10" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.setupwizard">
+<uid n="1000" p="true">
+<op n="55" ns="USE_FINGERPRINT" dm="0" tp="1554409254684" pu="0" ac="1" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1554409254604" pu="0" ac="1" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1554409254604" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qti.biometrics.fingerprint.service">
+<uid n="1000" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1619993043856" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1619993043856" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993043856" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.qti.dpmserviceapp">
+<uid n="1000" p="true">
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993036186" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.server.telecom">
+<uid n="1000" p="true">
+<op n="6" ns="READ_CALL_LOG" dm="0" tp="1619993037156" pu="0" pp="com.android.providers.contacts" ac="4" />
+<op n="27" ns="RECORD_AUDIO" dm="0" tp="1619993024450" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993037149" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.android.keychain">
+<uid n="1000" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1620179773387" pu="0" ac="11" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1620179773387" pu="0" ac="11" />
+</uid>
+</pkg>
+<pkg n="com.dsi.ant.server">
+<uid n="1000" p="false">
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tp="1619993038452" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993038452" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.settings">
+<uid n="1000" p="true">
+<op n="0" ns="COARSE_LOCATION" dm="0" />
+<op n="1" ns="FINE_LOCATION" dm="0" tp="1619868288888" pu="0" ac="6" />
+<op n="3" ns="VIBRATE" dm="0" tp="1619993128030" d="161" ac="43" />
+<op n="23" ns="WRITE_SETTINGS" dm="3" rp="1620179778186" ic="59" />
+<op n="43" ns="GET_USAGE_STATS" dm="3" rp="1620091101003" ic="2467" />
+<op n="45" ns="TOAST_WINDOW" dm="0" tp="1608235104552" d="6904" ac="1" />
+<op n="55" ns="USE_FINGERPRINT" dm="0" tp="1620179777063" pu="0" ac="145" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1620178052257" pu="0" ac="23" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1620178052257" pu="0" ac="23" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993038247" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.lineageparts">
+<uid n="1000" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1620091575941" pu="0" ac="6" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1620091575941" pu="0" ac="6" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tp="1619993044020" pu="0" ac="6" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993044020" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.caf.fmradio">
+<uid n="1000" p="false">
+<op n="27" ns="RECORD_AUDIO" dm="0" tp="1611691536263" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qti.poweroffalarm">
+<uid n="1000" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1619993031386" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1619993031386" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993031385" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.telephony">
+<uid n="1001" p="true">
+<op n="15" ns="WRITE_SMS" m="0" />
+</uid>
+</pkg>
+<pkg n="com.android.mms.service">
+<uid n="1001" p="true">
+<op n="15" ns="WRITE_SMS" m="0" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qti.telephonyservice">
+<uid n="1001" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993025083" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993025083" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993043985" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.qti.qualcomm.datastatusnotification">
+<uid n="1001" p="false">
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993043808" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.stk">
+<uid n="1001" p="false">
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993038256" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="org.codeaurora.ims">
+<uid n="1001" p="true">
+<op n="40" ns="WAKE_LOCK" dm="0" tp="1619993026992" d="201" ac="6" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.qcrilmsgtunnel">
+<uid n="1001" p="true">
+<op n="40" ns="WAKE_LOCK" dm="0" tp="1620179780232" d="1" ac="476" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1619993025485" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1619993025485" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993033802" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.phone">
+<uid n="1001" p="true">
+<op n="14" ns="READ_SMS" dm="0" tp="1619993038231" ac="84" />
+<op n="15" ns="WRITE_SMS" m="0" tp="1619993026846" pu="0" ac="16" ic="16" />
+<op n="40" ns="WAKE_LOCK" dm="0" tp="1620179782511" d="16" ac="9600" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993025083" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993025083" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993038116" pu="0" ac="6" />
+</uid>
+</pkg>
+<pkg n="com.android.bluetooth">
+<uid n="1002" p="false">
+<op n="4" ns="READ_CONTACTS" dm="0" tp="1619869155964" pu="0" pp="com.android.providers.contacts" ac="78" />
+<op n="15" ns="WRITE_SMS" m="0" />
+<op n="40" ns="WAKE_LOCK" dm="0" tp="1619869548451" tb="1619869548450" d="6" ac="151" />
+<op n="43" ns="GET_USAGE_STATS" dm="3" rp="1611691539114" ic="2" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1611691546330" tc="1611691536818" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1611691546330" tc="1611691536818" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.nfc">
+<uid n="1027" p="false">
+<op n="40" ns="WAKE_LOCK" dm="0" tp="1620179761194" d="1" ac="374" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1619993032309" tc="1619993032100" pu="0" ac="4" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1619993032309" tc="1619993032100" pu="0" ac="4" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993038031" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="audioserver">
+<uid n="1041" p="false">
+<op n="40" ns="WAKE_LOCK" dm="0" tc="1620179781579" d="186776194" ac="1687" />
+</uid>
+</pkg>
+<pkg n="com.android.se">
+<uid n="1068" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993032104" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993032104" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.shell">
+<uid n="2000" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619998295421" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619998295421" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.audiofx">
+<uid n="10005" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993032105" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993032105" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993044002" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.eleven">
+<uid n="10006" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1604268369521" pu="0" ac="3" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1604268369521" pu="0" ac="3" />
+</uid>
+</pkg>
+<pkg n="com.android.externalstorage">
+<uid n="10009" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619998295006" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1619892616439" tfs="1619892616503" tc="1619998295006" pu="0" ac="14" />
+</uid>
+</pkg>
+<pkg n="com.google.android.gms">
+<uid n="10010" p="true">
+<op n="0" ns="COARSE_LOCATION" dm="0" tt="1620059730066" tfs="1619891823716" tf="1620171968674" tb="1620171929148" pu="0" ac="224" />
+<op n="1" ns="FINE_LOCATION" dm="0" tt="1620170320661" tfs="1619993192702" tf="1620172332068" pu="0" ac="981" />
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620170354241" tfs="1620171985836" tf="1620179761228" tb="1620171934088" pu="0" ac="1653" />
+<op n="5" ns="WRITE_CONTACTS" dm="0" tt="1620170324173" tfs="1620170767986" tf="1620171955811" tb="1620171919162" pu="0" pp="com.android.providers.contacts" ac="256" />
+<op n="6" ns="READ_CALL_LOG" dm="0" tfs="1611691560632" pu="0" ac="1" />
+<op n="8" ns="READ_CALENDAR" dm="0" tt="1554409287726" pu="0" pp="com.android.providers.calendar" ac="4" />
+<op n="10" ns="WIFI_SCAN" dm="0" tt="1611692345864" tfs="1611691565937" tf="1611691648109" pu="0" ac="24" />
+<op n="15" ns="WRITE_SMS" dm="1" rt="1620091405176" ic="16" />
+<op n="23" ns="WRITE_SETTINGS" dm="3" rt="1619869234755" rfs="1619868810336" rf="1620059675214" rb="1620171917262" ic="50" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1620179773373" tfs="1619903242225" tf="1620171968664" tb="1620171938006" tc="1620171937850" d="4" ac="58" />
+<op n="41" ns="MONITOR_LOCATION" dm="0" tf="1620131747760" d="30262" ac="13" />
+<op n="43" ns="GET_USAGE_STATS" dm="3" rt="1620179773491" rfs="1620171979129" rf="1620179761292" rb="1620171933388" ic="774" />
+<op n="55" ns="USE_FINGERPRINT" dm="0" tt="1619869234760" tfs="1619868812023" tf="1620171958472" tb="1620171930758" pu="0" ac="56" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620179773570" tfs="1620170767502" tf="1620177588437" tb="1620171938209" tc="1620171906100" pu="0" ac="472" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620179773570" tfs="1620170767502" tf="1620176058120" tb="1620171938209" tc="1620171906100" pu="0" ac="408" />
+<op n="71" ns="CHANGE_WIFI_STATE" dm="0" tt="1620166965510" tfs="1619912650896" tf="1620179761229" pu="0" ac="115" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tt="1611691544889" tfs="1611691558048" tf="1619993041180" pu="0" ac="6" />
+</uid>
+</pkg>
+<pkg n="com.google.android.gsf">
+<uid n="10010" p="true">
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620059727551" tf="1620174433833" pu="0" ac="23" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620001699161" tf="1620174433683" tb="1619993032110" pu="0" ac="11" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620001699161" tf="1620174433683" tb="1619993032110" pu="0" ac="11" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.turbo">
+<uid n="10011" p="true">
+<op n="43" ns="GET_USAGE_STATS" dm="3" rb="1620176846917" ic="124" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tb="1620166030844" tc="1620173237205" pu="0" ac="32" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tb="1620166030844" tc="1620173237205" pu="0" ac="32" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993039101" tc="1619993038477" pu="0" ac="10" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.media">
+<uid n="10013" p="true">
+<op n="23" ns="WRITE_SETTINGS" dm="3" rb="1611691569935" ic="6" />
+<op n="40" ns="WAKE_LOCK" dm="0" tb="1619993038619" d="377" ac="4" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620170675561" tfs="1619868305276" tf="1620171838525" tb="1620177588437" tc="1620174434593" ac="404" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620170244531" tfs="1619892616503" tb="1620174434780" tc="1620174434593" pu="0" ac="148" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993038136" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.downloads">
+<uid n="10013" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620060505409" tf="1620064826303" tb="1620067168117" tc="1619993096146" ac="737" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620060432554" tf="1620060011802" tb="1620052054260" tc="1619993033857" pu="0" ac="131" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993038126" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.mtp">
+<uid n="10013" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619998295143" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619998295143" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.restore">
+<uid n="10014" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619869031587" pu="0" ac="1" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619869031587" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.android.defcontainer">
+<uid n="10015" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tb="1620179773404" tc="1620179773264" pu="0" ac="28" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tb="1620179773404" tc="1620179773264" pu="0" ac="28" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.contacts">
+<uid n="10016" p="true">
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620176059839" tfs="1619911445611" tf="1620171985836" tb="1620171933491" tc="1620171955729" ac="4032" />
+<op n="5" ns="WRITE_CONTACTS" dm="0" tt="1619967973882" tfs="1619869081764" tf="1620171955811" tb="1620171919162" tc="1620052056335" ac="276" />
+<op n="6" ns="READ_CALL_LOG" dm="0" tt="1620176059117" tf="1620170323771" tb="1619997754104" tc="1611691554302" ac="100" />
+<op n="7" ns="WRITE_CALL_LOG" dm="0" tt="1620176059136" tf="1620170323789" tb="1619997754132" ac="8" />
+<op n="52" ns="ADD_VOICEMAIL" dm="0" tt="1620059739919" ac="20" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620176058993" pu="0" ac="8" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620176058993" pu="0" ac="8" />
+</uid>
+</pkg>
+<pkg n="com.android.launcher3">
+<uid n="10017" p="true">
+<op n="3" ns="VIBRATE" dm="0" tt="1620179770551" d="179" ac="253" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993032357" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993032357" pu="0" ac="2" />
+<op n="72" ns="REQUEST_DELETE_PACKAGES" dm="0" tt="1620179772151" pu="0" ac="6" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.snap">
+<uid n="10019" p="true">
+<op n="26" ns="CAMERA" dm="0" tt="1620170682515" d="6728" pu="0" ac="8" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620170675795" tb="1611691559847" tc="1620170381253" pu="0" ac="28" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620170675795" tb="1611691559847" tc="1620170381253" pu="0" ac="24" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1611691559592" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.android.emergency">
+<uid n="10020" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620091575007" pu="0" ac="9" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620091575007" pu="0" ac="9" />
+</uid>
+</pkg>
+<pkg n="com.android.documentsui">
+<uid n="10021" p="true">
+<op n="3" ns="VIBRATE" dm="0" tt="1620001672368" d="176" ac="11" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1619892616511" d="116" ac="4" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1619892574335" tc="1620179773299" pu="0" ac="10" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1619892574335" tc="1620179773299" pu="0" ac="10" />
+<op n="76" ns="START_FOREGROUND" dm="0" tt="1619892616511" d="114" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.google.android.setupwizard">
+<uid n="10022" p="true">
+<op n="3" ns="VIBRATE" dm="0" tt="1611692426198" d="161" ac="2" />
+<op n="23" ns="WRITE_SETTINGS" dm="3" rt="1611692341312" ic="2" />
+<op n="55" ns="USE_FINGERPRINT" dm="0" tt="1619868822347" pu="0" ac="10" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620171427934" pu="0" ac="10" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620171427934" pu="0" ac="10" />
+<op n="71" ns="CHANGE_WIFI_STATE" dm="0" tt="1619868818887" pu="0" ac="20" />
+<op n="76" ns="START_FOREGROUND" dm="0" tt="1619868822333" tfs="1619868299005" tb="1619868289435" d="3559" ac="3" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tt="1611691558945" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.android.vending">
+<uid n="10024" p="true">
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620052516284" tfs="1619912618702" tf="1619993043811" tb="1620179773983" tc="1620059727575" pu="0" ac="177" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1619868300764" tb="1620171952846" d="1033" ac="5" />
+<op n="43" ns="GET_USAGE_STATS" dm="3" rt="1619869037890" rfs="1620171988804" rb="1620141543212" ic="13" />
+<op n="55" ns="USE_FINGERPRINT" dm="0" tt="1619869039234" tb="1620054867665" pu="0" ac="16" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620052503134" tfs="1620171988660" tb="1620179774688" tc="1620179773521" pu="0" ac="637" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620052503134" tfs="1620171988660" tb="1620179774688" tc="1620179773521" pu="0" ac="637" />
+<op n="76" ns="START_FOREGROUND" dm="0" tt="1620052497321" tfs="1620171980224" tf="1619868317594" tb="1620171975431" tc="1620171975434" d="4793" ac="20" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1611691555625" tc="1619993038428" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.vpndialogs">
+<uid n="10025" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620090996459" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620090996459" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.google.android.googlequicksearchbox">
+<uid n="10026" p="true">
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620082258524" tf="1620166028028" pu="0" pp="com.android.providers.contacts" ac="57" />
+<op n="6" ns="READ_CALL_LOG" dm="0" tt="1619899292651" tf="1619985977392" pu="0" pp="com.android.providers.contacts" ac="10" />
+<op n="14" ns="READ_SMS" dm="0" tt="1619899292689" tf="1619985977428" pu="0" pp="com.android.phone" ac="10" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1620082260617" tfs="1619899473500" tf="1620173746114" d="88" ac="30" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620170828027" tfs="1619899467346" tf="1620171938118" tb="1619899462740" tc="1619993032095" pu="0" ac="85" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620170828027" tfs="1619899467346" tf="1620171938118" tb="1619899462740" tc="1619993032095" pu="0" ac="85" />
+<op n="76" ns="START_FOREGROUND" dm="0" tt="1619992984209" tfs="1619899465272" tf="1619992984209" tb="1619899462802" tc="1619899462556" d="125767553" ac="1" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tf="1619993042935" pu="0" ac="8" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.updater">
+<uid n="10028" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993044052" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993044052" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993044253" tc="1619993044052" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.android.managedprovisioning">
+<uid n="10029" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993037782" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993037782" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993037782" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.google.android.carriersetup">
+<uid n="10030" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993045603" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993045603" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.settings.intelligence">
+<uid n="10033" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620179776847" pu="0" ac="8" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620179776847" pu="0" ac="8" />
+</uid>
+</pkg>
+<pkg n="com.android.systemui">
+<uid n="10035" p="true">
+<op n="3" ns="VIBRATE" dm="0" tp="1620179760717" d="104" ac="740" />
+<op n="24" ns="SYSTEM_ALERT_WINDOW" dm="3" rp="1601514982051" ic="4" />
+<op n="32" ns="TAKE_AUDIO_FOCUS" dm="0" tp="1619967017124" tf="1619966393040" pu="0" ac="47" />
+<op n="40" ns="WAKE_LOCK" dm="0" tp="1620179760861" tf="1620179598851" d="11" ac="481" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tp="1620060011293" tc="1619993024645" pu="0" ac="17" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tp="1620060011802" tc="1619993024645" pu="0" pp="com.android.providers.downloads" ac="15" />
+<op n="61" ns="TURN_ON_SCREEN" dm="0" tf="1619966400599" pu="0" ac="1" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tp="1619993037151" pu="0" ac="6" />
+</uid>
+</pkg>
+<pkg n="com.google.android.apps.wellbeing">
+<uid n="10036" p="true">
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1620091575968" tb="1620179599340" tc="1620179599252" d="127" ac="23" />
+<op n="43" ns="GET_USAGE_STATS" dm="3" rb="1620174337201" ic="25" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620171988833" pu="0" ac="13" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620171988833" pu="0" ac="13" />
+<op n="76" ns="START_FOREGROUND" dm="0" tt="1619993185599" tfs="1620170764924" tb="1620170764904" tc="1620170764908" d="20" ac="37" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tfs="1611691557662" tb="1619993040963" tc="1619993039606" pu="0" ac="50" />
+</uid>
+</pkg>
+<pkg n="com.google.android.ext.services">
+<uid n="10037" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993053536" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993053536" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.google.android.partnersetup">
+<uid n="10038" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620176687957" pu="0" ac="14" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620176687957" pu="0" ac="14" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993043516" tc="1619993043270" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.google.android.onetimeinitializer">
+<uid n="10040" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993043073" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993043073" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993043072" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.dialer">
+<uid n="10041" p="true">
+<op n="3" ns="VIBRATE" dm="0" tt="1608330503634" d="106" ac="28" />
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620059739507" pu="0" pp="com.android.providers.contacts" ac="60" />
+<op n="6" ns="READ_CALL_LOG" dm="0" tt="1620059739953" tb="1619993037132" pu="0" pp="com.android.providers.contacts" ac="64" />
+<op n="51" ns="OP_READ_PHONE_STATE" dm="0" tt="1620059739869" pu="0" ac="10" />
+<op n="52" ns="ADD_VOICEMAIL" dm="0" tt="1620059739919" pu="0" pp="com.android.providers.contacts" ac="20" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620059737801" tb="1620171428294" tc="1620171427924" pu="0" ac="20" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620059737801" tb="1620171428294" tc="1620171427924" pu="0" ac="20" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993037570" tc="1619993036853" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.android.contacts">
+<uid n="10042" p="true">
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1619958696694" tc="1619907096582" pu="0" pp="com.android.providers.contacts" ac="155" />
+<op n="5" ns="WRITE_CONTACTS" dm="0" tt="1619958364214" pu="0" pp="com.android.providers.contacts" ac="32" />
+<op n="6" ns="READ_CALL_LOG" dm="0" tt="1619958698795" pu="0" pp="com.android.providers.contacts" ac="14" />
+<op n="45" ns="TOAST_WINDOW" dm="0" tt="1619958366829" tb="1592951078460" tc="1619958366502" d="2523" ac="4" />
+<op n="51" ns="OP_READ_PHONE_STATE" dm="0" tt="1619958696795" pu="0" ac="33" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993037399" pu="0" ac="4" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993037399" pu="0" ac="4" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993037399" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.gallery3d">
+<uid n="10043" p="true">
+<op n="3" ns="VIBRATE" dm="0" tt="1620060385632" d="177" ac="7" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1620053052007" d="25" ac="3" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620060436292" tb="1611691554886" tc="1620060381389" pu="0" pp="com.android.providers.downloads" ac="420" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620060432551" tb="1611691554886" tc="1620060381389" pu="0" pp="com.android.providers.downloads" ac="77" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1611691554729" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.android.providers.calendar">
+<uid n="10044" p="true">
+<op n="8" ns="READ_CALENDAR" dm="0" tt="1618025339318" tf="1620172800343" tb="1620166032732" tc="1620059738002" ac="5951" />
+<op n="9" ns="WRITE_CALENDAR" dm="0" tt="1618025333157" tf="1610631600710" tb="1604268333348" tc="1619993067368" ac="833" />
+<op n="40" ns="WAKE_LOCK" dm="0" tb="1619993038127" d="7" ac="2" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620172800116" pu="0" ac="10" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620172800116" pu="0" ac="10" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993038118" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.cellbroadcastreceiver">
+<uid n="10046" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620091574897" pu="0" ac="11" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620091574897" pu="0" ac="11" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993037284" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.google.android.configupdater">
+<uid n="10047" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620171427937" pu="0" ac="7" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620171427937" pu="0" ac="7" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tb="1620171978348" tc="1619993040968" pu="0" ac="205" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993041171" tc="1619993040968" pu="0" ac="22" />
+</uid>
+</pkg>
+<pkg n="com.android.wallpapercropper">
+<uid n="10048" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1604268346810" pu="0" ac="1" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1604268346810" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.google.android.packageinstaller">
+<uid n="10049" p="true">
+<op n="45" ns="TOAST_WINDOW" dm="0" tt="1620179777307" tb="1620179776779" tc="1620179776779" d="4023" ac="6" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620179771992" pu="0" ac="11" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620179771992" pu="0" ac="11" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993043169" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.onetimeinitializer">
+<uid n="10050" p="true">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993038034" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993038034" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993038033" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.printspooler">
+<uid n="10053" p="false">
+<op n="0" ns="COARSE_LOCATION" dm="0" />
+<op n="1" ns="FINE_LOCATION" dm="0" tt="1620060416906" pu="0" ac="1" />
+<op n="41" ns="MONITOR_LOCATION" dm="0" tt="1620060418299" tc="1620060418292" d="1393" ac="1" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620060416751" pu="0" ac="3" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620060416751" pu="0" ac="3" />
+</uid>
+</pkg>
+<pkg n="com.android.exchange">
+<uid n="10055" p="false">
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620052245592" tf="1620052720732" tb="1620059727999" tc="1620082258697" ac="10" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620170487540" pu="0" ac="10" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620170487540" pu="0" ac="10" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tb="1620170487680" tc="1620082260411" pu="0" ac="28" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.lockclock">
+<uid n="10056" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620082460477" pu="0" ac="4" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620082460477" pu="0" ac="4" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tb="1620179762859" tc="1619993035828" pu="0" ac="391" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993044046" tc="1611691559239" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.deskclock">
+<uid n="10058" p="false">
+<op n="40" ns="WAKE_LOCK" dm="0" tb="1619993185375" d="17" ac="46" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620120478056" pu="0" ac="9" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620120478056" pu="0" ac="9" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tb="1619993185493" tc="1620120478055" pu="0" ac="90" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993037546" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.android.smspush">
+<uid n="10061" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993032374" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993032374" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.inputmethod.latin">
+<uid n="10063" p="false">
+<op n="3" ns="VIBRATE" dm="0" tf="1620170732371" tb="1620170706805" d="106" ac="5440" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tb="1611691540222" tc="1619993024633" pu="0" ac="3" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tb="1611691540222" tc="1619993024633" pu="0" ac="3" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tf="1620059727630" tb="1620126230738" pu="0" ac="20" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993037768" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.google.android.tts">
+<uid n="10067" p="false">
+<op n="40" ns="WAKE_LOCK" dm="0" tb="1619995773205" d="33" ac="1" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620001547680" tc="1620171838387" pu="0" ac="6" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620001547680" tc="1620171838387" pu="0" ac="6" />
+</uid>
+</pkg>
+<pkg n="com.android.carrierdefaultapp">
+<uid n="10069" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1611691538603" pu="0" ac="1" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1611691538603" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.android.messaging">
+<uid n="10070" p="false">
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1619958692739" tb="1619993038069" pu="0" pp="com.android.providers.contacts" ac="12" />
+<op n="14" ns="READ_SMS" dm="0" tt="1619958692925" tb="1619993038231" pu="0" pp="com.android.phone" ac="72" />
+<op n="15" ns="WRITE_SMS" m="0" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993037887" pu="0" ac="4" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993037887" pu="0" ac="4" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993037887" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.calendar">
+<uid n="10072" p="false">
+<op n="3" ns="VIBRATE" dm="0" tt="1618025311685" d="7" ac="280" />
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1618025278775" pu="0" pp="com.android.providers.contacts" ac="1632" />
+<op n="8" ns="READ_CALENDAR" dm="0" tt="1618025339318" tb="1620120478646" pu="0" pp="com.android.providers.calendar" ac="3400" />
+<op n="9" ns="WRITE_CALENDAR" dm="0" tt="1618025329088" tb="1619993067368" pu="0" pp="com.android.providers.calendar" ac="344" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1618025339331" tb="1620079436909" tc="1619892114751" d="111" ac="85" />
+<op n="45" ns="TOAST_WINDOW" dm="0" tt="1618025315795" tc="1613011412339" d="2526" ac="49" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1618025334133" tc="1620120477778" pu="0" ac="24" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1618025334133" tc="1620120477778" pu="0" ac="24" />
+<op n="62" ns="GET_ACCOUNTS" dm="0" tt="1618025328715" pu="0" ac="30" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tt="1618025334319" tb="1620120478842" tc="1620120477768" pu="0" ac="270" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1611691554515" tc="1619993037174" pu="0" ac="3" />
+</uid>
+</pkg>
+<pkg n="org.lineageos.profiles">
+<uid n="10074" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1619993039379" pu="0" ac="2" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1619993039379" pu="0" ac="2" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1611691559458" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.google.android.markup">
+<uid n="10076" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620060032359" tc="1620060032229" pu="0" ac="6" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620060032359" tc="1620060032229" pu="0" ac="6" />
+</uid>
+</pkg>
+<pkg n="com.android.traceur">
+<uid n="10077" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620091575486" pu="0" ac="10" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620091575486" pu="0" ac="10" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993038292" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.android.printservice.recommendation">
+<uid n="10078" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620060417280" pu="0" ac="1" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620060417281" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.android.email">
+<uid n="10083" p="false">
+<op n="40" ns="WAKE_LOCK" dm="0" tb="1620170517634" d="18" ac="17" />
+<op n="51" ns="OP_READ_PHONE_STATE" dm="0" tc="1611691548649" pu="0" ac="1" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620170487257" pu="0" ac="5" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620170487257" pu="0" ac="5" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tb="1620170487607" tc="1619993037584" pu="0" ac="69" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1611691554726" tc="1619993037584" pu="0" ac="3" />
+</uid>
+</pkg>
+<pkg n="com.android.bips">
+<uid n="10085" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620060416917" pu="0" ac="1" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620060416917" pu="0" ac="1" />
+</uid>
+</pkg>
+<pkg n="com.google.android.syncadapters.calendar">
+<uid n="10086" p="false">
+<op n="8" ns="READ_CALENDAR" dm="0" tb="1620043169316" pu="0" pp="com.android.providers.calendar" ac="1116" />
+<op n="9" ns="WRITE_CALENDAR" dm="0" tb="1619891897357" pu="0" pp="com.android.providers.calendar" ac="460" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620043133932" pu="0" ac="4" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620043133932" pu="0" ac="4" />
+</uid>
+</pkg>
+<pkg n="com.google.android.syncadapters.contacts">
+<uid n="10090" p="false">
+<op n="4" ns="READ_CONTACTS" dm="0" tb="1611691559037" pu="0" pp="com.android.providers.contacts" ac="2" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620082260620" pu="0" ac="8" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620082260620" pu="0" ac="8" />
+<op n="63" ns="RUN_IN_BACKGROUND" dm="0" tb="1620082260763" tc="1620082260620" pu="0" ac="26" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tc="1619993043563" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.qualcomm.timeservice">
+<uid n="10101" p="false">
+<op n="40" ns="WAKE_LOCK" dm="0" tb="1619993185745" d="47" ac="39" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1604268329200" pu="0" ac="3" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1604268329200" pu="0" ac="3" />
+</uid>
+</pkg>
+<pkg n="com.android.webview">
+<uid n="10102" p="false">
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tc="1620171428274" pu="0" ac="8" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tc="1620171428274" pu="0" ac="8" />
+</uid>
+</pkg>
+<pkg n="com.topjohnwu.magisk">
+<uid n="10103" p="false">
+<op n="45" ns="TOAST_WINDOW" dm="0" tt="1619912704592" tf="1620179617091" tb="1620179619074" tc="1620170805890" d="1984" ac="43" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1619912671580" tf="1620179617009" tc="1620179616779" pu="0" ac="85" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1619912671580" tf="1620179617009" tc="1620179616779" pu="0" ac="85" />
+<op n="66" ns="REQUEST_INSTALL_PACKAGES" m="0" tt="1619899233199" pu="0" ac="1" ic="1" />
+</uid>
+</pkg>
+<pkg n="com.whatsapp">
+<uid n="10104" p="false">
+<op n="3" ns="VIBRATE" dm="0" tt="1619967318702" tfs="1619911326687" tc="1619903708679" d="32" ac="9" />
+<op n="4" ns="READ_CONTACTS" dm="0" tt="1620176059839" tfs="1619911468956" tb="1620171430172" tc="1620171955862" pu="0" pp="com.android.providers.contacts" ac="501" />
+<op n="5" ns="WRITE_CONTACTS" dm="0" tt="1620176059204" tfs="1619911478095" tb="1620155233700" tc="1620179773983" pu="0" ac="386" />
+<op n="26" ns="CAMERA" dm="0" tt="1619903799931" d="2345" ac="1" />
+<op n="30" ns="WRITE_CLIPBOARD" dm="0" tt="1620000793137" pu="0" ac="1" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1620176074168" tfs="1619911505409" tb="1620176688144" tc="1620176074136" d="12" ac="192" />
+<op n="45" ns="TOAST_WINDOW" dm="0" tt="1620000795686" tb="1620000795291" d="2530" ac="1" />
+<op n="55" ns="USE_FINGERPRINT" dm="0" tt="1620176067099" tfs="1619906435396" pu="0" ac="348" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620176075511" tfs="1619911229722" tb="1620173231612" tc="1620173231135" pu="0" ac="850" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620176075511" tfs="1619911229722" tb="1620173231612" tc="1620173231135" pu="0" ac="822" />
+<op n="76" ns="START_FOREGROUND" dm="0" tt="1619986350844" tfs="1619911539309" tb="1619992987774" tc="1619992987774" d="6638543" ac="1" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993045547" pu="0" ac="2" />
+</uid>
+</pkg>
+<pkg n="com.google.android.keep">
+<uid n="10105" p="false">
+<op n="3" ns="VIBRATE" dm="0" tt="1619998156959" d="178" ac="10" />
+<op n="29" ns="READ_CLIPBOARD" dm="0" tt="1619998157149" pu="0" ac="11" />
+<op n="30" ns="WRITE_CLIPBOARD" dm="0" tt="1619998158531" pu="0" ac="4" />
+<op n="40" ns="WAKE_LOCK" dm="0" tt="1619998200577" tb="1620082261217" d="31" ac="22" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1605761229714" tc="1620169637163" pu="0" ac="19" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1605761229714" tc="1620169637163" pu="0" ac="19" />
+<op n="79" ns="BOOT_COMPLETED" dm="0" tb="1619993044999" tc="1619993044272" pu="0" ac="6" />
+</uid>
+</pkg>
+<pkg n="com.android.chrome">
+<uid n="10107" p="false">
+<op n="3" ns="VIBRATE" dm="0" tt="1620166351995" d="178" ac="13" />
+<op n="26" ns="CAMERA" dm="0" tt="1620170675497" pu="0" ac="4" />
+<op n="29" ns="READ_CLIPBOARD" dm="0" tt="1620091273477" pu="0" ac="31" />
+<op n="30" ns="WRITE_CLIPBOARD" dm="0" tt="1620091033137" pu="0" ac="1" />
+<op n="45" ns="TOAST_WINDOW" dm="0" tt="1620091035681" d="18595" ac="1" />
+<op n="59" ns="READ_EXTERNAL_STORAGE" dm="0" tt="1620091273870" tb="1620179775222" tc="1620179775044" pu="0" ac="168" />
+<op n="60" ns="WRITE_EXTERNAL_STORAGE" dm="0" tt="1620091273870" tb="1620179775222" tc="1620179775044" pu="0" ac="168" />
+</uid>
+</pkg>
+</app-ops>

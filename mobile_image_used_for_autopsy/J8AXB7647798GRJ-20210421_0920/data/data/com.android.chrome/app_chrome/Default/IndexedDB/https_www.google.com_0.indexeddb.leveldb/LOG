@@ -1,0 +1,39 @@
+2021/05/03-18:25:18.798 4074 Reusing MANIFEST /data/user/0/com.android.chrome/app_chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/03-18:25:18.798 4074 Recovering log #4
+2021/05/03-18:25:18.798 4074 Reusing old log /data/user/0/com.android.chrome/app_chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/000004.log 
+2021/05/03-18:26:21.406 407b Level-0 table #8: started
+2021/05/03-18:26:21.547 407b Level-0 table #8: 1190561 bytes OK
+2021/05/03-18:26:21.552 407b Delete type=0 #4
+2021/05/03-18:26:31.714 4076 Compacting 1@1 + 1@2 files
+2021/05/03-18:26:31.811 4076 Generated table #9@1: 3352 keys, 747522 bytes
+2021/05/03-18:26:31.811 4076 Compacted 1@1 + 1@2 files => 747522 bytes
+2021/05/03-18:26:31.816 4076 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/03-18:27:22.498 407b Level-0 table #11: started
+2021/05/03-18:27:22.636 407b Level-0 table #11: 1271401 bytes OK
+2021/05/03-18:27:22.643 407b Delete type=2 #8
+2021/05/03-18:27:22.643 407b Delete type=0 #7
+2021/05/03-18:27:22.643 407b Delete type=2 #5
+2021/05/03-18:27:32.850 4077 Compacting 1@1 + 1@2 files
+2021/05/03-18:27:32.967 4077 Generated table #12@1: 3744 keys, 896175 bytes
+2021/05/03-18:27:32.967 4077 Compacted 1@1 + 1@2 files => 896175 bytes
+2021/05/03-18:27:32.969 4077 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/03-18:28:53.843 4077 Level-0 table #14: started
+2021/05/03-18:28:53.938 4077 Level-0 table #14: 1189848 bytes OK
+2021/05/03-18:28:53.942 4077 Delete type=2 #11
+2021/05/03-18:28:53.942 4077 Delete type=0 #10
+2021/05/03-18:28:53.942 4077 Delete type=2 #9
+2021/05/03-18:28:53.978 4077 Compacting 1@1 + 1@2 files
+2021/05/03-18:28:54.122 4077 Generated table #15@1: 4185 keys, 1018232 bytes
+2021/05/03-18:28:54.122 4077 Compacted 1@1 + 1@2 files => 1018232 bytes
+2021/05/03-18:28:54.125 4077 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/03-18:28:54.126 4077 Delete type=2 #14
+2021/05/03-18:28:54.126 4077 Delete type=2 #12
+2021/05/03-18:29:44.741 4076 Level-0 table #17: started
+2021/05/03-18:29:44.860 4076 Level-0 table #17: 1301047 bytes OK
+2021/05/03-18:29:44.865 4076 Delete type=0 #13
+2021/05/03-18:32:09.937 4077 Compacting 1@1 + 1@2 files
+2021/05/03-18:32:10.067 4077 Generated table #18@1: 4386 keys, 1130208 bytes
+2021/05/03-18:32:10.067 4077 Compacted 1@1 + 1@2 files => 1130208 bytes
+2021/05/03-18:32:10.070 4077 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/03-18:32:10.071 4077 Delete type=2 #17
+2021/05/03-18:32:10.071 4077 Delete type=2 #15

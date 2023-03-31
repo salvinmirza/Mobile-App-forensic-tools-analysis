@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<settings version="169">
+  <setting id="128" name="hidden_api_access_log_sampling_rate" value="512" package="com.google.android.gms" />
+  <setting id="106" name="carrier_app_names" value="com.google.android.apps.tycho:Google Fi" package="com.google.android.gsf" />
+  <setting id="43" name="low_battery_sound_timeout" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="34" name="car_undock_sound" value="/system/media/audio/ui/Undock.ogg" package="android" defaultValue="/system/media/audio/ui/Undock.ogg" defaultSysSet="true" />
+  <setting id="214" name="Phenotype_boot_count" value="2" package="com.google.android.gms" />
+  <setting id="109" name="Phenotype_flags" value="alarm_manager_constants:alarm_manager_dummy_flags:always_on_display_constants:anomaly_config:anomaly_config_version:anomaly_detection_constants:app_idle_constants:app_standby_enabled:backup_agent_timeout_parameters:battery_stats_constants:battery_tip_constants:ble_scan_low_power_interval_ms:ble_scan_low_power_window_ms:blocking_helper_dismiss_to_view_ratio:blocking_helper_streak_limit:device_idle_constants:emergency_call_codes_data:gnss_satellite_blacklist:hidden_api_access_log_sampling_rate:hybrid_sysui_battery_warning_flags:job_scheduler_constants:location_background_throttle_interval_ms:network_watchlist_enabled:night_display_forced_auto_mode_available:notification_snooze_options:phenotype_test_setting:smart_replies_in_notifications_flags:sqlite_compatibility_wal_flags:sys_uidcpupower:text_classifier_constants:zram_enabled" package="com.google.android.gms" />
+  <setting id="172" name="development_settings_enabled" value="1" package="com.android.settings" defaultValue="1" defaultSysSet="true" />
+  <setting id="10" name="window_animation_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="81" name="_boot_Phenotype_flags" value="" package="com.google.android.gms" />
+  <setting id="119" name="battery_stats_constants" value="track_cpu_times_by_proc_state=false" package="com.google.android.gms" />
+  <setting id="124" name="blocking_helper_streak_limit" package="com.google.android.gms" />
+  <setting id="103" name="autofill_compat_allowed_packages" value="" package="com.google.android.gsf" />
+  <setting id="72" name="multi_sim_data_call" value="-1" package="com.android.phone" defaultValue="-1" defaultSysSet="true" />
+  <setting id="57" name="show_zen_settings_suggestion" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="100" name="verifier_timeout" value="17000" package="com.google.android.gsf" />
+  <setting id="125" name="device_idle_constants" value="light_after_inactive_to=180000,light_pre_idle_to=180000," package="com.google.android.gms" />
+  <setting id="9" name="mode_ringer" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="38" name="default_install_location" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="23" name="wifi_display_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="46" name="device_name" value="ASUS_X00TDB" package="android" defaultValue="ASUS_X00TDB" defaultSysSet="true" />
+  <setting id="14" name="wifi_networks_available_notification_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="209" name="zen_settings_updated" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="122" name="ble_scan_low_power_window_ms" value="512" package="com.google.android.gms" />
+  <setting id="30" name="dock_sounds_enabled_when_accessbility" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="152" name="bluetooth_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="239" name="text_classifier_constants" value="generate_links_max_text_length=10000" package="com.google.android.gsf" />
+  <setting id="19" name="mobile_data" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="236" name="network_watchlist_last_report_time" value="1620111600000" package="android" defaultValue="1620111600000" defaultSysSet="true" />
+  <setting id="47" name="database_creation_buildid" value="PQ3A.190801.002" package="android" defaultValue="PQ3A.190801.002" defaultSysSet="true" />
+  <setting id="39" name="emergency_tone" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="95" name="network_watchlist_db_content_url" value="https://www.gstatic.com/android/config_update/16072019-network-watchlist-content.txt" package="com.google.android.gsf" />
+  <setting id="96" name="cert_pin_content_url" value="https://www.gstatic.com/android/config_update/08202014-pins.txt" package="com.google.android.gsf" />
+  <setting id="55" name="max_sound_trigger_detection_service_ops_per_day" value="1000" package="android" defaultValue="1000" defaultSysSet="true" />
+  <setting id="48" name="add_users_when_locked" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="36" name="dock_audio_media_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="114" name="anomaly_config_version" value="10" package="com.google.android.gms" />
+  <setting id="126" name="emergency_call_codes_data" package="com.google.android.gms" />
+  <setting id="88" name="ble_scan_always_enabled" value="0" package="com.google.android.gms" />
+  <setting id="212" name="adb_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="26" name="trusted_sound" value="/system/media/audio/ui/Trusted.ogg" package="android" defaultValue="/system/media/audio/ui/Trusted.ogg" defaultSysSet="true" />
+  <setting id="25" name="unlock_sound" value="/system/media/audio/ui/Unlock.ogg" package="android" defaultValue="/system/media/audio/ui/Unlock.ogg" defaultSysSet="true" />
+  <setting id="74" name="config_primary_sub_is_setable" value="0" package="com.android.phone" defaultValue="0" defaultSysSet="true" />
+  <setting id="2" name="airplane_mode_radios" value="cell,bluetooth,wifi,nfc,wimax" package="android" defaultValue="cell,bluetooth,wifi,nfc,wimax" defaultSysSet="true" />
+  <setting id="22" name="wifi_max_dhcp_retry_count" value="9" package="android" defaultValue="9" defaultSysSet="true" />
+  <setting id="98" name="carrier_app_whitelist" value="4C36AF4A5BDAD97C1F3D8B283416D244496C2AC5EAFE8226079EF6F676FD1859:com.google.android.apps.tycho" package="com.google.android.gsf" />
+  <setting id="3" name="airplane_mode_toggleable_radios" value="bluetooth,wifi,nfc" package="android" defaultValue="bluetooth,wifi,nfc" defaultSysSet="true" />
+  <setting id="140" name="zram_enabled" value="1" package="com.google.android.gms" />
+  <setting id="45" name="heads_up_notifications_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="76" name="low_power" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="130" name="job_scheduler_constants" value="" package="com.google.android.gms" />
+  <setting id="60" name="charging_vibration_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="102" name="sms_short_codes_metadata_url" value="https://www.gstatic.com/android/config_update/05112020-sms-metadata.txt" package="com.google.android.gsf" />
+  <setting id="63" name="zen_mode_ringer_level" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="41" name="preferred_network_mode" value="20,20" package="android" defaultValue="20,20" defaultSysSet="true" />
+  <setting id="49" name="bluetooth_disabled_profiles" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="133" name="night_display_forced_auto_mode_available" value="0" package="com.google.android.gms" />
+  <setting id="105" name="send_action_app_error" value="1" package="com.google.android.gsf" />
+  <setting id="129" name="hybrid_sysui_battery_warning_flags" value="" package="com.google.android.gms" />
+  <setting id="32" name="desk_undock_sound" value="/system/media/audio/ui/Undock.ogg" package="android" defaultValue="/system/media/audio/ui/Undock.ogg" defaultSysSet="true" />
+  <setting id="54" name="zen_duration" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="52" name="mobile_data_always_on" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="127" name="gnss_satellite_blacklist" value="" package="com.google.android.gms" />
+  <setting id="173" name="debug_app" package="android" />
+  <setting id="65" name="webview_provider" value="com.android.webview" package="android" defaultValue="com.android.webview" defaultSysSet="true" />
+  <setting id="8" name="wifi_sleep_policy" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="85" name="device_provisioning_mobile_data" value="1" package="com.google.android.setupwizard" defaultValue="1" defaultSysSet="true" />
+  <setting id="29" name="dock_sounds_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="87" name="wifi_scan_always_enabled" value="0" package="com.google.android.gms" defaultValue="0" defaultSysSet="true" />
+  <setting id="69" name="network_recommendations_enabled" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="112" name="always_on_display_constants" package="com.google.android.gms" />
+  <setting id="137" name="sqlite_compatibility_wal_flags" value="" package="com.google.android.gms" />
+  <setting id="97" name="smart_selection_metadata_url" value="https://www.gstatic.com/android/text_classifier/p/v611/en.fb.metadata" package="com.google.android.gsf" />
+  <setting id="33" name="car_dock_sound" value="/system/media/audio/ui/Dock.ogg" package="android" defaultValue="/system/media/audio/ui/Dock.ogg" defaultSysSet="true" />
+  <setting id="56" name="sound_trigger_detection_service_op_timeout" value="15000" package="android" defaultValue="15000" defaultSysSet="true" />
+  <setting id="111" name="alarm_manager_dummy_flags" package="com.google.android.gms" />
+  <setting id="27" name="power_sounds_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="7" name="stay_on_while_plugged_in" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="131" name="location_background_throttle_interval_ms" value="600000" package="com.google.android.gms" />
+  <setting id="93" name="network_watchlist_db_metadata_url" value="https://www.gstatic.com/android/config_update/16072019-network-watchlist-metadata.txt" package="com.google.android.gsf" />
+  <setting id="91" name="package_verifier_user_consent" value="1" package="com.android.vending" />
+  <setting id="121" name="ble_scan_low_power_interval_ms" value="10240" package="com.google.android.gms" />
+  <setting id="237" name="zen_mode_config_etag" value="1173199925" package="android" defaultValue="1173199925" defaultSysSet="true" />
+  <setting id="37" name="set_install_location" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="94" name="network_scoring_ui_enabled" value="1" package="com.google.android.gsf" />
+  <setting id="62" name="zen_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="115" name="anomaly_detection_constants" package="com.google.android.gms" />
+  <setting id="11" name="transition_animation_scale" value="1.0" package="android" defaultValue="1.0" defaultSysSet="true" />
+  <setting id="134" name="notification_snooze_options" package="com.google.android.gms" />
+  <setting id="82" name="multi_cb" value="0" package="com.google.android.gms" />
+  <setting id="116" name="app_idle_constants" value="" package="com.google.android.gms" />
+  <setting id="17" name="data_roaming" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="110" name="alarm_manager_constants" value="" package="com.google.android.gms" />
+  <setting id="12" name="package_verifier_enable" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="99" name="smart_selection_content_url" value="https://www.gstatic.com/android/text_classifier/p/v611/en.fb" package="com.google.android.gsf" />
+  <setting id="1" name="theater_mode_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="16" name="cdma_cell_broadcast_sms" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="123" name="blocking_helper_dismiss_to_view_ratio" package="com.google.android.gms" />
+  <setting id="143" name="upload_apk_enable" value="1" package="com.android.vending" />
+  <setting id="0" name="airplane_mode_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="59" name="zen_settings_suggestion_viewed" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="51" name="default_restrict_background_data" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="28" name="low_battery_sound" value="/system/media/audio/ui/LowBattery.ogg" package="android" defaultValue="/system/media/audio/ui/LowBattery.ogg" defaultSysSet="true" />
+  <setting id="148" name="phenotype_test_setting" value="V15AboveDefault" package="com.google.android.gms" />
+  <setting id="132" name="network_watchlist_enabled" value="" package="com.google.android.gms" />
+  <setting id="174" name="wait_for_debugger" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="20" name="netstats_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="50" name="wifi_wakeup_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="117" name="app_standby_enabled" value="1" package="com.google.android.gms" />
+  <setting id="107" name="cert_pin_metadata_url" value="https://www.gstatic.com/android/config_update/08202014-metadata.txt" package="com.google.android.gsf" />
+  <setting id="42" name="subscription_mode" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="104" name="sms_short_codes_content_url" value="https://www.gstatic.com/android/config_update/05112020-sms-blacklist.txt" package="com.google.android.gsf" />
+  <setting id="86" name="assisted_gps_enabled" value="0" package="com.google.android.gsf" defaultValue="1" defaultSysSet="true" />
+  <setting id="136" name="smart_replies_in_notifications_flags" value="enabled=true,max_squeeze_remeasure_attempts=3,requires_targeting_p=true" package="com.google.android.gms" />
+  <setting id="24" name="lock_sound" value="/system/media/audio/ui/Lock.ogg" package="android" defaultValue="/system/media/audio/ui/Lock.ogg" defaultSysSet="true" />
+  <setting id="6" name="auto_time_zone" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="240" name="wifi_on" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="53" name="wireless_charging_started_sound" value="/system/media/audio/ui/ChargingStarted.ogg" package="android" defaultValue="/system/media/audio/ui/ChargingStarted.ogg" defaultSysSet="true" />
+  <setting id="90" name="device_provisioned" value="1" package="com.google.android.setupwizard" defaultValue="1" defaultSysSet="true" />
+  <setting id="113" name="anomaly_config" value="CK6+4PuMlo/i8AEynAEI6c3IgeST0K0kELvz06TjncvVBBitkPjigru9pM0BIiEI6ZKsuOe8h9OqARIMCAoaCAgBEAEaAggBGgYIGxoCCAEiIAiGjaiwkfWQ/EsSDAgKGggIARABGgIIARoGCBsaAggBIiAIkpCKosXW0OVGEgwIChoICAEQARoCCAEaBggbGgIIASgCMhAIChoICAEQARoCCAEaAggDOAYyLAiHs8y+zY7y/7EBEI6FmsnH78GR3gEY0NmVsIuQwch5KAIyBggbGgIIATgGOhYI1NiSr5fqk4ySARIJCBsSBQgCKPAHOhYI7LnzouKvotrMARIJCBsSBQgCKPcHOhYI9O/GoP6pg4T4ARIJCBsSBQgCKPgHOhUI9bWF58jOt45CEgkIGxIFCAIo+gc6FQitpb/A8u+RsWESCQgbEgUIAij5BzoWCKjGusD1tcjvuQESCQgbEgUIAij1BzoWCOPvqcq9mJqhrgESCQgbEgUIAijuBzoVCKXDr5ztheKldxIJCBsSBQgCKPYHOhYI5b3Iws/yk97zARIJCBsSBQgCKPsHOhYIt/Pp9cmplvTMARIJCBsSBQgCKPIHOhUIjvWdga2hkPFFEgkIGxIFCAIo8Qc6FQifyurNmKif0QUSCQgbEgUIAijvBzpDCKiTyaWwjcHtPxo3CAIQ4++pyr2YmqGuARCfyurNmKif0QUQ1NiSr5fqk4ySARCO9Z2BraGQ8UUQt/Pp9cmplvTMATpNCNWB05eo/5D2JxpBCAIQqMa6wPW1yO+5ARClw6+c7YXipXcQ7LnzouKvotrMARD078ag/qmDhPgBEK2lv8Dy75GxYRD1tYXnyM63jkI6GQibiY3mlemBj2AaDQgDEOW9yMLP8pPe8wE6GAj/5Kvcqcn/33kaDAgDEKiTyaWwjcHtPzoZCOLl+4Lc8p7l2wEaDAgDENWB05eo/5D2JzoaCNmk0JyQw/jaxAEaDQgDEOan4PuavcSmpgE6Ggi8ysKcxv314Q8SDggKEgQIAigBEgQIBCgBOhoIhICWy7mVt9xZEg4IChIECAIoARIECAQoAzobCLay5qSPifLNzwESDggKEgQIAigBEgQIBCgCOiMI+dWB4MCZ/etaGhcIAhC157i8/f/RjSkQtrLmpI+J8s3PATojCPjt0b/3tayHqQEaFggCELzKwpzG/fXhDxCEgJbLuZW33Fk6Ggi157i8/f/RjSkSDggKEgQIAigBEgQIBCgAOi0Inu+j5I/N2KejARogCAIQkeLz5Lnzu+sDELC3qNLu85/7SBD70IGupP7a8xM6FAiR4vPkufO76wMSCAggEgQIASgBOhUIqeGaxb+//ZvKARIICCASBAgBKAA6FAiwt6jS7vOf+0gSCAggEgQIASgCOhQI+9CBrqT+2vMTEggIIBIECAEoBDoVCOeU9/2D5NGPgQESCAgdEgQIASgDOhUIw9z5kfqW0Yr1ARIICB0SBAgBKAQ6FQiS3rLIm7OQr4QBEggIHRIECAEoAToVCMHA5pWkiu+dugESCAgdEgQIASgCOhUI8dHn7uvQt8eRARIICB0SBAgBKAY6FAiC/Mb3ltDQwFgSCAgdEgQIASgAOhUIj82Jo4eDup3RARIICB0SBAgBKAU6OQiNmbqO1JbtlCIaLQgCEJLessibs5CvhAEQ55T3/YPk0Y+BARDD3PmR+pbRivUBEIL8xveW0NDAWDovCJ7Itp6V3oroKBojCAIQwcDmlaSK7526ARDx0efu69C3x5EBEI/NiaOHg7qd0QE6Ogjmp+D7mr3EpqYBGi0IAhDj76nKvZiaoa4BENTYkq+X6pOMkgEQjvWdga2hkPFFELfz6fXJqZb0zAFCLAjpkqy457yH06oBEh8I5b3Iws/yk97zARCbiY3mlemBj2AYADIGCBsaAggBQiQIibHW0LmIltT1ARoXCAEQ6ZKsuOe8h9OqARDQ2ZWwi5DByHlCIwitkPjigru9pM0BGhYIARD9+8y4zq2h53AQ84S9vtic3559Qi0I/fvMuM6toedwGiEIAhDjnKyA65/YuTwQp/O5sOqrrpN1EImx1tC5iJbU9QFCLQiOhZrJx+/Bkd4BEiAI5qfg+5q9xKamARDZpNCckMP42sQBGAAyBggbGgIIAUIiCOOcrIDrn9i5PBoWCAEQkpCKosXW0OVGENDZlbCLkMHIeUIqCJKQiqLF1tDlRhIeCKiTyaWwjcHtPxD/5Kvcqcn/33kYADIGCBsaAggBQiIIp/O5sOqrrpN1GhYIARCGjaiwkfWQ/EsQ0NmVsIuQwch5QisIho2osJH1kPxLEh8I1YHTl6j/kPYnEOLl+4Lc8p7l2wEYADIGCBsaAggBQiQI0NmVsIuQwch5EhgIqeGaxb+//ZvKARCe76Pkj83Yp6MBGABCNQi789Ok453L1QQSKQj47dG/97Wsh6kBEPnVgeDAmf3rWhgAMhAIChoMCAEQARoCCAEaAggCQiII84S9vtic3559EhYIjZm6jtSW7ZQiEJ7Itp6V3oroKBgASiMIyff54PmgudADEOnNyIHkk9CtJBgBIMDRAikAAADFhTGKQkokCJDa/vacv731YxCHs8y+zY7y/7EBGAEgwNECKQAAwFMkpcNCWkIIxoqItryKr5TzARACGMn3+eD5oLnQAzIpCAESJWFub21hbHlfdHlwZT0xLGF1dG9fcmVzdHJpY3Rpb249ZmFsc2VaQQi8r9W1r/b7pSkQAhiQ2v72nL+99WMyKQgBEiVhbm9tYWx5X3R5cGU9NCxhdXRvX3Jlc3RyaWN0aW9uPWZhbHNlWkEItInU0prn6LxQEAIYyff54PmgudADMikIAhIlYW5vbWFseV90eXBlPTEsYXV0b19yZXN0cmljdGlvbj1mYWxzZVpBCJzcouCB4/vhHxACGJDa/vacv731YzIpCAISJWFub21hbHlfdHlwZT00LGF1dG9fcmVzdHJpY3Rpb249ZmFsc2ViCkFJRF9TWVNURU1iCEFJRF9ST09UYgpBSURfU1RBVFNEYg1BSURfQkxVRVRPT1RIwD4C" package="com.google.android.gms" />
+  <setting id="67" name="emergency_affordance_needed" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="120" name="battery_tip_constants" value="app_restriction_enabled=true" package="com.google.android.gms" />
+  <setting id="75" name="sysui_demo_allowed" package="com.android.systemui" />
+  <setting id="234" name="auto_time" value="1" package="com.android.settings" defaultValue="1" defaultSysSet="true" />
+  <setting id="108" name="autofill_compat_mode_allowed_packages" value="com.android.chrome[url_bar]:com.brave.browser[url_bar]:com.brave.browser_beta[url_bar]:com.brave.browser_nightly[url_bar]:com.chrome.beta[url_bar]:com.chrome.dev[url_bar]:com.chrome.canary[url_bar]:com.microsoft.emmx[url_bar]:com.opera.browser[url_field]:com.opera.browser.beta[url_bar]:com.opera.mini.native[url_bar]:com.opera.mini.native.beta[url_bar]:com.sec.android.app.sbrowser[location_bar_edit_text]:com.sec.android.app.sbrowser.beta[location_bar_edit_text]:org.mozilla.fennec_aurora[url_bar]:org.mozilla.firefox[url_bar]:org.mozilla.firefox_beta[url_bar]" package="com.google.android.gsf" />
+  <setting id="21" name="usb_mass_storage_enabled" value="1" package="android" defaultValue="1" defaultSysSet="true" />
+  <setting id="138" name="sys_uidcpupower" value="" package="com.google.android.gms" />
+  <setting id="73" name="multi_sim_voice_call" value="2147483643" package="com.android.phone" defaultValue="2147483643" defaultSysSet="true" />
+  <setting id="40" name="call_auto_retry" value="0" package="android" defaultValue="0" defaultSysSet="true" />
+  <setting id="83" name="audio_safe_volume_state" value="3" package="android" defaultValue="3" defaultSysSet="true" />
+  <setting id="211" name="boot_count" value="2" package="android" defaultValue="2" defaultSysSet="true" />
+  <setting id="31" name="desk_dock_sound" value="/system/media/audio/ui/Dock.ogg" package="android" defaultValue="/system/media/audio/ui/Dock.ogg" defaultSysSet="true" />
+  <setting id="118" name="backup_agent_timeout_parameters" value="" package="com.google.android.gms" />
+</settings>

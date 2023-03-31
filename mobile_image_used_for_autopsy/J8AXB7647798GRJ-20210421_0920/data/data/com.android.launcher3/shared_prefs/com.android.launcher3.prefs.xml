@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="migration_src_workspace_size">4,5</string>
+    <boolean name="launcher.apps_view_shown" value="true" />
+    <boolean name="pref_add_icon_to_home" value="true" />
+    <int name="migration_src_hotseat_count" value="5" />
+    <boolean name="pref_add_icon_to_home_initialized" value="true" />
+    <boolean name="launcher.shelf_bounce_seen" value="true" />
+</map>

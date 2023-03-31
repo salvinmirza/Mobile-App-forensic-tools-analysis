@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="confirm-send" value="false" />
+    <boolean name="conversation-list-sender-image" value="true" />
+    <boolean name="confirm-delete" value="false" />
+    <int name="auto-advance-mode" value="3" />
+    <int name="migrated-version" value="4" />
+    <set name="display_images" />
+    <int name="prefs-version-number" value="4" />
+</map>

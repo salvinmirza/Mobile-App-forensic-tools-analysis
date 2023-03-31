@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="1">gnpfesdk-pa.googleapis.com</string>
+    <long name="2" value="443" />
+    <string name="3"></string>
+    <string name="__phenotype_snapshot_token"> com.google.android.libraries.notifications.platform#com.google.android.keep 211410340 1 2130117802 com.google.android.libraries.notifications.platform#com.google.android.keep 2130117802 0</string>
+    <string name="5"></string>
+    <string name="__phenotype_server_token">CAESKQDyi0h8PiwkKuwL66ayTQ9Gx6lgnB2F2bQ8D0rICBZgy5f8JUpTaTxZ</string>
+    <long name="__phenotype_configuration_version" value="1619965500" />
+</map>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="control.installation.current_update_url"></string>
+    <string name="control.installation.progress_notified_at">106751</string>
+    <string name="control.log.last_event_log_timestamp">1611691559952</string>
+    <string name="control.device.last_system_time_millis">1620171969324</string>
+    <string name="control.installation.status">0</string>
+    <string name="control.installation.progress">-1.0</string>
+    <string name="control.device.boot_count">2</string>
+    <string name="control.device.provisioned_at">1586087176023</string>
+    <string name="control.log.heart_beat_task_scheduled">false</string>
+    <string name="control.installation.device_policy_updated_at">1554409227037</string>
+    <string name="control.experiment.exp_name_space_key"></string>
+    <string name="control.event.pending_events"></string>
+    <string name="execution.current_action_params"></string>
+    <string name="control.device.reboot_count">1</string>
+    <string name="logging.clearcut_event_logger.current_execution_id">106674</string>
+    <string name="control.experiment.exp_id_key"></string>
+    <string name="execution.current_execution_id">106674</string>
+    <string name="control.experiment.exp_log_source_key">ANDROID_OTA</string>
+    <string name="control.device.last_elapsed_realtime">178962245</string>
+    <string name="control.log.last_event_log_hash_code">961</string>
+    <string name="execution.current_action_name">finished-execution</string>
+    <string name="control.device.last_device_off_period">82431355</string>
+</map>

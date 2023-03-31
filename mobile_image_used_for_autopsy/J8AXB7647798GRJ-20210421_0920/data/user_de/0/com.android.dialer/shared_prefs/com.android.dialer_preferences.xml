@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="last_tab" value="2" />
+    <boolean name="phone_account_dependent_is_account_activated_E" value="false" />
+</map>

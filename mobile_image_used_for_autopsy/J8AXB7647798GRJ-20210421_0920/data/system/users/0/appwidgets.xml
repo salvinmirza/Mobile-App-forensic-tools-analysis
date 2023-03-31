@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<gs version="1">
+<p pkg="com.google.android.googlequicksearchbox" cl="com.google.android.googlequicksearchbox.SearchWidgetProvider" tag="7" />
+<p pkg="org.lineageos.lockclock" cl="org.lineageos.lockclock.ClockWidgetProvider" tag="c" />
+<h pkg="com.android.launcher3" id="400" tag="0" />
+<g id="3" rid="0" h="0" p="c" min_width="140" min_height="71" max_width="234" max_height="ba" host_category="1" />
+<g id="2" rid="0" h="0" p="7" min_width="140" min_height="30" max_width="234" max_height="55" host_category="1" />
+</gs>

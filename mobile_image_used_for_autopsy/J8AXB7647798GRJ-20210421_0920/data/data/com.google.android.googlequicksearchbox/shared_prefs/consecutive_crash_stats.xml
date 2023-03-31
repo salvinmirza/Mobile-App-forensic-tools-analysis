@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="consecutive_crash_count" value="0" />
+    <boolean name="gsa_crashed_last_time" value="false" />
+</map>

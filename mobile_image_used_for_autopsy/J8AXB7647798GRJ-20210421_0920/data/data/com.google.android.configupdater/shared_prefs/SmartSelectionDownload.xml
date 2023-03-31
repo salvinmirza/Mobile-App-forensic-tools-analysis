@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="CONTENT_URL">https://www.gstatic.com/android/text_classifier/p/v611/en.fb</string>
+    <string name="METADATA_URL">https://www.gstatic.com/android/text_classifier/p/v611/en.fb.metadata</string>
+</map>

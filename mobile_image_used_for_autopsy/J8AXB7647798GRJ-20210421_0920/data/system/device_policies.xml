@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<policies setup-complete="true">
+<admin name="com.google.android.gms/com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver">
+<policies flags="540" />
+<strong-auth-unlock-timeout value="0" />
+</admin>
+<admin name="com.google.android.gms/com.google.android.gms.auth.managed.admin.DeviceAdminReceiver">
+<policies flags="1" />
+<strong-auth-unlock-timeout value="0" />
+</admin>
+<password-validity value="true" />
+<lock-task-features value="16" />
+</policies>

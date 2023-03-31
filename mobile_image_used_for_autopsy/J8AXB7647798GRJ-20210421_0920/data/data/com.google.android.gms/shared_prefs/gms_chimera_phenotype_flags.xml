@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Chimera__show_chimera_settings" value="false" />
+    <boolean name="DeviceDoctor__restart_process_when_requested_by_fix" value="true" />
+    <boolean name="ServiceTracking__enable_service_availability_files_cleanup" value="true" />
+    <boolean name="Scheduler__enable_recording_scheduler_doze_events" value="false" />
+    <boolean name="GoogleSettings__enable_subcategories" value="false" />
+    <boolean name="stats_wakeLocks_enable_work_chains_pi" value="true" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_people" value="false" />
+    <boolean name="DeviceDoctor__process_results_already_done_fixes_enabled" value="true" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_mobiledataplan" value="false" />
+    <boolean name="DeviceDoctor__disable_modules_enabled" value="true" />
+    <boolean name="ChimeraCriticalPath__enable_proto_event_logs" value="false" />
+    <string name="nts.task_filter"></string>
+    <string name="ChimeraCriticalPath__blacklisted_modules_with_versions"></string>
+    <long name="Tracing__random_initialization_modulus" value="20" />
+    <boolean name="ServiceTracking__enable_providence_status_code_refactor_safety_net" value="true" />
+    <boolean name="LocationUtilsFeature__location_pending_intent_restriction" value="true" />
+    <boolean name="SchedulerTasksExperiments__enable_update_current_if_different_for_tap_and_pay_tasks" value="true" />
+    <boolean name="SafeBoot__safeboot_check_system_groups" value="true" />
+    <boolean name="ServiceTracking__enable_service_availability_logging_v2" value="false" />
+    <boolean name="WorkChainsPi__enable_retrieve_attribution_from_trace" value="true" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_charging_restrictions_for_telephonyspam_tasks" value="false" />
+    <boolean name="GacMigration__remove_gac_manage_space_chimera_activity" value="true" />
+    <string name="ChimeraCriticalPath__allowed_container_optional_features_when_unprovisioned"></string>
+    <boolean name="StrictModeFeature__enable_flogger" value="true" />
+    <long name="Tracing__high_frequency_tracing_duration" value="60" />
+    <boolean name="ChimeraCriticalPath__enable_critical_path_flag_refresh_receiver" value="false" />
+    <boolean name="SchedulerClearcutLogging__enable_logging_task_uptime" value="true" />
+    <float name="WakelockMetrics__timeout_multiplier" value="10.0" />
+    <boolean name="WatchcatFeature__restart_fix_should_apply_enabled" value="true" />
+    <long name="KeyValuePreferencesFeature__dark_launch_diff_sampling_interval" value="0" />
+    <long name="DeviceDoctor__fixer_framework_seconds_non_complete_fix_is_valid" value="3600" />
+    <boolean name="ChimeraCriticalPath__auto_enable_components" value="true" />
+    <long name="Primes__upload_interval_millis" value="86400000" />
+    <boolean name="DeviceDoctor__use_fixer_context_to_get_recent_fixes_deferred" value="true" />
+    <boolean name="Tracing__include_intent_hash" value="false" />
+    <boolean name="DeviceDoctor__fixer_framework_enabled" value="true" />
+    <boolean name="OzTrafficShutdown__oz_traffic_shutdown_lookup_enabled" value="true" />
+    <boolean name="SchedulerTracing__avoid_begin_span_without_trace" value="true" />
+    <string name="latency_service_whitelist">*</string>
+    <boolean name="GoogleSettings__use_android_license_activity" value="true" />
+    <boolean name="Network__enable_cronet_for_backup" value="false" />
+    <boolean name="UncertifiedDevice__generate_notification_in_preprocessor" value="true" />
+    <boolean name="Chimera__disable_container_optional_module_download" value="false" />
+    <boolean name="SafeBoot__run_safeboot_in_attach_base_context" value="false" />
+    <boolean name="WakelockMetrics__report_idle_state" value="true" />
+    <boolean name="TestcodeTest__enable_test_code" value="false" />
+    <boolean name="PeriodicRestarts__enable_periodic_restarts_on_persistent_process" value="false" />
+    <long name="Primes__throttler_interval_seconds" value="1800" />
+    <boolean name="CommonAnalytics__system_health_log_post_chimera_update_enabled" value="true" />
+    <boolean name="AppFeature__initialize_task_graph" value="false" />
+    <boolean name="Chimera__enable_finsky_app_module_dependency_service" value="true" />
+    <boolean name="enable_usage_reporting" value="true" />
+    <long name="Tracing__expensive_trace_warn_cpu_ms" value="10000" />
+    <float name="WakelockMetrics__deadline_multiplier" value="100.0" />
+    <boolean name="Network__use_http_url_connection_instead_of_https_in_ads" value="false" />
+    <string name="AppFeature__common_gservices_prefixes">gms:common:,Chimera__,ChimeraCriticalPath__,ClientLogging__,DirectBoot__,location:</string>
+    <boolean name="GoogleSettings__override_up_action_behavior" value="true" />
+    <boolean name="Scheduler__enable_more_restrictive_charging_defaults" value="true" />
+    <string name="SchedulerTasksExperiments__preferred_network_restrictions_experiment_task_filter"></string>
+    <boolean name="Tracing__enable_activity_base_sample_rate" value="true" />
+    <boolean name="Primes__include_device_encrypted_dir_stats" value="true" />
+    <boolean name="Primes__enable_primes_package" value="true" />
+    <boolean name="SchedulerDebug__allow_triggering_secondary_user_debug_tasks_for_0p" value="false" />
+    <string name="stats_wakeLocks_timeout_overrides">ChoKCkNhclNlcnZpY2USB19fYW55X18YgLiZKQomChZub24tc3RyZWFtaW5nLWFiLWFwcGx5EgdfX2FueV9fGIC4mSkKHwoPc3RyZWFtaW5nLWFwcGx5EgdfX2FueV9fGIC4mSkKLAocVXBkYXRlRnJvbVNkQ2FyZFZlcmlmaWVyVGFzaxIHX19hbnlfXxiAuJkpClUKRWNvbS5nb29nbGUuYW5kcm9pZC5nbXMuYmFja3VwLmNvbXBvbmVudC5EMmRTb3VyY2VTZXJ2aWNlLndha2Vsb2NrX3RhZxIHX19hbnlfXxiAuJkpCiIKElRhY2h5b25Qcm94aW1pdHlXTBIHX19hbnlfXxiAuJkpCi4KHm5lYXJieTpFeHBvc3VyZU1hdGNoaW5nU2VydmljZRIHX19hbnlfXxiAuJkpCi0KHUNBTExfQUNUSVZJVFlfU0NSRUVOX1dBS0VMT0NLEgdfX2FueV9fGIC4mSkKGAoJQ0FSLkZJUlNUEgdfX2FueV9fGKD+CgojChRObHBDb2xsZWN0b3JXYWtlTG9jaxIHX19hbnlfXxjA/BUKOgoUTmxwQ29sbGVjdG9yV2FrZUxvY2sSHk5ldHdvcmtMb2NhdGlvbkFjdGl2ZUNvbGxlY3Rvchjg1AMKGgoLTmxwV2FrZUxvY2sSB19fYW55X18YsOoBCjAKC05scFdha2VMb2NrEh1OZXR3b3JrTG9jYXRpb25TZW5zb3JVcGxvYWRlchjg1AMKLgofbWVzc2FnaW5nX3NlcnZpY2Vfd29ya193YWtlbG9jaxIHX19hbnlfXxjg1AMKLgofcmVnaXN0ZXJfc2VydmljZV9zdGFydF93YWtlbG9jaxIHX19hbnlfXxjAmgw</string>
+    <long name="Tracing__lightweight_throttle_sec" value="1" />
+    <boolean name="Bug116753498__suppressEnabled" value="false" />
+    <boolean name="SchedulerPowerSaverMode__enable_allowed_tasks_only_for_0p" value="false" />
+    <boolean name="Chimera__eligible_for_chimera_test" value="false" />
+    <boolean name="SchedulerClearcutLogging__enable_logging_loggable_tags" value="true" />
+    <boolean name="Scheduler__enable_dumping_timeout" value="true" />
+    <boolean name="Primes__disable_legacy_timer_configuration_registration" value="false" />
+    <boolean name="Chimera__blacklist_intent_operation_on_exception" value="true" />
+    <boolean name="CoreStats__enable_wakelock_gcore_prefix" value="true" />
+    <boolean name="CoreStats__trace_aggregate_upload" value="false" />
+    <boolean name="ChimeraCriticalPath__remove_rejected_module_sets" value="false" />
+    <boolean name="ChimeraCriticalPath__enable_sticky_features" value="true" />
+    <boolean name="Network__enable_centralized_cronet_for_grpc_server" value="false" />
+    <boolean name="stats:allow_non_googler_upload" value="false" />
+    <float name="SchedulerTasksExperiments__periodic_task_frequency_multiplier" value="1.0" />
+    <boolean name="OzTrafficShutdown__oz_traffic_shutdown_list_enabled" value="true" />
+    <boolean name="Tracing__context_wrap_chimera" value="true" />
+    <long name="Tracing__aggregates_period_seconds" value="600" />
+    <string name="Scheduler__stop_rescheduling_timed_out_gmscore_tasks_filter">-com.google.android.gms/.feedback.OfflineReportSendTaskService:*</string>
+    <boolean name="Tracing__improved_binder_tracing_name" value="true" />
+    <boolean name="ProtoVerifier__proto_verifier_enabled" value="true" />
+    <boolean name="Tracing__context_wrap_application_context" value="true" />
+    <string name="Chimera__module_set_list">CnQKGwoHYWRzX2ZkchCtrM3tBxiBAiDg18atm8HfAxJAChRBZHNGZHJEeW5hbWl0ZS5pbnRlZxoTCgxhZHMuZHluYW1pdGUQhN7HZCIPMjEwODkwNTAwMTAwMDAwKAEwAioTCgxhZHMuZHluYW1pdGUQhN7HZAqgAQoQCgRraWRzEPJ5GAEgqNqyShJQCgpLaWRzLmludGVnEPJ5GggKBGtpZHMQBRoSCg5raWRzX2Rhc2hib2FyZBACGhYKEmtpZHNfbGF1bmNoZXJfbW9kZRABIgkxNTYwMjAwMDgqCgoEa2lkcxAFGAEqFAoOa2lkc19kYXNoYm9hcmQQAhgBKhgKEmtpZHNfbGF1bmNoZXJfbW9kZRABGAEK3AIKGAoEa2lkcxD3p5DtBxiBAiDg5JSNjqTfAxKpAQoKS2lkcy5pbnRlZxoICgRraWRzEAUaEgoOa2lkc19kYXNoYm9hcmQQAhonCiNraWRzX2dldF9wYXJlbnRfdmVyaWZpY2F0aW9uX2ludGVudBABGigKJGtpZHNfc2NyZWVudGltZV9yZXN0cmljdGlvbl9jYWxsYmFjaxACGhUKEWtpZHNfdHJhbnNwYXJlbmN5EAEiDzIxMDc5MDUwMTEwMDAwMCgAMAAqCgoEa2lkcxAFGAEqFAoOa2lkc19kYXNoYm9hcmQQAhgBKisKI2tpZHNfZ2V0X3BhcmVudF92ZXJpZmljYXRpb25faW50ZW50EAEYASgBKiwKJGtpZHNfc2NyZWVudGltZV9yZXN0cmljdGlvbl9jYWxsYmFjaxACGAEoASoXChFraWRzX3RyYW5zcGFyZW5jeRABGAEK3AIKGAoEa2lkcxDdpcfuBxiBAiDg75i+rvvfAxKpAQoKS2lkcy5pbnRlZxoICgRraWRzEAUaEgoOa2lkc19kYXNoYm9hcmQQAhonCiNraWRzX2dldF9wYXJlbnRfdmVyaWZpY2F0aW9uX2ludGVudBABGigKJGtpZHNfc2NyZWVudGltZV9yZXN0cmljdGlvbl9jYWxsYmFjaxACGhUKEWtpZHNfdHJhbnNwYXJlbmN5EAEiDzIxMTA5MDMwMDEwMDAwMCgAMAAqCgoEa2lkcxAFGAEqFAoOa2lkc19kYXNoYm9hcmQQAhgBKisKI2tpZHNfZ2V0X3BhcmVudF92ZXJpZmljYXRpb25faW50ZW50EAEYASgBKiwKJGtpZHNfc2NyZWVudGltZV9yZXN0cmljdGlvbl9jYWxsYmFjaxACGAEoASoXChFraWRzX3RyYW5zcGFyZW5jeRABGAEK3AIKGAoEa2lkcxC1q/7vBxiBAiDgu+rQ0tLgAxKpAQoKS2lkcy5pbnRlZxoICgRraWRzEAUaEgoOa2lkc19kYXNoYm9hcmQQAhonCiNraWRzX2dldF9wYXJlbnRfdmVyaWZpY2F0aW9uX2ludGVudBABGigKJGtpZHNfc2NyZWVudGltZV9yZXN0cmljdGlvbl9jYWxsYmFjaxACGhUKEWtpZHNfdHJhbnNwYXJlbmN5EAEiDzIxMTM5MDIwMDEwMDAwMCgAMAAqCgoEa2lkcxAFGAEqFAoOa2lkc19kYXNoYm9hcmQQAhgBKisKI2tpZHNfZ2V0X3BhcmVudF92ZXJpZmljYXRpb25faW50ZW50EAEYASgBKiwKJGtpZHNfc2NyZWVudGltZV9yZXN0cmljdGlvbl9jYWxsYmFjaxACGAEoASoXChFraWRzX3RyYW5zcGFyZW5jeRABGAEKQwobCgdlbnByb21vEJ/Ho+sHGIECIODY6dmbs94DEiQKDUVucHJvbW8uaW50ZWciDzIxMDQwMjYwMTEwMDAwMCgAMAAKQwobCgdlbnByb21vEJvGo+wHGIECIOCG8dqf8N4DEiQKDUVucHJvbW8uaW50ZWciDzIxMDYxMjMwMzEwMDAwMCgAMAAKQwobCgdlbnByb21vEJnmw/AHGIECIOD9hovi8+ADEiQKDUVucHJvbW8uaW50ZWciDzIxMTUwNDAwMjEwMDAwMCgAMAAKIAoeChB2aXNpb25fYmxvY2tsaXN0ELyMBhgAIMCPrtwD</string>
+    <boolean name="Grpc__enable_android_channel_network_monitoring" value="false" />
+    <boolean name="GacMigration__remove_gac_system_health_utils" value="true" />
+    <boolean name="Cronet__stop_memorize_in_lazy_cronet_engine" value="false" />
+    <boolean name="ChimeraCriticalPath__enable_embedded_apk_extraction_prioritization" value="false" />
+    <boolean name="Primes__enable_primes_memory" value="false" />
+    <long name="Tracing__lightweight_sample_duration_ms" value="5000" />
+    <boolean name="Primes__enable_latency_logging_hash_rotation" value="false" />
+    <boolean name="Chimera__enable_games_feature_parser" value="false" />
+    <float name="StrictModeFeature__flogger_sampling_rate" value="1.0" />
+    <boolean name="Primes__register_primes_timer" value="true" />
+    <boolean name="Primes__enable_primes_network" value="false" />
+    <boolean name="ChimeraCriticalPath__disable_standalone_dynamite_loader" value="false" />
+    <boolean name="Tracing__enable_custom_event_loop_tracing" value="true" />
+    <boolean name="ServiceVisibility__enable_full_launch" value="true" />
+    <boolean name="CoreStats__schedule_yesterday_task" value="false" />
+    <boolean name="ChimeraCriticalPath__enable_content_provider_load_impl_bump_priority" value="true" />
+    <boolean name="OzTrafficShutdown__oz_traffic_shutdown_get_enabled" value="true" />
+    <string name="ServiceVisibility__service_ids_common_full_launch">124,29,130,167,38,139,28,50,25,43,5,35</string>
+    <string name="Notifications__blocked_modules"></string>
+    <long name="stats:network_usage:interval_in_seconds" value="7200" />
+    <boolean name="Primes__enable_primes" value="true" />
+    <float name="Primes__tracing_sampling_probability" value="0.001" />
+    <boolean name="Chimera__enable_chimera_download_stats_logging" value="false" />
+    <long name="SchedulerPowerSaverMode__critical_allowlist_mode_enabled_if_battery_level_is_no_greater_than" value="-1" />
+    <boolean name="Primes__enable_primes_network_logging_for_cronet" value="false" />
+    <float name="Bug116753498__suppress_crash_probability" value="1.0" />
+    <boolean name="ChimeraCriticalPath__unique_module_application_contexts" value="false" />
+    <boolean name="ChimeraCriticalPath__enable_dynamite_process_killed_logging" value="false" />
+    <boolean name="ServiceTracking__enable_providence_status_code_refactor" value="true" />
+    <boolean name="DeviceDoctor__enable_process_stable_feature_flag_read" value="true" />
+    <boolean name="Providence__enable_legacy_service_state_update" value="false" />
+    <boolean name="SchedulerClearcutLogging__enable_logs" value="true" />
+    <boolean name="AutoPermissions__enable_auto_permissions" value="true" />
+    <string name="SchedulerTasksExperiments__periodic_task_frequency_multiplier_task_filter">-*/*:*</string>
+    <long name="Primes__package_stats_collection_interval_hours" value="24" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_charging_restrictions_for_all_tasks" value="false" />
+    <boolean name="Primes__enable_primes_profiling" value="false" />
+    <long name="CoreStats__trace_upload_maximum_time_milliseconds" value="172800000" />
+    <long name="Primes__trace_sampling_scale_down_interval_milliseconds" value="7200000" />
+    <boolean name="Chimera__use_new_lifecycle_management_in_intent_operation_service" value="true" />
+    <boolean name="Chimera__use_processing_thread_in_intent_operation_service" value="true" />
+    <boolean name="Providence__enable_future_based_async_operation" value="true" />
+    <boolean name="Network__enable_cronet_http_channel_for_autofill" value="false" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_herrevad" value="false" />
+    <boolean name="Common__android_tv_feature_flag_enabled" value="true" />
+    <boolean name="SchedulerTasksExperiments__force_1p_3p_tasks_to_wait_for_charging" value="false" />
+    <long name="ChimeraCheckin__config_checkin_initial_backoff_seconds" value="3600" />
+    <long name="PaymentsRelease__overall_experiment_id" value="0" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_charging_restrictions_for_auth_folsom_task" value="false" />
+    <float name="DeviceDoctor__shush_crash_force_popup_probability" value="0.0" />
+    <long name="Primes__throttler_initial_events" value="2" />
+    <boolean name="ChimeraCriticalPath__use_broadcast_service" value="false" />
+    <long name="Chimera__wait_for_phenotype_sync_timeout_seconds" value="60" />
+    <boolean name="Common__enable_safe_unbind" value="true" />
+    <float name="ClientLogging__sampling_rate_severe" value="0.01" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_icing" value="false" />
+    <boolean name="Scheduler__enable_bound_service_api_v2" value="false" />
+    <float name="ClientLogging__sampling_rate_warning" value="0.001" />
+    <boolean name="CollectLib__use_compact_collection_factory" value="false" />
+    <boolean name="CoreStats__share_wireless_radio_activity_summary" value="false" />
+    <boolean name="stats:network_usage:network_tracking_androidN_enabled" value="true" />
+    <boolean name="ChimeraCheckin__progress_listener_callback_immediately" value="true" />
+    <boolean name="Tracing__enable_gms_application_oncreate_primes_trace" value="false" />
+    <long name="KeyValuePreferencesFeature__dark_launch_error_sampling_interval" value="0" />
+    <long name="PaymentsRelease__partition_experiment_id" value="0" />
+    <boolean name="WakelockMetrics__log_unmetered_only" value="false" />
+    <boolean name="Tracing__stop_providence_client_info" value="true" />
+    <boolean name="ChimeraCheckin__enable_immediate_staleness_logging" value="false" />
+    <boolean name="SchedulerTasksExperiments__require_any_network_and_any_charging_for_droid_guard_task_in_droidguard" value="false" />
+    <boolean name="SchedulerDebug__disable_trigger_0p_tasks_in_prod" value="true" />
+    <boolean name="CommonAnalytics__system_health_log_post_gservice_update_enabled" value="false" />
+    <string name="Scheduler__throttling_config_for_cloud_message_sent">1800,1,1</string>
+    <string name="ChimeraCriticalPath__configuration_mode">default</string>
+    <boolean name="Common__fix_location_icon_background_race" value="true" />
+    <boolean name="SchedulerTasksExperiments__prefer_unmetered_and_charging_for_droid_guard_task_in_ads_v2" value="true" />
+    <long name="DeviceDoctor__teledoctor_disableModules" value="0" />
+    <long name="Scheduler__preferred_constraints_execution_window_portion_percents" value="100" />
+    <boolean name="Common__fix_multi_user_threading" value="false" />
+    <boolean name="Scheduler__enable_throttling_content_uri_updates" value="true" />
+    <long name="ChimeraCriticalPath__unmetered_network_download_timeout_seconds" value="79200" />
+    <boolean name="StrictModeFeature__enable_vm_policy" value="false" />
+    <boolean name="ProtoVerifier__proto_verifier_flogger_enabled" value="true" />
+    <long name="Primes__dir_stats_inverse_sample_rate" value="100" />
+    <string name="DeviceDoctor__shush_crash_whitelist"></string>
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_telephony_spam" value="false" />
+    <boolean name="Chimera__enable_checkin_logging" value="false" />
+    <boolean name="ChimeraCriticalPath__enable_container_remapping" value="false" />
+    <boolean name="Chimera__enable_zapp_partial_module_info_response" value="true" />
+    <long name="Chimera__block_milliseconds_before_on_start_command_return" value="15" />
+    <float name="Primes__timer_sample_probability" value="0.01" />
+    <string name="Scheduler__throttling_config_for_google_http_client">1800,1,1</string>
+    <boolean name="CommonAnalytics__system_health_log_post_gms_core_update_enabled" value="false" />
+    <long name="SchedulerPowerSaverMode__ignored_if_battery_level_is_over" value="0" />
+    <boolean name="Scheduler__stop_rescheduling_timed_out_non_gmscore_tasks" value="true" />
+    <boolean name="ClientLogging__enable_client_logging" value="true" />
+    <long name="PeriodicRestarts__max_wait_for_writer_lock_in_seconds" value="7200" />
+    <float name="SchedulerClearcutLogging__schedule_request_sample_rate" value="0.03" />
+    <long name="Primes__random_latency_tracking_modulus" value="20000" />
+    <boolean name="latency_tracking_enabled" value="false" />
+    <boolean name="Chimera__enable_chimera_clearcut_logger" value="false" />
+    <boolean name="Scheduler__execute_expired_tasks_after_engine_init" value="false" />
+    <long name="Scheduler__inactivity_idle_threshold_millis" value="900000" />
+    <boolean name="Tracing__enable_connection_callback_propagation" value="true" />
+    <boolean name="SQLite__use_idle_connection_timeout_modules" value="false" />
+    <long name="stats:network_usage:interval_in_seconds_for_androidN_bucket_interval" value="0" />
+    <boolean name="Chimera__config_checkin_enabled" value="true" />
+    <boolean name="ServiceTracking__enable_providence_status_code_refactor_auth_proxy" value="true" />
+    <string name="DeviceDoctor__disabled_modules_list"></string>
+    <boolean name="CpuProfiling__enable_profiling" value="false" />
+    <boolean name="Primes__enable_primes_tracing" value="true" />
+    <string name="Scheduler__extended_timeout_allowlist">-*/*:*</string>
+    <boolean name="Tracing__monitor_device_state" value="false" />
+    <boolean name="Scheduler__enable_bound_service_api" value="false" />
+    <boolean name="SafeBoot__safeboot_upload_other_event_enabled" value="false" />
+    <boolean name="LocationUtilsFeature__enable_location_pending_intent_temp_allow_list" value="true" />
+    <boolean name="Primes__enable_primes_network_for_volley" value="false" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_network_restrictions_for_telephonyspam_tasks" value="true" />
+    <boolean name="Chimera__chimera_update_prefers_device_idle" value="false" />
+    <string name="Chimera__allowed_app_module_dep_features"></string>
+    <boolean name="ClientLogging__enable_sampling" value="true" />
+    <boolean name="Bug116753498__generic_suppress_enabled" value="true" />
+    <boolean name="Common__do_not_run_ulr_on_chrome_os_devices" value="true" />
+    <boolean name="GmsCoreBackendCounters__immediate_logging" value="false" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_core_stats" value="false" />
+    <boolean name="DeviceDoctor__delete_files_enabled" value="true" />
+    <string name="Scheduler__scheduler_doze_task_filter">-*/*:*</string>
+    <boolean name="Tracing__enable_calling_force_aggregates_logging" value="true" />
+    <boolean name="Chimera__check_permit_metered_network" value="true" />
+    <boolean name="Network__enable_primes_reporting_for_http_url_connection" value="false" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_ads" value="false" />
+    <boolean name="DeviceDoctor__enable_set_phenotype_context" value="true" />
+    <boolean name="Primes__enable_primes_dir_stats" value="true" />
+    <boolean name="Common__enable_opted_in_logger_opt_in_listener" value="false" />
+    <string name="Scheduler__should_skip_bound_service_api_filter"></string>
+    <long name="Chimera__zapp_minimum_play_store_version" value="80700000" />
+    <long name="Primes__tracing_sample_rate_per_thousand" value="0" />
+    <boolean name="WakelockMetrics__enable_metrics" value="true" />
+    <long name="Primes__timer_sample_rate_per_second" value="10" />
+    <boolean name="StrictModeFeature__enable_logging_original_throwable" value="true" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_wallet" value="false" />
+    <long name="Primes__max_event_proto_bytes" value="16384" />
+    <boolean name="Scheduler__force_start_service_for_secondary_user_0p_pre18_tasks" value="false" />
+    <long name="stats:alarms:level" value="0" />
+    <long name="WatchcatFeature__default_hard_violation_seconds" value="7200" />
+    <boolean name="ChimeraCriticalPath__disable_update_resources_for_unique_app_contexts" value="true" />
+    <boolean name="SchedulerTracing__create_significant_span_for_wakelock" value="true" />
+    <string name="SchedulerClearcutLogging__loggable_tags_overflow">DSUW_TASK,DEFAULT_INPUT_METHOD_TASK,REMIND_ME_LATER_TASK</string>
+    <boolean name="StrictModeFeature__enable_thread_policy" value="false" />
+    <boolean name="Tracing__enable_bind_service_tracing" value="true" />
+    <boolean name="Common__enable_checkin_client_android_id" value="false" />
+    <long name="ChimeraCriticalPath__nullbinder_reply_size_in_kb" value="1032" />
+    <boolean name="Scheduler__enable_logging_execution_finished_at_info" value="true" />
+    <boolean name="SchedulerTasksExperiments__force_1p_3p_tasks_to_wait_for_unmetered_network" value="false" />
+    <long name="WatchcatFeature__memory_usage_checker_violation_kb" value="256000" />
+    <boolean name="Chimera__enable_vision_feature_parser" value="false" />
+    <boolean name="Scheduler__use_is_screen_on_for_is_interactive_for_pre_l" value="false" />
+    <string name="SchedulerPowerSaverMode__critical_allowlist_filter">-*/*:*</string>
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_charging_restrictions_for_tap_and_pay_tasks" value="false" />
+    <boolean name="Primes__skip_legacy_on_create_metric_capture" value="false" />
+    <boolean name="ServiceTracking__enable_service_availability_logging" value="false" />
+    <long name="Tracing__expensive_trace_warn_count" value="1000" />
+    <boolean name="ServiceTracking__enable_service_availability_via_metered" value="true" />
+    <string name="Chimera__bound_service_lifecycle_blocklist">com.google.android.gms.ads.signalsdk.SignalSdkChimeraService, com.google.android.gms.signin.service.SignInInternalBrokerChimeraService</string>
+    <long name="ChimeraCheckin__forced_checkin_moduleset_poll_retries" value="7" />
+    <boolean name="DeviceDoctor__record_only_persistent_process_crashes" value="false" />
+    <float name="WakelockMetrics__base_sample_rate" value="2.0E-6" />
+    <boolean name="Bug116753498__nlp_suppress_enabled" value="true" />
+    <float name="ServiceConnection__sampling_rate" value="1.0" />
+    <boolean name="Tracing__context_wrap_related" value="true" />
+    <boolean name="Chimera__fix_permissions" value="true" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_ipa" value="false" />
+    <long name="Tracing__lightweight_sample_quotient" value="200" />
+    <boolean name="SchedulerTasksExperiments__prefer_unmetered_and_charging_for_droid_guard_task_in_ads" value="false" />
+    <long name="Primes__memory_sample_rate_per_second" value="3" />
+    <boolean name="ServiceTracking__enable_synchronous_consent_check" value="true" />
+    <boolean name="SchedulerPowerSaverMode__execute_0p_tasks_on_android_l" value="false" />
+    <boolean name="Threads__enable_ignore_pooled_thread_priority" value="true" />
+    <boolean name="Phenotype__targeted_notifications_enabled" value="true" />
+    <boolean name="Grpc__enable_android_channel_builder" value="false" />
+    <boolean name="Chimera__send_container_updated_all_listeners" value="true" />
+    <boolean name="Scheduler__enable_sending_crash_like_data_on_task_time_out" value="false" />
+    <boolean name="PeriodicRestarts__is_enabled" value="false" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_network_restrictions_for_tap_and_pay_tasks" value="true" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_auth" value="false" />
+    <boolean name="Tracing__disable_broadcast_support_propagation" value="true" />
+    <string name="ChimeraCriticalPath__blacklisted_modules_with_versions_for_qt"></string>
+    <long name="Primes__throttler_max_bank_events" value="25" />
+    <boolean name="PermissionLogging__enable_gms_checker_refactor" value="true" />
+    <boolean name="Scheduler__enable_binding_on_pre_l_for_gms_core_tasks" value="true" />
+    <boolean name="SafeBoot__safeboot_restart_trigger_enabled" value="true" />
+    <long name="Tracing__cpu_sample_rate_per_thousand" value="1" />
+    <boolean name="Tracing__enable_task_propagation" value="true" />
+    <boolean name="WatchcatFeature__enabled" value="true" />
+    <string name="Scheduler__throttling_config_for_cloud_message_received">1800,1,1</string>
+    <boolean name="ClientTelemetry__enable_telemetry_logging" value="true" />
+    <boolean name="WatchcatFeature__cpu_usage_checker_enabled" value="true" />
+    <string name="CpuProfiling__primes_profiling_default_process_config">CiZwcm9jZXNzX25hbWVfaWdub3JlZF9mb3JfZGVmYXVsdF92YWx1ZRCYdRjoByAFKICgHzC4Fw</string>
+    <string name="ChimeraCriticalPath__container_apk_basenames_to_skip_extracting">ProviderInstaller.apk</string>
+    <boolean name="ClientLogging__use_same_log_source" value="true" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_charging_restrictions_for_all_tasks_v2" value="false" />
+    <boolean name="ServiceTracking__enable_service_tracking" value="false" />
+    <float name="Scheduler__sample_rate_for_sending_crash_like_data_on_task_time_out" value="0.001" />
+    <boolean name="Chimera__restart_interrupted_downloads" value="false" />
+    <boolean name="Tracing__lightweight_monitor_enabled" value="false" />
+    <long name="stats:wakeLocks:max_timeout_heldlock" value="600000" />
+    <boolean name="SchedulerDatabase__enable_swallowing_errors_on_insert" value="true" />
+    <boolean name="enable_network_usage_activity_advanced" value="false" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_network_restrictions_for_autofill_task" value="false" />
+    <string name="KeyValuePreferencesFeature__dark_launch_allowlist">CAA</string>
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_network_restrictions_for_auth_folsom_task" value="true" />
+    <long name="Chimera__chimera_download_stats_sampling_rate" value="10" />
+    <boolean name="ServiceVisibility__use_always_on_logger" value="true" />
+    <boolean name="GoogleApiClient__lock_and_check_sign_in_client_access" value="false" />
+    <string name="Chimera__whitelisted_app_module_dep_packages">com.google.android.apps.chromecast.app,com.google.stadia.androidtv,</string>
+    <boolean name="DeviceDoctor__log_open_file_descriptors_on_crash" value="false" />
+    <long name="SQLite__idle_connection_timeout_ms" value="30000" />
+    <string name="Scheduler__should_use_restrictive_charging_defaults_filter">-*/com.google.android.gms.audit.upload.AuditGcmTaskService:audit_task</string>
+    <boolean name="MemoryMetricLogging__enabled" value="true" />
+    <boolean name="ServiceConnection__enable_logging" value="false" />
+    <boolean name="ChimeraCriticalPath__enable_dynamite_logger" value="true" />
+    <boolean name="PeriodicRestarts__enable_periodic_restarts_on_gms_process" value="false" />
+    <boolean name="ServiceVisibility__checkbox_only" value="true" />
+    <boolean name="Scheduler__ignore_dreaming_stop_action_when_interactive" value="true" />
+    <boolean name="Network__enable_network_attribution_by_tracing" value="false" />
+    <float name="MemoryMetricLogging__log_fraction" value="0.001" />
+    <boolean name="ServiceTracking__enable_service_invocation_logging_dev_only_prototype" value="false" />
+    <boolean name="PeriodicRestarts__enable_periodic_restart_lock_v2" value="false" />
+    <boolean name="Chimera__enable_dynamite_module_runtime_bitness_logging" value="false" />
+    <boolean name="SafeBoot__safeboot_include_process_exit_reason" value="true" />
+    <boolean name="Tracing__enable_cross_process_attribution_through_intents3" value="true" />
+    <long name="Tracing__gcore_client_cache_size" value="50" />
+    <boolean name="Common__use_listener_for_alarms_on_r" value="true" />
+    <boolean name="SchedulerDatabase__enable_database_schema_version_15" value="true" />
+    <boolean name="Scheduler__enable_more_restrictive_network_defaults" value="true" />
+    <boolean name="Common__enable_get_sim_carrier_id" value="true" />
+    <boolean name="Chimera__enable_app_module_management" value="true" />
+    <boolean name="Common__use_gms_pooled_request_queue" value="true" />
+    <boolean name="PermissionLogging__enable_preflight_permission_checking" value="true" />
+    <long name="Phenotype__checkin_interval_in_seconds" value="86400" />
+    <string name="Primes__primes_profiling_default_process_config">CiZwcm9jZXNzX25hbWVfaWdub3JlZF9mb3JfZGVmYXVsdF92YWx1ZRCYdRjoByAFKICgHzC4Fw</string>
+    <boolean name="ChimeraCriticalPath__lookup_manifest_to_instantiate_slice_provider_proxy" value="false" />
+    <boolean name="SyncUpdateService__enable_sync_update_service" value="true" />
+    <string name="Primes__primes_profiling_process_configs">CjIKIWNvbS5nb29nbGUuYW5kcm9pZC5nbXMucGVyc2lzdGVudBCYdRjoByABKICgHzC4Fw</string>
+    <boolean name="Tracing__use_binder_wrapper_for_providence" value="true" />
+    <long name="CoreStats__trace_upload_period_milliseconds" value="86400000" />
+    <long name="Primes__tracing_sample_rate_per_second" value="10" />
+    <boolean name="Scheduler__enable_using_bind_service_on_pre_l_for_gms_core_tasks" value="true" />
+    <float name="SchedulerClearcutLogging__exec_finished_sample_rate" value="0.03" />
+    <long name="DeviceDoctor__teledoctor_NoFix" value="0" />
+    <boolean name="IntentOperationMigration__enabled_batch_1" value="false" />
+    <float name="ServiceVisibility__sample_rate" value="0.01" />
+    <boolean name="SchedulerPrediction__enable_adjusting_network_constraints_with_predictions_v2" value="false" />
+    <string name="ServiceVisibility__packages_common_dark_launch">com.google.android.instantapps.supervisor,com.waymo.carapp,com.area120.reply,com.area120.soundbite,com.area120.soundbite.dev,com.area120.soundbite.dogfood,com.area120.soundbite.fishfood,com.google.android.apps.seekh,com.niksoftware.snapseed,com.obsidian.ft,com.piotrs.betatest,com.raterhub.android.apps.eval.ewoq,com.raterhub.mera,com.ridewith,com.syntheticsoft.telecomm,com.test.iconphish,com.test.smsexpdetoct2,com.test.smsexpdetoct4,com.waze,com.whereabout.location,com.google.android.apps.cerebra.health.cala.chayka,experimental.com.google.android.apps.youtube.casual.videoeditdemo,merchant.app.package,org.chromium.arc.gms,org.socratic.android,universal,work.gamut.jobs</string>
+    <boolean name="Tracing__log_missing_traces" value="false" />
+    <boolean name="Scheduler__force_start_service_for_gms_core_tasks" value="false" />
+    <boolean name="SchedulerTracing__enable_scheduler_tracing" value="true" />
+    <string name="client_telemetry_config">CAQQiCcqCGNsZWFyY3V0KglwaGVub3R5cGUqDHBzZXVkb255bW91czKEAQjoBxIGCAE4ZEAOEjA4ZEA3WAFgAWgBcgxtbGtpdDp2aXNpb25yFm1sa2l0Om5hdHVyYWxfbGFuZ3VhZ2USOyISY29tLmFuZHJvaWQuY2hyb21lIg9jb20uY2hyb21lLmJldGEiDmNvbS5jaHJvbWUuZGV2OGRADmABIGQwgN3bATiACA</string>
+    <boolean name="radio_tracking_enabled" value="false" />
+    <long name="WatchcatFeature__cpu_usage_checker_violation_percentage" value="85" />
+    <boolean name="Tracing__enable_dump_expensive_traces" value="false" />
+    <boolean name="DeviceDoctor__shush_enabled" value="true" />
+    <boolean name="Chimera__enable_zapp_diff_downloading" value="true" />
+    <long name="ChimeraCheckin__progress_listener_timeout_secs" value="150" />
+    <float name="SchedulerClearcutLogging__wakeup_sample_rate" value="0.0045" />
+    <boolean name="ServiceVisibility__add_event_type" value="true" />
+    <string name="CommonDownload__download_json">[]</string>
+    <string name="Scheduler__should_use_restrictive_network_defaults_filter">-*/com.google.android.gms.audit.upload.AuditGcmTaskService:audit_task</string>
+    <boolean name="ServiceVisibility__enable_dark_launch" value="true" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_instantapps" value="false" />
+    <boolean name="Tracing__enable_throw_exception_when_double_bind" value="false" />
+    <long name="Primes__memory_timer" value="30000" />
+    <long name="SchedulerPowerSaverMode__max_starvation_millis" value="604800000" />
+    <float name="SchedulerClearcutLogging__init_finished_sample_rate" value="1.0" />
+    <string name="Chimera__zapp_diff_base_installed_packages"></string>
+    <boolean name="GoogleSettings__enable_category_headers_fix" value="true" />
+    <boolean name="Scheduler__force_bind_protocol_for_bound_service" value="true" />
+    <boolean name="Cronet__enable_lazy_cronet_engine" value="true" />
+    <float name="WakelockMetrics__manual_multiplier" value="1.0" />
+    <boolean name="WatchcatFeature__memory_usage_checker_enabled" value="true" />
+    <boolean name="CoreStats__enable_schedule_gcm_tasks_on_module_start" value="false" />
+    <boolean name="Scheduler__enable_scheduler_doze" value="false" />
+    <boolean name="DeviceDoctor__enable_fixer_log_sampling" value="true" />
+    <boolean name="Chimera__wipe_corrupt_feature_configs" value="true" />
+    <boolean name="Primes__enable_primes_latency_metric_upload" value="true" />
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_tap_and_pay" value="false" />
+    <boolean name="Notifications__manager_enabled" value="true" />
+    <string name="CpuProfiling__primes_profiling_process_configs">CjIKIWNvbS5nb29nbGUuYW5kcm9pZC5nbXMucGVyc2lzdGVudBCYdRjoByABKICgHzC4Fw</string>
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_contactinteractions" value="false" />
+    <boolean name="Network__enable_network_engine_implementation" value="false" />
+    <boolean name="Chimera__share_apks_with_all_users" value="false" />
+    <boolean name="GmsCoreBackendCounters__enable" value="false" />
+    <boolean name="OpenSourceLicenses__enable_read_licenses_from_pixelmigrate_and_restore" value="true" />
+    <boolean name="BackgroundBroadcastReceiverSupport__rate_limit_dropbox" value="true" />
+    <string name="Scheduler__should_not_restore_non_persisted_tasks_filter"></string>
+    <boolean name="GoogleSettings__enable_debug_menu" value="false" />
+    <long name="Primes__package_stats_inverse_sample_rate" value="100" />
+    <boolean name="AppFeature__cache_common_gservices_prefixes" value="true" />
+    <boolean name="Providence__skip_global_processors" value="true" />
+    <long name="stats:network_usage:flex_time_in_seconds" value="3600" />
+    <string name="SQLite__idle_connection_timeout_blacklisted_database_names">DocList.db,matchstickv9.db,pluscontacts.db</string>
+    <boolean name="Tracing__enable_cast_socket_multiplexer_split_tracing" value="true" />
+    <long name="__phenotype_configuration_version" value="1620170700" />
+    <long name="Chimera__finsky_app_module_dependency_request_timeout_millis" value="150000" />
+    <boolean name="SchedulerClearcutLogging__enable_logging_wakeup_events" value="true" />
+    <boolean name="Common__only_use_location_manager_to_determine_location_mode" value="true" />
+    <long name="upload_internal_stats_interval" value="0" />
+    <string name="__phenotype_server_token">CAESyQIA8otIfG_pBcWWoPPbRwZacfozsq2abe_mnhpQ3NRKA1IAkosWm8l7mziCkK1wZ7dxTMqim49DHjKiE5x89TXcYHw2mZS0yzdwBAn1YlxiGnIajoZ6uAFvTj_ESFACMms0i-cPoqJku7x5Yhm79SSiOcPpp7v3R6vUHEh_WmHYOKWcu49cqqh2YS-ez9Shgu2Uza70cGsBedF3DGy_LGEiZEjVmbXdTijW8ahE0qbjQBIb90LSQBeTT2K75o7FsRwzv-JqI0u0btOhRszKi6UXE8p_1Spe3WzxSr73aKNfax_GHYsO-587HgDhMX3atmVV3b9eHeyOaau0wjKYU_hg42Tf5FIfN4CUHKngdwehE82j5HJMBRJkQy2003Egnm8UQOwYaqkoA8ueHO0Tn_14FjNSW_bbT96A3NtXtOfSvHRrAWm-kdsMLA</string>
+    <boolean name="Chimera__use_wrapper_pending_intent" value="false" />
+    <long name="WakelockMetrics__max_samples_per_day" value="3" />
+    <float name="SchedulerClearcutLogging__sample_rate" value="0.04" />
+    <boolean name="SchedulerTasksExperiments__enable_using_preferred_network_restrictions_for_all_tasks" value="true" />
+    <boolean name="Scheduler__drop_0p_secondary_user_pre18_all_tasks" value="false" />
+    <string name="__phenotype_snapshot_token"> com.google.android.gms 212 12 -1460086795 com.google.android.gms 1300385710 1</string>
+    <long name="stats:wakeLocks:level" value="0" />
+    <boolean name="Tracing__enable_aggregates_logging" value="false" />
+    <string name="Chimera__required_features"></string>
+    <boolean name="SchedulerTasksExperiments__use_new_periodic_task_apis_for_security" value="false" />
+    <boolean name="ChimeraCriticalPath__enable_file_apk_service" value="true" />
+    <boolean name="SchedulerPrediction__enable_adjusting_charging_constraints_with_predictions_v2" value="false" />
+    <boolean name="Network__enable_cronet_for_autofill" value="false" />
+    <long name="ChimeraCheckin__config_checkin_interval_secs" value="43200" />
+    <string name="SchedulerPowerSaverMode__general_allowlist_filter"></string>
+    <long name="ProtoDataStoreFeature__dasu_sampling_interval" value="100" />
+    <boolean name="enable_settings_search_indexing" value="true" />
+    <boolean name="GoogleSettingsAuto__show_send_feedback_car" value="true" />
+    <boolean name="Providence__crash_on_0p_developer_error" value="false" />
+    <boolean name="Common__enable_delete_corrupt_shared_prefs" value="true" />
+    <string name="gad:dynamite_module:experiment_id">318497136</string>
+    <boolean name="ChimeraCriticalPath__enable_dynamite_analytics" value="true" />
+    <boolean name="Notifications__counters_enabled" value="false" />
+</map>

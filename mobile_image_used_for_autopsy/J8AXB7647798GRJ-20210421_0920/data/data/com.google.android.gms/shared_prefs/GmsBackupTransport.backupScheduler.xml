@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="OperationScheduler_enabledState" value="true" />
+    <long name="OperationScheduler_moratoriumSetTimeMillis" value="1620082260578" />
+    <long name="OperationScheduler_moratoriumTimeMillis" value="0" />
+</map>

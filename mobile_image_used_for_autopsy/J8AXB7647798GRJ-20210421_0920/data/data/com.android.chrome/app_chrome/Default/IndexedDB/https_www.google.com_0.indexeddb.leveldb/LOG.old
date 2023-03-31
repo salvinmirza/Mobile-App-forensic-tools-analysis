@@ -1,0 +1,6 @@
+2021/05/03-18:21:23.979 407b Creating DB /data/user/0/com.android.chrome/app_chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb since it was missing.
+2021/05/03-18:21:23.994 407b Reusing MANIFEST /data/user/0/com.android.chrome/app_chrome/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/03-18:23:45.352 4074 Level-0 table #5: started
+2021/05/03-18:23:45.420 4074 Level-0 table #5: 842960 bytes OK
+2021/05/03-18:23:45.425 4074 Delete type=0 #3
+2021/05/03-18:23:45.427 4074 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="QsTileSpecsRevealed">
+        <string>cast</string>
+        <string>bt</string>
+        <string>wifi</string>
+        <string>airplane</string>
+        <string>rotation</string>
+        <string>dnd</string>
+        <string>battery</string>
+        <string>cell</string>
+        <string>flashlight</string>
+    </set>
+    <int name="OverviewOpenedCount" value="10" />
+    <boolean name="HasSeenRecentsSwipeUpOnboarding" value="true" />
+    <int name="QuickStepInteractionFlags" value="0" />
+    <boolean name="DndTileCombinedIcon" value="true" />
+    <int name="QsLongPressTooltipShownCount" value="2" />
+    <boolean name="HasSeenRecentsQuickScrubOnboarding" value="true" />
+    <boolean name="DndTileVisible" value="true" />
+    <int name="OverviewOpenedFromHomeCount" value="1" />
+    <boolean name="HasDismissedRecentsQuickScrubOnboardingOnce" value="true" />
+</map>

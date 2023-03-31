@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="audiofx.eq.preset">3</string>
+    <boolean name="audiofx.global.enable" value="true" />
+    <boolean name="audiofx.virtualizer.enable" value="true" />
+    <string name="audiofx.virtualizer.strength">200</string>
+    <boolean name="audiofx.bass.enable" value="true" />
+    <string name="audiofx.bass.strength">150</string>
+</map>

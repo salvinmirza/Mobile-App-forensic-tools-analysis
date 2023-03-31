@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="com.google.android.gms.cast.discovery.database.FLAG_CONTROLLED_DATABASE_VERSION_KEY" value="3" />
+    <string name="PREF_CAST_SECRET">37e77182-8c9a-478a-a449-f8df3b2255a0</string>
+    <string name="PREF_CAST_SENDER_ID">658a16d3-60ba-44fd-af94-272b81d0830d</string>
+</map>

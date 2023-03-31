@@ -1,0 +1,13 @@
+[Info]
+FileSource = Empty
+TimeCreated = 2021-01-26 20:05:37
+
+[Adapter]
+Address = 22:22:11:96:c1:49
+LE_LOCAL_KEY_IRK = e60688f3898bbb424ab33193bc8e9640
+LE_LOCAL_KEY_IR = cb1dbb9bc96ca814cfdb2c6a19456223
+LE_LOCAL_KEY_DHK = bfd72fc2211ebd5e1bc4946a1067ebb1
+LE_LOCAL_KEY_ER = cecbb4da8809407131774ed066ef52e7
+ScanMode = 0
+DiscoveryTimeout = 120
+

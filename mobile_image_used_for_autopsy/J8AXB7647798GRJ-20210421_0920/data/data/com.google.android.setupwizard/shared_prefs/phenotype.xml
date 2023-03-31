@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="backup_pixelmigrate_minimum_package_version_for_handling_wifi_d2d" value="546388" />
+    <string name="__phenotype_snapshot_token"> com.google.android.setupwizard 228 1 -1781476689 com.google.android.setupwizard  0</string>
+    <boolean name="backup_use_usb_guided_transfer" value="false" />
+    <string name="__phenotype_server_token">CAESKQDyi0h8PiwkKuwL66ayTQ9Gx6lgnB2F2bQ8D0rICBZgy5f8JUpTaTxZ</string>
+    <string name="payments_setup_intent_action">com.google.android.gms.wallet.setupwizard.ACTION_SETUP_PAYMENTS</string>
+    <boolean name="show_google_pay_in_notification" value="false" />
+    <long name="__phenotype_configuration_version" value="1619867400" />
+</map>

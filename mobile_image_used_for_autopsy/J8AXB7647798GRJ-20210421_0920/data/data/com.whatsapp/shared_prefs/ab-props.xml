@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="ab_props:green_alert_block_jitter_expo_key">1105</string>
+    <boolean name="ab_props:watls_early_data" value="false" />
+    <boolean name="ab_props:dedupe_transcode_shared_videos" value="true" />
+    <boolean name="ab_props:third_party_animated_sticker_import" value="true" />
+    <boolean name="ab_props:watls_enabled" value="true" />
+    <boolean name="ab_props:animated_stickers_thread_clean_up" value="true" />
+    <set name="ab_props:sys:last_config_names">
+        <string>proj_waldo_enabled</string>
+        <string>md_icdc_enabled</string>
+        <string>android_privatestats_endpoint_dit_enabled</string>
+        <string>scroll_perf</string>
+        <string>new_business_profile_info_view_enabled</string>
+        <string>wamsys_registration_v6_enabled</string>
+        <string>android_product_list_killswitch</string>
+        <string>job_manager_enable_deterministic_job_selection</string>
+        <string>group_chat_message_push_priority_obfuscation_percent</string>
+        <string>qpl_upload_delay</string>
+        <string>sticker_picker_animated_sticker_shrinking</string>
+        <string>send_link_thumb_in_message_disabled</string>
+        <string>status_grid_enabled</string>
+        <string>edit_business_profile_new_mode_enabled</string>
+        <string>android_test_scheduler_period_impl</string>
+        <string>stanza_processing_logging_enabled</string>
+        <string>wamsys_decryption_group_enabled</string>
+        <string>qpl_sampling</string>
+        <string>wam_privatestats_buffer_count</string>
+        <string>media_max_autodownload_wifi_mb</string>
+        <string>new_wam_runtime_beaconing</string>
+        <string>played_self_enabled</string>
+        <string>status_fast_streaming_enable_test</string>
+        <string>status_collapse_muted</string>
+        <string>async_data_load_on_startup</string>
+        <string>image_max_kb_for_skipping_compression</string>
+        <string>green_alert_block_start</string>
+        <string>app_locked_with_biometrics</string>
+        <string>groups_banner_max_dismisses</string>
+        <string>sticker_database_migration</string>
+        <string>stream_progressive_jpeg_enabled</string>
+        <string>status_aggressive_prefetch_seconds</string>
+        <string>use_compressed_packfile</string>
+        <string>software_transcoder_as_last_resort</string>
+        <string>auto_expo_status_tab_open</string>
+        <string>db_migration_level_reset</string>
+        <string>send_document_thumb_in_message_disabled</string>
+        <string>qpl_max_file_count</string>
+        <string>wallpapers_v2</string>
+        <string>biz_profile_options_new</string>
+        <string>media_upload_aggressive_retry_exponential_backoff_enabled</string>
+        <string>watls_no_dns</string>
+        <string>shops_pdp_urls_config</string>
+        <string>enable_hash_based_hybrid_codecs_mask</string>
+        <string>serializable_migration_me_enabled</string>
+        <string>md_icdc_hash_length</string>
+        <string>smb_banner_max_display_days</string>
+        <string>smb_banner_display_days_consec</string>
+        <string>ptt_fast_lock_enabled</string>
+        <string>wamsys_registration_v3_enabled</string>
+        <string>wamsys_mms_enabled</string>
+        <string>download_full_pjpeg_max_edge</string>
+        <string>ptt_reduce_recording_delay</string>
+        <string>sticker_tray_animation_fully_visible_items</string>
+        <string>android_key_store_hall_of_shame</string>
+        <string>mms4_pps_download_thumbnail</string>
+        <string>status_fast_streaming_unstall_multiplier_test</string>
+        <string>job_manager_use_dynamic_number_of_consumer_threads</string>
+        <string>stop_abprops_traffic_in_serverprops_response</string>
+        <string>payments_bloks_rendercore_enabled</string>
+        <string>sms_retriever_first</string>
+        <string>android_key_store_reliability_measure</string>
+        <string>enable_catalogs_carts</string>
+        <string>lazy_camera_view_inflation</string>
+        <string>db_verification_controls</string>
+        <string>bandwidth_estimation_adjacent_hours_optimization</string>
+        <string>voip_fix_converter_memory_leak</string>
+        <string>android_us_language_selector</string>
+        <string>upload_thread_lower_priority</string>
+        <string>smb_profile_banner_new_copy_enabled</string>
+        <string>new_invite_flow</string>
+        <string>enable_cup_phone</string>
+        <string>payments_onboarding_banner_duration_days</string>
+        <string>android_key_store_failure_cutoff_measure</string>
+        <string>new_backup_format_enabled</string>
+        <string>plm_products_max_batch_fetch_size</string>
+        <string>android_button_message_killswitch</string>
+        <string>liger_enabled</string>
+        <string>watls_early_data</string>
+        <string>android_message_logout_timeout_minutes</string>
+        <string>smb_project_waldo_enabled</string>
+        <string>android_hourly_cron_via_privatestats</string>
+        <string>async_conversationlist_loading</string>
+        <string>smb_better_catalog_upload_enabled</string>
+        <string>smb_days_between_banner</string>
+        <string>android_push_notify_fg_service</string>
+        <string>groups_banner_max_clicks</string>
+        <string>conversation_media_preview_v2</string>
+        <string>video_transcode_retry_enabled</string>
+        <string>sender_higher_quality_bandwidth_threshold</string>
+        <string>offline_aa_test_config_v2</string>
+        <string>status_sticker_search_enabled</string>
+        <string>qpl_listeners_enabled</string>
+        <string>md_portal_compatibility_level</string>
+        <string>save_capture_internal</string>
+        <string>async_init_after_thread_idle</string>
+        <string>third_party_animated_sticker_import</string>
+        <string>wamsys_registration_v4_enabled</string>
+        <string>room_messenger_upgrade</string>
+        <string>chat_export_v2</string>
+        <string>shops_storefront_native_entrypoint_enabled</string>
+        <string>disable_buttons_message</string>
+        <string>calls_row_constraint_layout</string>
+        <string>critical_event_upload_log_config</string>
+        <string>disable_prewarm</string>
+        <string>voip_stack_call_timer</string>
+        <string>serializable_migration_statistics_enabled</string>
+        <string>wamsys_encryption_individual_enabled</string>
+        <string>suspicious_chats_privacy_upsell_banner</string>
+        <string>dedupe_transcode_videos</string>
+        <string>sticker_contextual_suggestion_enabled</string>
+        <string>android_camera2_support_level</string>
+        <string>disable_new_sticker_animation</string>
+        <string>clear_chat_delete_media_files_in_parallel</string>
+        <string>groups_dogfooding_ui</string>
+        <string>connect_with_friends_dialog_enabled</string>
+        <string>user_notice_clear</string>
+        <string>quoted_order_message_tables_v2_migration_enabled</string>
+        <string>db_migration_data_source_v2</string>
+        <string>db_migration_data_source_v1</string>
+        <string>sticker_search_enabled</string>
+        <string>buffer_for_playback</string>
+        <string>android_key_store_recover_pwd_key</string>
+        <string>in_app_support_v2_numbers</string>
+        <string>upload_fs_in_group_call</string>
+        <string>pencil_ui_enhancements_wave_1_enabled</string>
+        <string>smb_banner_max_click_count</string>
+        <string>upload_document_thumb_mms_enabled</string>
+        <string>db_migration_low_latency_kill_switch_latency</string>
+        <string>work_manager_ntp_sync</string>
+        <string>new_user_location_dialogs_enabled</string>
+        <string>qr_scanner_view_v2_enabled</string>
+        <string>enable_long_running_job_monitor</string>
+        <string>cart_v1_1_order_message_changes_enabled</string>
+        <string>mms_tcp_congestion_bbr</string>
+        <string>mute_video</string>
+        <string>enable_biz_activity_report_request</string>
+        <string>work_manager_hourly_cron</string>
+        <string>image_compression_quality_test</string>
+        <string>download_link_thumb_mms_enabled</string>
+        <string>dedupe_transcode_shared_images</string>
+        <string>smb_collections_enabled</string>
+        <string>ephemeral_animation</string>
+        <string>mms_media_conn_foreground_only_enabled</string>
+        <string>upload_status_thumb_mms_enabled</string>
+        <string>mms_media_conn_persist_enabled</string>
+        <string>enable_non_wake_up_alarm_ping</string>
+        <string>shops_storefront_urls_config</string>
+        <string>ephemeral_media_private</string>
+        <string>green_alert</string>
+        <string>android_key_store_failed_too_much_measure</string>
+        <string>photo_upload_bandwidth_estimation_enabled</string>
+        <string>serial_executor_send_message_methods</string>
+        <string>android_test_scheduler_run_seconds</string>
+        <string>download_document_thumb_mms_enabled</string>
+        <string>upload_host_switching_enabled</string>
+        <string>image_max_edge_test</string>
+        <string>offline_aa_test_config</string>
+        <string>db_migration_low_latency_kill_switch</string>
+        <string>qpl_sampling_as_string</string>
+        <string>limit_RMR</string>
+        <string>low_space_threshold</string>
+        <string>green_alert_modal_start</string>
+        <string>media_upload_max_aggressive_retries</string>
+        <string>sad_rate_attribution_scorecard_logging</string>
+        <string>wamsys_registration_enabled</string>
+        <string>in_app_support_v2_enabled</string>
+        <string>android_push_config_muted_chats</string>
+        <string>watls_prefer_ip6</string>
+        <string>qpl_use_string_sampling_config</string>
+        <string>watls_enable_early_data_http_get</string>
+        <string>ephemeral_24h_duration</string>
+        <string>groups_banner_consecutive_days_count</string>
+        <string>db_migration_level_force_blocked</string>
+        <string>video_max_bitrate</string>
+        <string>android_test_scheduler_api</string>
+        <string>enable_cart_v1_1_business_actions</string>
+        <string>conversation_async_view_inflation_enabled</string>
+        <string>db_migration_consistency_check_startup</string>
+        <string>image_quality_group</string>
+        <string>smb_welcome_banner_enabled</string>
+        <string>remove_geolocation_videos</string>
+        <string>dedupe_transcode_shared_videos</string>
+        <string>keyboard_popup_in_registration_disabled</string>
+        <string>smb_onboarding_flow_type</string>
+        <string>android_muted_group_chats_for_message</string>
+        <string>upload_link_thumb_mms_enabled</string>
+        <string>android_key_store_auth_ver</string>
+        <string>db_migration_min_disk_size</string>
+        <string>watls_enable_early_data_http_post</string>
+        <string>progressive_jpeg_thumbnail_enabled</string>
+        <string>pen_smoothing_enabled</string>
+        <string>is_user_under_epd_jurisdiction</string>
+        <string>dns_over_https_interleave_enabled</string>
+        <string>media_caption_ui_v2</string>
+        <string>privatestats_upload_jitter_secs</string>
+        <string>important_messages</string>
+        <string>dns_over_https_enabled</string>
+        <string>transsion_badging</string>
+        <string>autodownload_priority_policy</string>
+        <string>media_max_autodownload</string>
+        <string>qpl_metadata_provider_sampling_rate</string>
+        <string>pjpeg_force_download_mid_quality_enabled</string>
+        <string>photo_download_bandwidth_estimation_enabled</string>
+        <string>dedupe_transcode_gif</string>
+        <string>wamsys_registration_value</string>
+        <string>whats_my_number_enabled</string>
+        <string>ephemeral_allow_group_members</string>
+        <string>android_key_store_delete_pwd_key</string>
+        <string>blocked_events_log_uploads</string>
+        <string>status_image_max_edge_test</string>
+        <string>product_catalog_hide_show_items_enabled</string>
+        <string>smb_profile_banner_prioritized_enabled</string>
+        <string>payments_onboarding_banner_enabled</string>
+        <string>camera_core_integration_enabled</string>
+        <string>catalog_cart_on_off_enabled</string>
+        <string>yt_video_preview</string>
+        <string>wam_test_bool</string>
+        <string>disable_status_autodownload_inactive_users</string>
+        <string>download_full_pjpeg_max_edge_status</string>
+        <string>new_sticker_animation_behavior_v2</string>
+        <string>roundtable</string>
+        <string>offline_text_color_change</string>
+        <string>smb_banner_max_dismiss_count</string>
+        <string>android_test_scheduler_period_hours</string>
+        <string>higher_image_quality</string>
+        <string>customized_nux_enabled</string>
+        <string>report_disk_event</string>
+        <string>disable_third_party_animated_sticker_animation</string>
+        <string>bandwidth_estimation_algorithm</string>
+        <string>disable_privatestats_battery</string>
+        <string>mms_chatd_resume_check_override</string>
+        <string>load_chats_lazily</string>
+        <string>updated_business_registration_flow_enabled</string>
+        <string>db_migration_release_failure_login_controls</string>
+        <string>status_fast_streaming_initial_buffering_second_test</string>
+        <string>biz_profile_options</string>
+        <string>youtube_inline_ui_enabled</string>
+        <string>status_video_max_duration</string>
+        <string>in_app_support_v2_locale_langs</string>
+        <string>db_migration_level_force</string>
+        <string>db_migration_level_migrate</string>
+        <string>db_migration_low_latency_kill_switch_experiment</string>
+        <string>smb_better_catalog_list_adapters_enabled</string>
+        <string>pjeg_data_saver_enabled</string>
+        <string>remove_auth_token_download</string>
+        <string>payments_upi_new_invite_flow_enabled</string>
+        <string>qpl_seed</string>
+        <string>android_linked_devices_re_auth_enabled</string>
+        <string>mms4_pps_download_full_size</string>
+        <string>business_profile_refresh_m1_enabled</string>
+        <string>proj_ctwa_jid_enabled</string>
+        <string>status_image_compression_quality_test</string>
+        <string>consumer_reg_profile_design</string>
+        <string>media_upload_aggressive_retry_enabled</string>
+        <string>abprops_beta_pull_frequency</string>
+        <string>max_keys</string>
+        <string>camelot</string>
+        <string>dedupe_transcode_audio</string>
+        <string>enable_privatestats</string>
+        <string>status_fast_streaming_unstall_second_test</string>
+        <string>wamsys_decryption_individual_enabled</string>
+        <string>sticker_tray_animation_first_row</string>
+        <string>video_transcode_fallback_enabled</string>
+        <string>lwi_v1_ad_promotion_on_fb_enabled</string>
+        <string>groups_banner_conversations_count</string>
+        <string>bsp_receipt</string>
+        <string>wamsys_encryption_group_enabled</string>
+        <string>photo_download_realtime_bandwidth_enabled</string>
+        <string>sticker_pack_deeplink_enabled</string>
+        <string>call_sharecontactutil_onactivityresult</string>
+        <string>pjpeg_status_data_saver_enabled</string>
+        <string>green_alert_block_jitter</string>
+        <string>qpl_enabled</string>
+        <string>quoted_order_message_tables_migration_enabled</string>
+        <string>watls_enabled</string>
+        <string>receiver_higher_quality_bandwidth_threshold</string>
+        <string>list_ui_refresh_enabled</string>
+        <string>wamsys_registration_v5_enabled</string>
+        <string>media_autodownload_thread_pool_size</string>
+        <string>send_status_thumb_in_message_disabled</string>
+        <string>dedupe_transcode_images</string>
+        <string>liger_quic_enabled</string>
+        <string>db_migration_consistency_check_daily</string>
+        <string>bloks_use_minscript_android</string>
+        <string>job_manager_use_consumer_threads_core_pool_size</string>
+        <string>enable_mmap_stringpacks</string>
+        <string>auto_expo_int_field</string>
+        <string>download_host_switching_enabled</string>
+        <string>md_force_web_upgrade</string>
+        <string>quoted_ui_elements_reply_message_migration_enabled</string>
+        <string>db_migration_max_db_size</string>
+        <string>num_days_key_index_list_update</string>
+        <string>groups_banner_total_days_count</string>
+        <string>new_wam_runtime_enabled</string>
+        <string>db_migration_level_keep</string>
+        <string>shops_storefront_icon_and_preview_entrypoints_enabled</string>
+        <string>animated_stickers_thread_clean_up</string>
+        <string>ptt_playback_speed_enabled</string>
+        <string>pjpeg_chat_data_saver_enabled</string>
+        <string>smb_cart_interstitial_enabled</string>
+        <string>higher_image_max_edge_status</string>
+        <string>android_media_use_fresco_for_gifs</string>
+        <string>green_alert_banner_duration</string>
+        <string>higher_image_quality_status</string>
+        <string>job_manager_use_consumer_threads_max_pool_size</string>
+        <string>qpl_max_file_size</string>
+        <string>status_ranking</string>
+        <string>higher_image_max_edge</string>
+        <string>sticker_tray_animation_finite_loops</string>
+        <string>conversation_warming_enabled</string>
+        <string>reusable_video_player_enabled</string>
+        <string>download_status_thumb_mms_enabled</string>
+    </set>
+    <long name="ab_props:sys:last_refresh_time" value="1620099417084" />
+    <boolean name="ab_props:is_user_under_epd_jurisdiction" value="false" />
+    <string name="ab_props:android_key_store_auth_ver_expo_key">1150</string>
+    <boolean name="ab_props:async_data_load_on_startup" value="true" />
+    <boolean name="ab_props:disable_prewarm" value="true" />
+    <boolean name="ab_props:camera_core_integration_enabled" value="true" />
+    <int name="ab_props:media_upload_max_aggressive_retries" value="3" />
+    <string name="ab_props:pen_smoothing_enabled_expo_key">980</string>
+    <int name="ab_props:green_alert_banner_duration" value="360" />
+    <boolean name="ab_props:media_upload_aggressive_retry_exponential_backoff_enabled" value="true" />
+    <boolean name="ab_props:dedupe_transcode_shared_images" value="true" />
+    <boolean name="ab_props:product_catalog_hide_show_items_enabled" value="true" />
+    <string name="ab_props:new_backup_format_enabled_expo_key">1257</string>
+    <string name="ab_props:db_verification_controls">{&quot;config&quot;: [{&quot;name&quot;:&quot;all&quot;, &quot;enabled&quot;:false,&quot;run_sampling&quot;:10000, &quot;old_data_sampling&quot;:1000, &quot;new_data_sampling&quot;:1000, &quot;critical_event_sampling&quot;:0}]}</string>
+    <string name="ab_props:qpl_sampling">{&quot;sampling&quot;:[]}</string>
+    <long name="ab_props:sys:refresh" value="86400000" />
+    <string name="ab_props:async_data_load_on_startup_expo_key">778</string>
+    <boolean name="ab_props:green_alert" value="true" />
+    <string name="ab_props:db_migration_level_force_expo_key">1028</string>
+    <string name="ab_props:sys:config_key">1ZN,CY,2J,x,m,1F,j,1j,25</string>
+    <int name="ab_props:android_key_store_auth_ver" value="1" />
+    <boolean name="ab_props:cart_v1_1_order_message_changes_enabled" value="true" />
+    <boolean name="ab_props:smb_better_catalog_list_adapters_enabled" value="true" />
+    <string name="ab_props:green_alert_banner_duration_expo_key">1105</string>
+    <boolean name="ab_props:sticker_tray_animation_fully_visible_items" value="true" />
+    <boolean name="ab_props:important_messages" value="false" />
+    <boolean name="ab_props:sticker_search_enabled" value="true" />
+    <boolean name="ab_props:conversation_media_preview_v2" value="true" />
+    <boolean name="ab_props:mute_video" value="true" />
+    <string name="ab_props:green_alert_expo_key">1105</string>
+    <boolean name="ab_props:camelot" value="true" />
+    <boolean name="ab_props:enable_privatestats" value="true" />
+    <boolean name="ab_props:watls_no_dns" value="true" />
+    <boolean name="ab_props:pen_smoothing_enabled" value="true" />
+    <boolean name="ab_props:media_upload_aggressive_retry_enabled" value="true" />
+    <boolean name="ab_props:report_disk_event" value="true" />
+    <boolean name="ab_props:bloks_use_minscript_android" value="true" />
+    <boolean name="ab_props:new_backup_format_enabled" value="false" />
+    <boolean name="ab_props:new_sticker_animation_behavior_v2" value="true" />
+    <string name="ab_props:important_messages_expo_key">1386</string>
+    <boolean name="ab_props:dedupe_transcode_videos" value="true" />
+    <int name="ab_props:green_alert_block_jitter" value="3798000" />
+    <boolean name="ab_props:remove_geolocation_videos" value="true" />
+    <string name="ab_props:critical_event_upload_log_config">ForcedDatabaseMigrationManager/failedToMigrate:10;AppMessagingXmppHandler/onLogNotification:1;WhatsAppLibLoader/loadStartupLibs:1;AbstractAppShell/maybeReportDecompressionFailure:1;Mp4Ops/uploadMp4FailureLogs:10;</string>
+    <string name="ab_props:green_alert_modal_start_expo_key">1105</string>
+    <set name="ab_props:sys:last_exposure_keys">
+        <string>1028</string>
+        <string>1257</string>
+        <string>1386</string>
+        <string>1150</string>
+    </set>
+    <boolean name="ab_props:status_grid_enabled" value="true" />
+    <string name="ab_props:sys:config_hash">SuS4m</string>
+    <string name="ab_props:status_grid_enabled_expo_key">921</string>
+    <boolean name="ab_props:roundtable" value="true" />
+    <boolean name="ab_props:android_media_use_fresco_for_gifs" value="true" />
+    <string name="ab_props:android_camera2_support_level">LIMITED</string>
+    <boolean name="ab_props:sticker_pack_deeplink_enabled" value="true" />
+    <int name="ab_props:green_alert_modal_start" value="1619650800" />
+    <int name="ab_props:wam_privatestats_buffer_count" value="4" />
+    <boolean name="ab_props:edit_business_profile_new_mode_enabled" value="true" />
+    <boolean name="ab_props:room_messenger_upgrade" value="true" />
+    <boolean name="ab_props:watls_enable_early_data_http_get" value="true" />
+    <boolean name="ab_props:android_linked_devices_re_auth_enabled" value="true" />
+    <boolean name="ab_props:dedupe_transcode_images" value="true" />
+    <int name="ab_props:green_alert_block_start" value="1621036800" />
+    <int name="ab_props:sys:fetch_attemp_count" value="0" />
+    <boolean name="ab_props:ephemeral_allow_group_members" value="true" />
+    <boolean name="ab_props:calls_row_constraint_layout" value="true" />
+    <boolean name="ab_props:watls_prefer_ip6" value="true" />
+    <string name="ab_props:db_migration_level_force">migration_jid_store;migration_chat_store;blank_me_jid;participant_user;</string>
+    <int name="ab_props:sys:last_error_code" value="0" />
+    <string name="ab_props:green_alert_block_start_expo_key">1105</string>
+</map>

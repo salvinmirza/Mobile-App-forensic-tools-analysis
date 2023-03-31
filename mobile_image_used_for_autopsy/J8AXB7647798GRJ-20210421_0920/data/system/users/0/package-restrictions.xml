@@ -1,0 +1,683 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<package-restrictions>
+    <pkg name="com.google.android.carriersetup" ceDataInode="654224" />
+    <pkg name="org.lineageos.overlay.accent.black" ceDataInode="654227" />
+    <pkg name="com.android.cts.priv.ctsshim" ceDataInode="654230" />
+    <pkg name="org.lineageos.overlay.accent.brown" ceDataInode="654233" />
+    <pkg name="org.lineageos.overlay.accent.green" ceDataInode="654236" />
+    <pkg name="com.android.internal.display.cutout.emulation.corner" ceDataInode="654239" />
+    <pkg name="com.google.android.ext.services" ceDataInode="654092" />
+    <pkg name="com.android.internal.display.cutout.emulation.double" ceDataInode="654242" />
+    <pkg name="com.android.providers.telephony" ceDataInode="654098" />
+    <pkg name="com.google.android.googlequicksearchbox" ceDataInode="654245" domainVerificationStatus="2" app-link-generation="4">
+        <enabled-components>
+            <item name="com.android.launcher3.LauncherProvider" />
+            <item name="com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromDeeplink" />
+            <item name="com.google.android.googlequicksearchbox.VoiceSearchActivity" />
+            <item name="com.android.launcher3.AppWidgetsRestoredReceiver" />
+            <item name="androidx.work.impl.background.systemalarm.RescheduleReceiver" />
+            <item name="com.google.android.apps.gsa.staticplugins.opa.hq.OpaHqActivity" />
+            <item name="com.google.android.apps.gsa.assistant.settings.hq.agentdirectory.AgentDirectoryActivity" />
+            <item name="androidx.work.impl.background.systemjob.SystemJobService" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.android.launcher3.InstallShortcutReceiver" />
+            <item name="com.android.launcher3.PackageSessionCommitReceiver" />
+            <item name="com.google.android.apps.gsa.staticplugins.settings.AssistantAndroidSettingsActivity" />
+            <item name="com.android.launcher3.WallpaperCropActivity" />
+            <item name="com.google.android.apps.gsa.staticplugins.opa.widget.impl.OpaWidgetProvider" />
+            <item name="com.google.android.libraries.flashmanagement.cleardatadetector.DummyReceiver" />
+            <item name="com.android.launcher3.AddItemActivity" />
+            <item name="com.google.android.apps.gsa.staticplugins.mediabrowser.OpaMediaBrowserService" />
+            <item name="com.android.launcher3.StartupReceiver" />
+            <item name="com.google.android.apps.gsa.launcher.GelWallpaperPickerActivity" />
+            <item name="com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher" />
+            <item name="com.google.android.launcher.GEL" />
+            <item name="com.google.android.apps.gsa.deeplink.DeeplinkActivityEntrypointForSearch" />
+            <item name="com.google.android.apps.gsa.staticplugins.searchwidget.GoogleSearchWidgetProvider" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.providers.calendar" ceDataInode="654248" />
+    <pkg name="com.android.providers.media" ceDataInode="654251" />
+    <pkg name="com.google.android.onetimeinitializer" ceDataInode="654254" />
+    <pkg name="com.google.android.ext.shared" ceDataInode="654104" />
+    <pkg name="com.android.wallpapercropper" ceDataInode="654257" />
+    <pkg name="com.quicinc.cne.CNEService" ceDataInode="654110" />
+    <pkg name="com.android.documentsui" ceDataInode="654260" />
+    <pkg name="android.auto_generated_rro__" ceDataInode="654269" />
+    <pkg name="com.android.externalstorage" ceDataInode="654272" />
+    <pkg name="com.android.htmlviewer" ceDataInode="654275" />
+    <pkg name="com.whatsapp" ceDataInode="786268" install-reason="4">
+        <enabled-components>
+            <item name="androidx.work.impl.background.systemalarm.RescheduleReceiver" />
+            <item name="androidx.work.impl.background.systemjob.SystemJobService" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.qualcomm.qti.uceShimService" ceDataInode="654116" />
+    <pkg name="com.android.companiondevicemanager" ceDataInode="654278" />
+    <pkg name="com.android.mms.service" ceDataInode="654119" />
+    <pkg name="com.android.providers.downloads" ceDataInode="654281" />
+    <pkg name="com.android.messaging" ceDataInode="654284">
+        <enabled-components>
+            <item name="com.android.messaging.datamodel.NoConfirmationSmsSendService" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.android.messaging.receiver.AbortMmsWapPushReceiver" />
+            <item name="com.android.messaging.receiver.AbortSmsReceiver" />
+            <item name="com.android.messaging.receiver.MmsWapPushReceiver" />
+            <item name="com.android.messaging.receiver.SmsReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.terminal" ceDataInode="654287" />
+    <pkg name="com.google.android.soundpicker" ceDataInode="654290" />
+    <pkg name="com.qualcomm.qti.telephonyservice" ceDataInode="654122" />
+    <pkg name="com.google.android.configupdater" ceDataInode="654293" />
+    <pkg name="org.lineageos.lockclock" ceDataInode="654296" />
+    <pkg name="com.android.defcontainer" ceDataInode="654128" />
+    <pkg name="org.lineageos.overlay.black" ceDataInode="654299" />
+    <pkg name="com.android.providers.downloads.ui" ceDataInode="654302" />
+    <pkg name="com.android.vending" ceDataInode="654305" enabled="1" domainVerificationStatus="2" app-link-generation="1">
+        <enabled-components>
+            <item name="com.google.android.finsky.protect.impl.PlayProtectHomeDeepLinkActivity" />
+            <item name="com.google.android.finsky.protect.ExternalPlayProtectHomeEntryPoint" />
+            <item name="com.google.android.finsky.instantapps.ContentFilterUpdatedReceiver" />
+            <item name="com.google.android.finsky.prewarmservice.PrewarmService" />
+            <item name="com.google.android.finsky.instantapps.appmanagement.InstantAppRemoveMonitor" />
+            <item name="com.google.android.finsky.instantapps.InstantAppsConfigChangeListener" />
+            <item name="com.google.android.finsky.instantapps.EphemeralInstallerActivity" />
+            <item name="com.android.vending.AssetBrowserActivity" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.finsky.wearsupport.WearSupportService" />
+            <item name="com.google.android.finsky.systemupdateactivity.SystemUpdateActivity" />
+            <item name="com.google.android.finsky.systemupdateactivity.SettingsSecurityEntryPoint" />
+            <item name="com.google.android.finsky.activities.DebugActivity" />
+            <item name="com.google.android.finsky.instantapps.dna.ArchiveDownloadBroadcastReceiver" />
+            <item name="com.google.android.finsky.protect.PermissionAutoRevocationSettingsPage" />
+            <item name="com.google.android.finsky.wearsupport.WearChangeListenerService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.pacprocessor" ceDataInode="654309" />
+    <pkg name="com.android.simappdialog" ceDataInode="654312" />
+    <pkg name="org.lineageos.profiles" ceDataInode="654315">
+        <disabled-components>
+            <item name="org.lineageos.profiles.StartUpReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.internal.display.cutout.emulation.tall" ceDataInode="654318" />
+    <pkg name="com.android.certinstaller" ceDataInode="654321" />
+    <pkg name="com.android.carrierconfig" ceDataInode="654324" />
+    <pkg name="com.qti.qualcomm.datastatusnotification" ceDataInode="654327" />
+    <pkg name="android" ceDataInode="654134" />
+    <pkg name="com.android.contacts" ceDataInode="654330" />
+    <pkg name="com.qualcomm.qti.callfeaturessetting" ceDataInode="654333" />
+    <pkg name="com.qualcomm.wfd.service" ceDataInode="654336" />
+    <pkg name="org.lineageos.recorder" ceDataInode="654339" />
+    <pkg name="com.android.egg" ceDataInode="654342" />
+    <pkg name="com.android.mtp" ceDataInode="654345" />
+    <pkg name="com.android.nfc" ceDataInode="654348">
+        <enabled-components>
+            <item name="com.android.nfc.BeamShareActivity" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.android.stk" ceDataInode="654354">
+        <disabled-components>
+            <item name="com.android.stk.StkMain" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.launcher3" ceDataInode="654357" />
+    <pkg name="com.android.backupconfirm" ceDataInode="654360" />
+    <pkg name="org.lineageos.weather.provider" ceDataInode="654366" />
+    <pkg name="org.codeaurora.ims" ceDataInode="654137" />
+    <pkg name="com.android.statementservice" ceDataInode="654369" />
+    <pkg name="com.android.settings.intelligence" ceDataInode="654372" />
+    <pkg name="com.android.calendar" ceDataInode="654375">
+        <disabled-components>
+            <item name="com.android.calendar.UpgradeReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.setupwizard" ceDataInode="654378">
+        <enabled-components>
+            <item name="com.google.android.setupwizard.deferred.DeferredSettingsSuggestionActivity" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.setupwizard.predeferred.PreDeferredLifecycleScheduler" />
+            <item name="com.google.android.setupwizard.SetupWizardActivity" />
+            <item name="com.google.android.setupwizard.predeferred.NotificationConsolidatorService" />
+            <item name="com.google.android.setupwizard.deferred.ComponentStateMitigationReceiver" />
+            <item name="com.google.android.setupwizard.time.DateTimeCheck" />
+        </disabled-components>
+    </pkg>
+    <pkg name="org.lineageos.setupwizard" ceDataInode="654381">
+        <disabled-components>
+            <item name="org.lineageos.setupwizard.ChooseDataSimActivity" />
+            <item name="org.lineageos.setupwizard.BluetoothSetupActivity" />
+            <item name="org.lineageos.setupwizard.SetupWizardActivity" />
+            <item name="org.lineageos.setupwizard.MobileDataActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.qualcomm.qcrilmsgtunnel" ceDataInode="654140" />
+    <pkg name="com.android.providers.settings" ceDataInode="654146" />
+    <pkg name="com.android.sharedstoragebackup" ceDataInode="654384" />
+    <pkg name="com.android.printspooler" ceDataInode="654387" />
+    <pkg name="com.android.dreams.basic" ceDataInode="654390" />
+    <pkg name="com.android.webview" ceDataInode="654393" />
+    <pkg name="com.android.se" ceDataInode="654397" />
+    <pkg name="com.android.inputdevices" ceDataInode="654152" />
+    <pkg name="com.qualcomm.qti.biometrics.fingerprint.service" ceDataInode="654400" />
+    <pkg name="com.google.android.apps.wellbeing" ceDataInode="654403">
+        <enabled-components>
+            <item name="com.google.android.apps.wellbeing.focusmode.ui.FocusModeSettingsActivity" />
+            <item name="com.google.android.apps.wellbeing.focusmode.quicksettings.FocusModeTileService" />
+            <item name="com.google.android.apps.wellbeing.sleepinsights.ui.ExternalSleepInsightsActivity" />
+            <item name="androidx.work.impl.background.systemalarm.RescheduleReceiver" />
+            <item name="androidx.work.impl.background.systemjob.SystemJobService" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.apps.wellbeing.autodnd.ui.AutoDndGesturesSettingsActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="org.lineageos.overlay.accent.orange" ceDataInode="654406" />
+    <pkg name="com.android.bips" ceDataInode="654409" />
+    <pkg name="com.qti.dpmserviceapp" ceDataInode="654412" />
+    <pkg name="org.lineageos.overlay.accent.purple" ceDataInode="654415" />
+    <pkg name="com.google.android.markup" ceDataInode="654418" />
+    <pkg name="com.android.cellbroadcastreceiver" ceDataInode="654424" />
+    <pkg name="com.android.onetimeinitializer" ceDataInode="654427" />
+    <pkg name="org.lineageos.overlay.accent.yellow" ceDataInode="654430" />
+    <pkg name="com.android.server.telecom" ceDataInode="654158" />
+    <pkg name="com.google.android.syncadapters.contacts" ceDataInode="654433">
+        <disabled-components>
+            <item name="com.google.android.syncadapters.contacts.ProxyGalProvider" />
+            <item name="com.google.android.syncadapters.contacts.ContactsSyncAdapterService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="org.lineageos.overlay.accent.blue" ceDataInode="654436" />
+    <pkg name="org.lineageos.overlay.accent.cyan" ceDataInode="654439" />
+    <pkg name="org.lineageos.overlay.accent.pink" ceDataInode="654442" />
+    <pkg name="com.android.keychain" ceDataInode="654445" />
+    <pkg name="com.android.chrome" ceDataInode="785472" install-reason="4">
+        <enabled-components>
+            <item name="org.chromium.chrome.browser.incognito.IncognitoTabLauncher" />
+        </enabled-components>
+        <disabled-components>
+            <item name="org.chromium.chrome.browser.media.MediaLauncherActivity" />
+            <item name="org.chromium.chrome.browser.media.AudioLauncherActivity" />
+            <item name="org.chromium.chrome.browser.sharing.shared_clipboard.SharedClipboardShareActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.printservice.recommendation" ceDataInode="654448" />
+    <pkg name="com.android.dialer" ceDataInode="654161" />
+    <pkg name="com.android.gallery3d" ceDataInode="654451">
+        <disabled-components>
+            <item name="com.android.camera.DisableCameraReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.packageinstaller" ceDataInode="654167" />
+    <pkg name="com.google.android.gms" ceDataInode="654454">
+        <enabled-components>
+            <item name="com.google.android.gms.family.v2.create.FamilyCreationActivity" />
+            <item name="com.google.android.gms.nearby.sharing.ReceiveSurfaceService" />
+            <item name="com.google.android.gms.pay.deeplink.AliasSaveValuablesDeepLinkActivity" />
+            <item name="com.google.android.gms.carsetup.wifi.CarWifiConnectionService" />
+            <item name="com.google.android.gms.auth.account.mdm.GcmReceiverService" />
+            <item name="com.google.android.gms.matchstick.net.MessagingService" />
+            <item name="com.google.android.gms.thunderbird.config.EmergencyConfigContentProvider" />
+            <item name="com.google.android.gms.autofill.ui.AutofillActivity" />
+            <item name="com.google.android.gms.googlehelp.webview.GoogleHelpRenderingApiWebViewActivity" />
+            <item name="com.google.android.gms.accountsettings.ui.SettingsLoaderActivity" />
+            <item name="com.google.android.gms.app.search.GmsSearchIndexablesProvider" />
+            <item name="com.google.android.gms.mdm.settings.AdmSettingsActivity" />
+            <item name="com.google.android.gms.fido.fido2.ui.PolluxActivity" />
+            <item name="com.google.android.gms.vision.DependencyBroadcastReceiverProxy" />
+            <item name="com.google.android.gms.auth.managed.ui.PhoneskyDpcInstallActivity" />
+            <item name="com.google.android.gms.nearby.sharing.DirectShareService" />
+            <item name="com.google.android.gms.magictether.host.TetherListenerService" />
+            <item name="com.google.android.gms.udc.service.UdcContextInitService" />
+            <item name="com.google.android.gms.matchstick.GcmBroadcastReceiver" />
+            <item name="com.google.android.gms.auth.account.visibility.RequestAccountsAccessActivity" />
+            <item name="com.google.android.gms.auth.proximity.GcmBroadcastReceiver" />
+            <item name="com.google.android.gms.trustagent.discovery.WebpageOnbodyPromotionActivity" />
+            <item name="com.google.android.gms.backup.component.BackupOptInActivity" />
+            <item name="com.google.android.gms.auth.authzen.magicwand.MagicWandBarcodeScannerActivity" />
+            <item name="com.google.android.gms.growth.featuredrops.activity.FeatureDropsActivity" />
+            <item name="com.google.android.gms.mdm.services.GcmReceiverService" />
+            <item name="com.google.android.gms.tapandpay.hce.service.TpHceService" />
+            <item name="com.google.android.gms.mobiledataplan.gcm.GcmBroadcastReceiver" />
+            <item name="com.google.android.gms.subscribedfeeds.GcmReceiverService" />
+            <item name="com.google.android.gms.cast.service.CastPersistentService" />
+            <item name="com.google.android.gms.family.v2.invites.SendInvitationsActivity" />
+            <item name="com.google.android.gms.auth.authzen.transaction.secondscreen.SecondScreenGetTokenActivity" />
+            <item name="com.google.android.gms.auth.managed.ui.SetNewPasswordActivity" />
+            <item name="com.google.android.gms.matchstick.ui.MessageActivity" />
+            <item name="com.google.android.gms.trustagent.PreferenceService" />
+            <item name="com.google.android.gms.languageprofile.GcmTaskService" />
+            <item name="com.google.android.gms.wallet.im.SetupWizardImRootActivity" />
+            <item name="com.google.android.location.util.LocationAccuracyInjectorService" />
+            <item name="com.google.android.gms.mdm.receivers.RetryAfterAlarmReceiver" />
+            <item name="com.google.android.gms.nearby.sharing.SharingSliceProvider" />
+            <item name="com.google.android.gms.auth.authzen.cryptauth.DialerSecretCodeReceiver" />
+            <item name="com.google.android.gms.security.provider.SecurityProvider" />
+            <item name="com.google.android.gms.autofill.ui.AutofillDialogActivity" />
+            <item name="com.google.android.gms.app.net.NetworkUsageActivityAdvanced" />
+            <item name="com.google.android.gms.udc.ui.UdcSettingsListActivity" />
+            <item name="com.google.android.gms.pay.notifications.GcmBroadcastReceiver" />
+            <item name="com.google.android.gms.measurement.PackageMeasurementReceiver" />
+            <item name="com.google.android.gms.backup.component.D2dSourceService" />
+            <item name="com.google.android.gms.nearby.sharing.ShareSheetActivityAlias" />
+            <item name="com.google.android.gms.constellation.ui.ConstellationOnDemandConsentActivity" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.UncertifiedNotificationActivity" />
+            <item name="com.google.android.gms.autofill.ui.AutofillTransparentActivity" />
+            <item name="com.google.android.gms.nearby.exposurenotification.settings.SettingsCheckerActivity" />
+            <item name="com.google.android.gms.clearcut.debug.ClearcutDebugDumpService" />
+            <item name="com.google.android.gms.auth.api.phone.ui.BrowserConsentActivity" />
+            <item name="com.google.android.gms.kids.settings.KidsSettingsActivity" />
+            <item name="com.google.android.gms.pay.security.storagekey.service.StorageKeyCacheService" />
+            <item name="com.google.android.gms.family.v2.tos.TosActivity" />
+            <item name="com.google.android.gms.nearby.sharing.SettingsActivity" />
+            <item name="com.google.android.gms.security.settings.VerifyAppsSettingsActivity" />
+            <item name="com.google.android.gms.auth.proximity.phonehub.PhoneHubNotificationListenerService" />
+            <item name="com.google.android.gms.auth.authzen.AuthzenDeeplinkHandlerActivity" />
+            <item name="com.google.android.gms.backup.component.NoBackupNotificationService" />
+            <item name="com.google.android.gms.mdm.services.LockscreenMessageService" />
+            <item name="com.google.android.gms.analytics.service.AnalyticsService" />
+            <item name="com.google.android.gms.backup.mms.MmsBackupService" />
+            <item name="com.google.android.gms.trustagent.discovery.PromoteScreenLockAndOnbodyActivity" />
+            <item name="com.google.android.gms.family.webview.FamilyWebViewActivity" />
+            <item name="com.google.android.gms.wallet.setupwizard.PaymentsSetupWizardActivity" />
+            <item name="com.google.android.gms.auth.folsom.service.FolsomPublicKeyUpdateService" />
+            <item name="com.google.android.gms.app.settings.DataManagementActivity" />
+            <item name="com.google.android.gms.enpromo.ui.PromoActivity" />
+            <item name="com.google.android.gms.constellation.GcmBroadcastReceiver" />
+            <item name="com.google.android.gms.octarine.ui.OctarineWebviewActivity" />
+            <item name="com.google.android.gms.pay.deeplink.DeepLinkActivity" />
+            <item name="com.google.android.gms.accountsettings.content.SettingsSearchContentProvider" />
+            <item name="com.google.android.gms.backup.component.D2dSourceActivity" />
+            <item name="com.google.android.gms.location.settings.LocationAccuracyActivity" />
+            <item name="com.google.android.gms.magictether.logging.DailyMetricsLoggerService" />
+            <item name="com.google.android.gms.matchstick.ui.LighterMessageIntentActivity" />
+            <item name="com.google.android.gms.nearby.messages.offline.OfflineCachingService" />
+            <item name="com.google.android.gms.fido.fido2.pollux.CableAuthenticatorService" />
+            <item name="com.google.android.gms.constellation.ui.ConstellationDebugActivity" />
+            <item name="com.google.android.gms.update.OtaSuggestionSummaryProvider" />
+            <item name="com.google.android.gms.smartdevice.d2d.ui.SourceDirectTransferActivity" />
+            <item name="com.google.android.gms.pay.deeplink.AliasViewValuablesDetailsDeepLinkActivity" />
+            <item name="com.google.android.gms.people.sync.focus.ContactsSyncAdapterService" />
+            <item name="com.google.firebase.auth.api.gms.ui.BrowserSignInStarterActivity" />
+            <item name="com.google.android.gms.magictether.host.ProvisioningFailedDialogActivity" />
+            <item name="com.google.android.gms.enpromo.PromoInternalService" />
+            <item name="com.google.android.gms.pay.notifications.PayNotificationService" />
+            <item name="com.google.android.gms.update.SystemUpdateService" />
+            <item name="com.google.android.location.fused.FusedLocationService" />
+            <item name="com.google.android.gms.backup.component.BackupSettingsActivity" />
+            <item name="com.google.android.gms.people.sync.coreui.ContactsSyncCoreActivity" />
+            <item name="com.google.android.gms.auth.api.phone.ui.AutofillConsentActivity" />
+            <item name="com.google.android.gms.security.recaptcha.RecaptchaActivity" />
+            <item name="com.google.android.gms.fonts.update.UpdateSchedulerService" />
+            <item name="com.google.android.gms.thunderbird.settings.ThunderbirdSettingsActivity" />
+            <item name="com.google.android.gms.udc.ui.AuthenticatingWebViewActivity" />
+            <item name="com.google.android.gms.autofill.service.AutofillService" />
+            <item name="com.google.android.gms.gcm.nts.SchedulerService" />
+            <item name="com.google.android.gms.matchstick.data.DatabaseProvider" />
+            <item name="com.google.firebase.auth.api.gms.service.FirebaseAuthService" />
+            <item name="com.google.android.gms.autofill.ui.AutofillSettingsActivity" />
+            <item name="com.google.android.gms.smartdevice.d2d.ui.ForwardingActivity" />
+            <item name="com.google.android.gms.smartdevice.setup.ui.AccountChallengeActivity" />
+            <item name="com.google.android.gms.auth.proximity.multidevice.SettingsContentProvider" />
+            <item name="com.google.android.gms.contactinteractions.service.ContactInteractionsTaskService" />
+            <item name="com.google.android.gms.fonts.provider.FontsProvider" />
+            <item name="com.google.android.gms.auth.account.accounttransfer.AccountTransferReceiver" />
+            <item name="com.google.android.gms.mdm.LockscreenActivityPermissionTrampoline" />
+            <item name="com.google.android.gms.constellation.ui.ApiConsentActivity" />
+            <item name="com.google.android.location.reporting.service.UploadGcmTaskService" />
+            <item name="com.google.android.gms.languageprofile.GcmReceiverService" />
+            <item name="com.google.android.gms.magictether.wifisync.WifiSyncService" />
+            <item name="com.google.android.gms.smartdevice.magicwand.MagicWandActivity" />
+            <item name="com.google.android.gms.nearby.exposurenotification.settings.SettingsActivityAlias" />
+            <item name="com.google.android.gms.udc.gcm.GcmBroadcastReceiver" />
+            <item name="com.google.firebase.auth.api.gms.ui.BrowserSignInResponseHandlerActivity" />
+            <item name="com.google.android.gms.fido.u2f.U2fService" />
+            <item name="com.google.android.gms.auth.folsom.service.GcmReceiverService" />
+            <item name="com.google.android.gms.matchstick.settings.MatchstickSettingsActivity" />
+            <item name="com.google.android.gms.matchstick.ui.EntryActivity" />
+            <item name="com.google.android.gms.droidguard.DroidGuardGcmTaskService" />
+            <item name="com.google.android.gms.nearby.sharing.ReceiveSurfaceActivity" />
+            <item name="com.google.android.gms.carsetup.CarSetupService" />
+            <item name="com.google.android.gms.matchstick.contacts.reachability.ReachabilityService" />
+            <item name="com.google.android.gms.thunderbird.EmergencyPersistentService" />
+            <item name="com.google.android.location.internal.LocationContentProvider" />
+            <item name="com.google.android.gms.nearby.mediums.nearfieldcommunication.NfcAdvertisingService" />
+            <item name="com.google.android.gms.mdm.LockscreenActivity" />
+            <item name="com.google.android.gms.nearby.exposurenotification.service.ExposureMatchingService" />
+            <item name="com.google.android.gms.nearby.discovery.devices.DevicesListActivity" />
+            <item name="com.google.android.gms.family.v2.manage.FamilyManagementActivity" />
+            <item name="com.google.android.gms.googlehelp.GcmBroadcastReceiver" />
+            <item name="com.google.android.gms.backup.component.SetBackupAccountFlowActivity" />
+            <item name="com.google.android.gms.accountsettings.service.PurgeScreenDataService" />
+            <item name="com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver" />
+            <item name="com.google.android.gms.fido.client.ui.FidoClientActivity" />
+            <item name="com.google.android.gms.growth.notifications.GcmBroadcastReceiver" />
+            <item name="com.google.android.gms.adsidentity.settings.AdsIdentityPersonalizationActivity" />
+            <item name="com.google.android.gms.subscribedfeeds.GmsFeedsSyncService" />
+            <item name="com.google.android.gms.walletp2p.feature.transfer.TransferMoneyActivity" />
+            <item name="com.google.android.gms.lockbox.LockboxAlarmReceiver" />
+            <item name="com.google.android.gms.backup.mms.MmsRestoreService" />
+            <item name="com.google.android.gms.nearby.sharing.ShareSheetActivity" />
+            <item name="com.google.android.gms.measurement.PackageMeasurementTaskService" />
+            <item name="com.google.android.gms.location.persistent.LocationPersistentService" />
+            <item name="com.google.android.gms.nearby.discovery.service.DiscoveryService" />
+            <item name="com.google.android.gms.recaptcha.RecaptchaActivity" />
+            <item name="com.google.android.gms.matchstick.task.ScheduledTaskService" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.DmSetScreenlockActivity" />
+            <item name="com.google.android.gms.nearby.sharing.SettingsActivityAlias" />
+            <item name="com.google.android.gms.trustagent.ConfirmUserCredentialAndStartActivity" />
+            <item name="com.google.android.gms.analytics.AnalyticsTaskService" />
+            <item name="com.google.android.gms.adsidentity.settings.AdsIdentitySettingsActivity" />
+            <item name="com.google.android.gms.matchstick.call.CallEntryActivity" />
+            <item name="com.google.android.gms.people.service.galprovider.PeopleGalProvider" />
+            <item name="com.google.android.location.settings.ActivityRecognitionPermissionActivity" />
+            <item name="com.google.android.gms.auth.managed.ui.EmmActivity" />
+            <item name="com.google.android.gms.drive.deprecation.UpgradeDialogActivity" />
+            <item name="com.google.android.gms.fido.authenticator.ui.AuthenticatorActivity" />
+            <item name="com.google.android.gms.mdm.services.MdmPhoneWearableListenerService" />
+            <item name="com.google.android.gms.nearby.sharing.SetupActivity" />
+            <item name="com.google.android.gms.mdm.services.DeviceManagerApiService" />
+            <item name="com.google.android.gms.backup.component.GmsBackupSchedulerService" />
+            <item name="com.google.android.gms.backup.component.FullBackupJobLoggerService" />
+            <item name="com.google.android.gms.accountsettings.ui.SearchEntryPointActivity" />
+            <item name="com.google.android.gms.mdm.services.RingService" />
+            <item name="com.google.android.gms.romanesco.settings.ContactsRestoreDialogActivity" />
+            <item name="com.google.android.gms.family.v2.manage.InvitationManagementActivity" />
+            <item name="com.google.android.gms.auth.proximity.phonehub.NotificationOptInActivity" />
+            <item name="com.google.android.gms.nearby.sharing.SharingTileService" />
+            <item name="com.google.android.gms.accountsettings.ui.PrivacyHubActivityControlsActivity" />
+            <item name="com.google.android.gms.constellation.checker.RefreshGcmTaskService" />
+            <item name="com.google.android.gms.setupservices.GoogleServicesActivity" />
+            <item name="com.google.android.gms.credential.manager.PasswordManagerActivity" />
+            <item name="com.google.android.gms.thunderbird.settings.ThunderbirdSettingInjectorService" />
+            <item name="com.google.android.gms.auth.setup.devicesignals.LockScreenReceiver" />
+            <item name="com.google.android.gms.romanesco.settings.ContactsRestoreContactsActivity" />
+            <item name="com.google.android.gms.audit.upload.AuditGcmTaskService" />
+            <item name="com.google.android.gms.magictether.host.FirstTimeSetupDialogActivity" />
+            <item name="com.google.android.gms.nearby.sharing.SharingSyncService" />
+            <item name="com.google.android.gms.accountsettings.mg.ui.main.MainActivity" />
+            <item name="com.google.android.gms.nearby.discovery.fastpair.slice.FastPairSliceProvider" />
+            <item name="com.google.android.gms.backup.component.MmsBackupSchedulerService" />
+            <item name="com.google.android.gms.accountsettings.ui.ZeroPartyEntryPointActivity" />
+            <item name="com.google.android.gms.nearby.discovery.fastpair.AtvConnectActivity" />
+            <item name="com.google.android.gms.chromesync.sync.GcmBroadcastReceiver" />
+            <item name="com.google.android.location.settings.DrivingConditionProvider" />
+            <item name="com.google.android.gms.carsetup.DiscoverAaSettingsActivity" />
+            <item name="com.google.android.gms.smartdevice.d2d.ui.TargetDirectTransferActivity" />
+            <item name="com.google.android.gms.trustlet.place.ui.TrustedPlacesSettingsActivity" />
+            <item name="com.google.android.gms.lockbox.service.LockboxBrokerService" />
+            <item name="com.google.android.gms.gass.GassService" />
+            <item name="com.google.android.gms.thunderbird.EmergencyLocationService" />
+            <item name="com.google.android.gms.fido.u2f.ui.AuthenticateActivity" />
+            <item name="com.google.android.gms.auth.account.data.WorkAccountStoreReceiver" />
+            <item name="com.google.android.gms.walletp2p.feature.completion.CompleteMoneyTransferActivity" />
+            <item name="com.google.android.gms.mobiledataplan.ui.MobileDataPlanSettingsActivity" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.FinishSessionActivity" />
+            <item name="com.google.android.gms.nearby.discovery.devices.FindDeviceActivity" />
+            <item name="com.google.android.gms.pay.main.PayActivity" />
+            <item name="com.google.android.gms.nearby.discovery.fastpair.HalfSheetActivity" />
+            <item name="com.google.android.location.settings.NlpConsentFooterReceiver" />
+            <item name="com.google.android.gms.fido.fido2.ui.Fido2FullScreenActivity" />
+            <item name="com.google.android.gms.enpromo.PromoInternalPersistentService" />
+            <item name="com.google.android.gms.car.CarServiceSettingsActivity2" />
+            <item name="com.google.android.gms.romanesco.settings.ContactsRestoreSettingsActivity" />
+            <item name="com.google.android.gms.mobiledataplan.ui.MobileDataPlanDetailActivity" />
+            <item name="com.google.android.gms.udc.ui.UdcConsentActivity" />
+            <item name="com.google.android.gms.growth.notifications.NotificationActionActivity" />
+            <item name="com.google.android.gms.constellation.ui.ConstellationWebSettingsActivity" />
+            <item name="com.google.android.gms.matchstick.settings.RegistrationActivity" />
+            <item name="com.google.android.gms.auth.api.accounttransfer.PurgeAccountTransferDataService" />
+            <item name="com.google.android.gms.signin.activity.ConsentActivity" />
+            <item name="com.google.android.gms.auth.proximity.phonehub.PhoneHubService" />
+            <item name="com.google.android.gms.wallet.service.WalletGcmTaskService" />
+            <item name="com.google.android.gms.nearby.exposurenotification.settings.SettingsActivity" />
+            <item name="com.google.android.gms.googlehelp.gcm.InvalidateGcmTokenGcmTaskService" />
+            <item name="com.google.android.gms.subscribedfeeds.GmsSubscribedFeedsProvider" />
+            <item name="com.google.android.gms.auth.api.phone.ui.AutofillSettingsActivity" />
+            <item name="com.google.android.gms.lockbox.LockboxService" />
+            <item name="com.google.android.gms.pay.gcmtask.PayGcmTaskService" />
+            <item name="com.google.android.gms.backup.component.D2dMigrateHelperService" />
+            <item name="com.google.android.gms.pay.hce.service.PayHceService" />
+            <item name="com.google.android.gms.backup.component.D2dTransportService" />
+            <item name="com.google.android.gms.growth.ui.GrowthDebugActivity" />
+            <item name="com.google.android.gms.locationsharing.service.LocationSharingSettingInjectorService" />
+            <item name="com.google.android.gms.auth.managed.ui.SetupWorkProfileActivity" />
+            <item name="com.google.android.gms.family.v2.manage.DeleteMemberActivity" />
+            <item name="com.google.android.gms.tapandpay.admin.TpDeviceAdminReceiver" />
+            <item name="com.google.android.location.reporting.service.LocationHistoryInjectorService" />
+            <item name="com.google.android.gms.auth.uiflows.consent.BrowserConsentActivity" />
+            <item name="com.google.android.gms.thunderbird.settings.ThunderbirdSettingsContentProvider" />
+            <item name="com.google.android.gms.app.settings.SettingsSubPageActivity" />
+            <item name="com.google.android.gms.auth.managed.admin.DeviceAdminReceiver" />
+            <item name="com.google.android.gms.easysignin.EasySignInActivity" />
+            <item name="com.google.android.gms.auth.uiflows.removeaccount.GetAccountRemovalAllowedActivity" />
+            <item name="com.google.android.gms.auth.uiflows.factoryreset.PreFactoryResetActivity" />
+            <item name="com.google.android.gms.app.net.NetworkUsageActivity" />
+            <item name="com.google.android.gms.matchstick.data.LighterContentProvider" />
+            <item name="com.google.android.gms.constellation.ui.ConstellationSettingsActivity" />
+            <item name="com.google.android.gms.nearby.discovery.fastpair.CompanionAppInstallActivity" />
+            <item name="com.google.android.gms.subscribedfeeds.SyncService" />
+            <item name="com.google.android.gms.ipa.base.IpaGcmTaskService" />
+            <item name="com.google.android.gms.mobiledataplan.service.PeriodicUpdaterService" />
+            <item name="com.google.android.gms.growth.ui.webview.GrowthWebViewActivity" />
+            <item name="com.google.android.gms.car.CarService" />
+            <item name="com.google.android.location.settings.DrivingActivity" />
+            <item name="com.google.android.gms.googlehelp.helpactivities.OpenHelpRtcActivity" />
+            <item name="com.google.android.gms.phenotype.service.FlagOverrideReceiver" />
+            <item name="com.google.android.location.settings.ActivityRecognitionModeActivity" />
+            <item name="com.google.android.gms.googlehelp.contact.chat.ChatSupportRequestFormActivity" />
+            <item name="com.google.android.gms.auth.proximity.multidevice.SettingsActivity" />
+            <item name="com.google.android.gms.nearby.exposurenotification.service.ExposureNotificationInternalService" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.google.android.gms.netrec.scoring.receiver.ScoreNetworksBroadcastReceiver" />
+            <item name="com.google.android.location.drivingmode.DrivingModeSettingsActivity" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.DmDownloadInstallActivity" />
+            <item name="com.google.android.gms.pay.deeplink.AliasAddSignUpValuablesDeepLinkActivity" />
+            <item name="com.google.android.gms.nearby.sharing.ShareSheetActivityAliasSamsungGallery" />
+            <item name="com.google.android.gms.auth.account.authenticator.WorkAccountAuthenticatorService" />
+            <item name="com.google.android.gms.kids.settings.KidsSettingsActivityAliasSuw" />
+            <item name="com.google.android.gms.update.SystemUpdateActivity" />
+            <item name="com.google.android.gms.location.settings.EAlertPlatformSettingsActivity" />
+            <item name="com.google.android.gms.trustagent.GoogleTrustAgentTrustStatusMonitorSetting" />
+            <item name="com.google.android.location.settings.EAlertSettingsActivity" />
+            <item name="com.google.android.gms.mdm.receivers.OneTimeInitializerReceiver" />
+            <item name="com.google.android.gms.auth.managed.ui.SettingsSecurityDeviceOwnerActivity" />
+            <item name="com.google.android.location.ealert.ux.EAlertSafetyInfoActivity" />
+            <item name="com.google.android.gms.car.CarHomeActivity1" />
+            <item name="com.google.android.gms.car.CarHomeActivity2" />
+            <item name="com.google.android.location.settings.EAlertGoogleSettingDebugActivity" />
+            <item name="com.google.android.gms.auth.uiflows.addaccount.GoogleServicesActivity" />
+            <item name="com.google.android.gms.ocr.CardCaptureActivity" />
+            <item name="com.google.android.gms.ocr.SecuredCreditCardOcrActivity" />
+            <item name="com.google.android.location.drivingmode.DrivingModeSettingsNoSummaryActivity" />
+            <item name="com.google.android.location.drivingmode.AutoLaunchService" />
+            <item name="com.google.android.gms.nearby.discovery.fastpair.slice.FastPairContextualCardProvider" />
+            <item name="com.google.android.gms.ocr.GiftCardOcrActivity" />
+            <item name="com.google.android.location.service.EAlertSettingInjectorService" />
+            <item name="com.google.android.gms.trustagent.discovery.OnbodyPromotionActivity" />
+            <item name="com.google.android.location.drivingmode.DrivingModeFrxActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.gsf" ceDataInode="654457">
+        <disabled-components>
+            <item name="com.google.android.gsf.loginservice.MigrateToAccountManagerBroadcastReceiver" />
+            <item name="com.google.android.gsf.subscribedfeeds.SubscribedFeedsSyncAdapterService" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.tts" ceDataInode="654460" />
+    <pkg name="com.android.calllogbackup" ceDataInode="654463" />
+    <pkg name="com.google.android.partnersetup" ceDataInode="654466">
+        <enabled-components>
+            <item name="com.google.android.partnersetup.PhoneStateReceiver" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.android.carrierdefaultapp" ceDataInode="654469" domainVerificationStatus="2" app-link-generation="2" />
+    <pkg name="com.dsi.ant.server" ceDataInode="654472" />
+    <pkg name="org.lineageos.jelly" ceDataInode="654475" />
+    <pkg name="com.android.proxyhandler" ceDataInode="654173" />
+    <pkg name="com.android.inputmethod.latin" ceDataInode="654179">
+        <disabled-components>
+            <item name="com.android.inputmethod.latin.setup.SetupActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="org.lineageos.eleven" ceDataInode="654478" />
+    <pkg name="com.google.android.feedback" ceDataInode="654481" />
+    <pkg name="com.topjohnwu.magisk" ceDataInode="655054">
+        <enabled-components>
+            <item name="androidx.work.impl.background.systemjob.SystemJobService" />
+        </enabled-components>
+    </pkg>
+    <pkg name="org.lineageos.snap" ceDataInode="654484">
+        <disabled-components>
+            <item name="com.android.camera.DisableCameraReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.google.android.syncadapters.calendar" ceDataInode="654487" />
+    <pkg name="com.android.managedprovisioning" ceDataInode="654490" />
+    <pkg name="com.android.dreams.phototable" ceDataInode="654493" />
+    <pkg name="org.lineageos.overlay.accent.red" ceDataInode="654496" />
+    <pkg name="com.android.smspush" ceDataInode="654499" />
+    <pkg name="com.android.wallpaper.livepicker" ceDataInode="654502" />
+    <pkg name="org.lineageos.audiofx" ceDataInode="654505" />
+    <pkg name="com.android.apps.tag" ceDataInode="654508" />
+    <pkg name="org.lineageos.overlay.dark" ceDataInode="654511" />
+    <pkg name="com.google.android.backuptransport" ceDataInode="654514" />
+    <pkg name="com.android.storagemanager" ceDataInode="654517" />
+    <pkg name="com.android.bookmarkprovider" ceDataInode="654520" />
+    <pkg name="com.android.settings" ceDataInode="654185">
+        <enabled-components>
+            <item name="com.android.settings.Settings$MyDeviceInfoActivity" />
+            <item name="com.android.settings.Settings$ConnectedDeviceDashboardActivity" />
+            <item name="com.android.settings.Settings$PowerUsageSummaryActivity" />
+            <item name="com.android.settings.Settings$SimSettingsActivity" />
+            <item name="com.android.settings.Settings$NetworkDashboardActivity" />
+            <item name="com.android.settings.Settings$WifiDisplaySettingsActivity" />
+            <item name="com.android.settings.Settings$DateTimeSettingsActivity" />
+            <item name="com.android.settings.Settings$BluetoothSettingsActivity" />
+            <item name="com.android.settings.Settings$DevelopmentSettingsDashboardActivity" />
+            <item name="com.android.settings.backup.BackupSettingsActivity" />
+            <item name="com.android.settings.SetupRedactionInterstitial" />
+            <item name="com.android.settings.Settings$WifiSettingsActivity" />
+            <item name="com.android.settings.WebViewImplementation" />
+            <item name="com.android.settings.Settings$UserSettingsActivity" />
+            <item name="com.android.settings.Settings$DataUsageSummaryActivity" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.android.settings.Settings$DeviceInfoSettingsActivity" />
+            <item name="com.android.settings.CryptKeeper" />
+            <item name="com.android.settings.Settings$DataUsageSummaryLegacyActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.qualcomm.qti.ims" ceDataInode="654523" />
+    <pkg name="com.android.calculator2" ceDataInode="654526" />
+    <pkg name="com.google.android.apps.turbo" ceDataInode="654529">
+        <disabled-components>
+            <item name="com.google.android.apps.turbo.deadline.library.DeadlineUpdateReceiver" />
+        </disabled-components>
+    </pkg>
+    <pkg name="org.lineageos.updater" ceDataInode="654532" />
+    <pkg name="com.android.cts.ctsshim" ceDataInode="654535" />
+    <pkg name="com.opengapps.wellbeingoverlay" ceDataInode="654538" />
+    <pkg name="org.lineageos.lineageparts" ceDataInode="654544" />
+    <pkg name="com.caf.fmradio" ceDataInode="654547" />
+    <pkg name="org.lineageos.lineagesettings" ceDataInode="654191" />
+    <pkg name="com.android.vpndialogs" ceDataInode="654550" />
+    <pkg name="lineageos.platform" ceDataInode="654194" />
+    <pkg name="com.google.android.keep" ceDataInode="785887" domainVerificationStatus="2" app-link-generation="3" install-reason="4" />
+    <pkg name="com.android.email" ceDataInode="654553">
+        <enabled-components>
+            <item name="com.android.email.service.EasAuthenticatorService" />
+        </enabled-components>
+        <disabled-components>
+            <item name="com.android.email.service.EasAuthenticatorServiceAlternate" />
+            <item name="com.android.email.service.EmailUpgradeBroadcastReceiver" />
+            <item name="com.android.email.service.LegacyEmailAuthenticatorService" />
+            <item name="com.android.email.service.LegacyEasAuthenticatorService" />
+            <item name="com.android.email.service.AttachmentService" />
+            <item name="com.android.email.activity.ComposeActivityEmail" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.phone" ceDataInode="654200" />
+    <pkg name="com.android.shell" ceDataInode="654206">
+        <enabled-components>
+            <item name="com.android.shell.BugreportStorageProvider" />
+        </enabled-components>
+    </pkg>
+    <pkg name="com.android.wallpaperbackup" ceDataInode="654556" />
+    <pkg name="com.android.providers.blockednumber" ceDataInode="654562" />
+    <pkg name="com.android.providers.userdictionary" ceDataInode="654565" />
+    <pkg name="com.android.emergency" ceDataInode="654571" />
+    <pkg name="com.android.location.fused" ceDataInode="654212" />
+    <pkg name="com.android.deskclock" ceDataInode="654574" />
+    <pkg name="com.android.systemui" ceDataInode="654218">
+        <disabled-components>
+            <item name="com.android.systemui.tuner.TunerActivity" />
+        </disabled-components>
+    </pkg>
+    <pkg name="com.android.exchange" ceDataInode="654577" />
+    <pkg name="com.android.bluetoothmidiservice" ceDataInode="654580" />
+    <pkg name="com.qualcomm.qti.poweroffalarm" ceDataInode="654221" />
+    <pkg name="org.lineageos.backgrounds" ceDataInode="654583" />
+    <pkg name="com.android.traceur" ceDataInode="654586" />
+    <pkg name="com.android.bluetooth" ceDataInode="654592" />
+    <pkg name="com.qualcomm.timeservice" ceDataInode="654595" />
+    <pkg name="com.android.development" ceDataInode="654598" />
+    <pkg name="com.qualcomm.embms" ceDataInode="654601" />
+    <pkg name="com.android.providers.contacts" ceDataInode="654604" />
+    <pkg name="com.android.captiveportallogin" ceDataInode="654607" />
+    <pkg name="com.google.android.apps.restore" ceDataInode="654610" />
+    <preferred-activities>
+        <item name="com.android.messaging/.ui.conversation.LaunchConversationActivity" match="200000" always="true" set="2">
+            <set name="com.android.messaging/.ui.conversation.LaunchConversationActivity" />
+            <set name="com.whatsapp/.Conversation" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="smsto" />
+            </filter>
+        </item>
+        <item name="com.android.messaging/.ui.conversation.LaunchConversationActivity" match="200000" always="true" set="1">
+            <set name="com.android.messaging/.ui.conversation.LaunchConversationActivity" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mms" />
+            </filter>
+        </item>
+        <item name="com.android.messaging/.ui.conversation.LaunchConversationActivity" match="200000" always="true" set="2">
+            <set name="com.android.messaging/.ui.conversation.LaunchConversationActivity" />
+            <set name="com.whatsapp/.Conversation" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="sms" />
+            </filter>
+        </item>
+        <item name="com.android.chrome/com.google.android.apps.chrome.IntentDispatcher" match="200000" always="false" set="0">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="https" />
+            </filter>
+        </item>
+        <item name="com.android.messaging/.ui.conversation.LaunchConversationActivity" match="200000" always="true" set="1">
+            <set name="com.android.messaging/.ui.conversation.LaunchConversationActivity" />
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mmsto" />
+            </filter>
+        </item>
+    </preferred-activities>
+    <persistent-preferred-activities />
+    <crossProfile-intent-filters />
+    <default-apps>
+        <default-dialer packageName="com.android.dialer" />
+    </default-apps>
+</package-restrictions>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="audiofx.global.has_dts" value="false" />
+    <boolean name="audiofx.global.hasbassboost" value="true" />
+    <boolean name="saved_defaults" value="true" />
+    <string name="equalizer.band_level_range">-1500;1500</string>
+    <string name="equalizer.preset.0">300;0;0;0;300</string>
+    <string name="equalizer.number_of_presets">11</string>
+    <string name="equalizer.preset.1">500;300;-200;400;400</string>
+    <int name="audiofx.global.prefs.version" value="4" />
+    <string name="equalizer.preset.2">600;0;200;400;100</string>
+    <string name="equalizer.preset.3">0;0;0;0;0</string>
+    <string name="equalizer.preset.4">300;0;0;200;-100</string>
+    <string name="equalizer.preset.5">400;100;900;300;0</string>
+    <string name="equalizer.preset.6">500;300;0;100;300</string>
+    <string name="equalizer.preset.7">400;200;-200;200;500</string>
+    <string name="equalizer.preset.8">-100;200;500;100;-200</string>
+    <string name="equalizer.preset_names">Normal|Classical|Dance|Flat|Folk|Heavy Metal|Hip Hop|Jazz|Pop|Rock|Small speakers</string>
+    <boolean name="audiofx.global.hasmaxxaudio" value="false" />
+    <string name="equalizer.preset.9">500;300;-100;300;500</string>
+    <boolean name="audiofx.global.hasvirtualizer" value="true" />
+    <boolean name="audiofx.global.hasreverb" value="true" />
+    <string name="equalizer.number_of_bands">5</string>
+    <string name="equalizer.preset.10">-170;270;50;-220;200</string>
+    <string name="equalizer.center_freqs">60000;230000;910000;3600000;14000000</string>
+</map>

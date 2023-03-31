@@ -1,0 +1,5 @@
+Bluetooth Controller Product ID    : 0x0000000a
+Bluetooth Controller Patch Version : 0x0001
+Bluetooth Controller Build Version : 0x0201
+Bluetooth Controller SOC Version   : 0x40020140
+Bluetooth Contoller SU Build info  : BTFM.CHE.2.1.1.c2-00182-QCACHROMZ-1

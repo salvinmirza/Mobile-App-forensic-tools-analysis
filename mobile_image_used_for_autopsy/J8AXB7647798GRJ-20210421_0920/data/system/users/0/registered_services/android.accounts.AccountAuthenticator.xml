@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<services>
+    <service uid="10104" type="com.whatsapp" />
+    <service uid="10010" type="com.google" />
+    <service uid="10083" type="com.android.email" />
+    <service uid="10083" type="com.android.exchange" />
+</services>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="display_clock_seconds" value="false" />
+    <int name="intent.extra.alarm.global.id" value="45" />
+</map>

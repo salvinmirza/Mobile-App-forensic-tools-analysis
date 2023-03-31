@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="DirectBoot__enable_direct_boot" value="true" />
+    <boolean name="Sync__sync_on_checkin" value="false" />
+    <boolean name="enable_adaptive_poller" value="true" />
+    <boolean name="ContentProvider__enable_committed_flags_dump" value="false" />
+    <long name="interval_seconds" value="86400" />
+    <long name="ApiService__timeout_to_close_db_in_seconds" value="60" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_checkin_d_binary">EhcIABIEVFJPThINVFJPTl9DT1VOVEVSUw</string>
+    <boolean name="allow_cross_diversion_and_logging" value="true" />
+    <string name="PackageConfig__experiment_injecting_packages"></string>
+    <string name="Sync__sync_on_delta_blacklist"></string>
+    <boolean name="Database__enable_database_schema_version_24" value="true" />
+    <boolean name="UseScopeConfig__enable_app_scope" value="true" />
+    <string name="ph_appcfg_com_d_google_d_android_d_gms">CghHTVNfQ09SRQoWR01TQ09SRV9BTkRST0lEX1BSSU1FUw</string>
+    <string name="content_provider_3p_whitelist">com.google.android.gms.clearcut.public,com.google.android.gms.vision.sdk,com.google.android.gms.measurement,com.google.android.gms.icing,com.google.android.cruiser,org.chromium.net.cronet,com.google.android.gms.auth_account,com.google.android.gms.maps,com.google.android.gms.tflite</string>
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_car">EiMIABIaQ0xJRU5UX0xPR0dJTkdfR01TQ09SRV9DQVISA0NBUg</string>
+    <boolean name="Sync__cleanup_developer_db" value="false" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_apps_d_internal_d_zebedee">GgIIAA</string>
+    <long name="ApiService__thread_count" value="2" />
+    <boolean name="PackageUpdateOptimization__include_stopped_packages_in_broadcast" value="true" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_telephonyspam">EjwIABIOQU5EUk9JRF9ESUFMRVISEFNDT09CWV9FVkVOVF9MT0cSFlNDT09CWV9TUEFNX1JFUE9SVF9MT0c</string>
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_pay">EiYIABIPVEFQX0FORF9QQVlfQVBQEhFUQVBfQU5EX1BBWV9HQ09SRQ</string>
+    <boolean name="PlatformBoot__enable_tagged_puts" value="false" />
+    <boolean name="Sync__guard_against_same_tokens_tag" value="true" />
+    <long name="adaptive_window_start_seconds" value="14400" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_contextmanager">EogBCAASE0NMSUVOVF9MT0dHSU5HX1BST0QSJkNMSUVOVF9MT0dHSU5HX0dNU0NPUkVfQ09OVEVYVF9NQU5BR0VSEhFXRUxMQkVJTkdfQU5EUk9JRBIaV0VMTEJFSU5HX0FORFJPSURfQ09VTlRFUlMSGFdFTExCRUlOR19BTkRST0lEX1BSSU1FUw</string>
+    <boolean name="Sync__prefer_unmetered" value="true" />
+    <long name="__phenotype_configuration_version" value="1620170700" />
+    <string name="Sync__unregister_config_packages"></string>
+    <long name="Sync__rebroadcast_min_interval_seconds" value="-1" />
+    <boolean name="PhenotypeFeature__enable_broadcast_logging" value="false" />
+    <boolean name="DimensionsApi__enable_log" value="false" />
+    <string name="__phenotype_server_token">CAESSQDyi0h8igqyhDPxs37pIxI9J09Ors8DULWH94gma6-iaybUVKJb3xuLhU7EuFjTJQs0QtQfsvLWKpThCPKOhA6ufVB5WZc8-0k</string>
+    <boolean name="enable_schedule_on_register_delta" value="true" />
+    <boolean name="PlatformBoot__enable_platform_boot" value="true" />
+    <string name="AppScopeConfig__all_apps_scope">ChlDT0xMRUNUSU9OX0JBU0lTX1ZFUklGSUVSCgVJQ0lORw</string>
+    <long name="PackageUpdateOptimization__notify_all_uncommitted_timeout_seconds" value="86400" />
+    <boolean name="Sync__sync_on_flag_corruption" value="true" />
+    <string name="Sync__sync_on_nonsync_params_delta_blacklist">Cidjb20uZ29vZ2xlLmFuZHJvaWQuZ29vZ2xlcXVpY2tzZWFyY2hib3g</string>
+    <boolean name="UsePackageConfig__enable_logging_config" value="true" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_tapandpay">EiYIABIPVEFQX0FORF9QQVlfQVBQEhFUQVBfQU5EX1BBWV9HQ09SRQ</string>
+    <long name="PackageUpdateOptimization__update_now_bucket_upper_bound" value="10" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_location">EhwIABICTEUSFEFDVElWSVRZX1JFQ09HTklUSU9O</string>
+    <boolean name="enable_sync_after" value="true" />
+    <boolean name="Registration__remove_registration_on_downgrades" value="true" />
+    <boolean name="Sync__remove_request_config_tag" value="false" />
+    <string name="platform_settings_to_log"></string>
+    <string name="DeviceScopeConfig__log_sources">Cg1CQVRURVJZX1NUQVRTCgpESVNLX1NUQVRTCghEUk9QX0JPWAoSRFJPUF9CT1hfRUFTVFdPUkxEChFFQVNUV09STERfQkFUVEVSWQoRRklOR0VSUFJJTlRfU1RBVFMKE0dOU1NfUExBVEZPUk1fU1RBVFMKDkdSQVBISUNTX1NUQVRTCh1JUENPTk5FQ1RJVklUWV9QTEFURk9STV9TVEFUUwoOTEFVTkNIRVJfU1RBVFMKCE5FVFNUQVRTChJOT1RJRklDQVRJT05fU1RBVFMKClBST0NfU1RBVFMKDlNFVFRJTkdTX1NUQVRTCghTVE9SQUdFRAoWVEVMRUNPTV9QTEFURk9STV9TVEFUUwoYVEVMRVBIT05ZX1BMQVRGT1JNX1NUQVRTCglXRVNUV09STEQKEldFU1RXT1JMRF9NRVRBREFUQQoTV0lGSV9QTEFURk9STV9TVEFUUw</string>
+    <long name="max_users_to_sync" value="20" />
+    <string name="__phenotype_snapshot_token"> com.google.android.gms.phenotype 229 7 0 com.google.android.gms.phenotype 0 1</string>
+    <boolean name="Registration__enable_registration_info_tracking" value="true" />
+    <boolean name="UsePackageConfig__enable_experiment_injection" value="true" />
+    <long name="PackageUpdateOptimization__min_timeout_seconds" value="14400" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_ipa">Eg0IABIJSVBBX0dDT1JF</string>
+    <boolean name="PackageUpdateOptimization__allow_sending_broadcasts_to_not_running_apps" value="false" />
+    <boolean name="DimensionsApi__enable_set" value="false" />
+    <long name="connection_timeout_millis" value="60000" />
+    <boolean name="enable_task_reachability" value="false" />
+    <boolean name="Sync__remove_old_config_packages" value="false" />
+    <string name="ph_pkgcfg_com_d_google_d_android_d_gms_d_phenotype">EkMIABIJUEhFTk9UWVBFEhJQSEVOT1RZUEVfQ09VTlRFUlMSIENMSUVOVF9MT0dHSU5HX0dNU0NPUkVfUEhFTk9UWVBF</string>
+    <string name="Sync__garbage_collection_fetch_reasons"></string>
+    <boolean name="Registration__enable_baseline_cl" value="true" />
+    <boolean name="UsePackageConfig__enable_auto_subpackage" value="true" />
+    <string name="PackageUpdateOptimization__update_now_app_whitelist">ChZjb20uZ29vZ2xlLmFuZHJvaWQuZ21zChpjb20uZ29vZ2xlLmFuZHJvaWQuY2Fycmllcg</string>
+    <long name="Sync__read_timeout_millis" value="60000" />
+    <boolean name="Sync__detect_flag_corruption6" value="false" />
+    <boolean name="Registration__enable_delete_runtime_properties" value="true" />
+    <boolean name="use_http_url_connection" value="true" />
+    <boolean name="Commit__enable_commit_to_current" value="true" />
+    <boolean name="PhenotypeFeature__enable_committed_version_logging" value="true" />
+    <string name="sync_on_params_delta_blacklist">com.google.android.gms.phenotype,com.google.android.contacts,com.google.android.apps.links#com.google.android.apps.cerebra.links,com.google.android.apps.links#com.google.android.apps.cerebra.links.dogfood,com.google.android.gms.people</string>
+</map>

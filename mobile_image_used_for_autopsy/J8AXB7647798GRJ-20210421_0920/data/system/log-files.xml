@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<log-files>
+<log filename="/sys/fs/pstore/console-ramoops-0" timestamp="472489000" />
+<log filename="SYSTEM_AUDIT" timestamp="472489000" />
+</log-files>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="_boot_hash">247715873</string>
+    <string name="_boot_snapshotToken1"> com.google.android.gms.settings.platform.boot 332 2 0 com.google.android.gms.settings.platform.boot 0 1</string>
+    <string name="snapshotToken1"> com.google.android.gms.settings.platform 332 8 -480603160 com.google.android.gms.settings.platform -480603160 0</string>
+    <string name="hash">-1089725889</string>
+</map>

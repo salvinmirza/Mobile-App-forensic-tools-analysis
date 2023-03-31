@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="timeSpent" value="2.8409417" />
+    <float name="bias" value="-1.6577022" />
+    <float name="launch" value="2.5541284" />
+    <float name="chooser" value="4.222" />
+    <float name="recency" value="0.26843116" />
+    <int name="version" value="1" />
+</map>

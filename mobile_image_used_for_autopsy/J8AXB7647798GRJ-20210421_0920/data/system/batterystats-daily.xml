@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<daily-items>
+<item start="1611691536297" end="1619868361593">
+<upd pkg="com.topjohnwu.magisk" ver="1" />
+<upd pkg="com.android.vending" ver="82502910" />
+<upd pkg="com.android.vending" ver="82502910" />
+</item>
+<item start="1619868361593" end="1592517214245">
+<dis n="1">
+<s v="fO-5b-db007" />
+</dis>
+<upd pkg="com.google.android.gms" ver="211213030" />
+<upd pkg="com.google.android.gms" ver="211213030" />
+<upd pkg="com.whatsapp" ver="210817007" />
+<upd pkg="com.google.android.keep" ver="211410340" />
+<upd pkg="net.mullvad.mullvadvpn" ver="21010001" />
+<upd pkg="com.android.chrome" ver="443009123" />
+<upd pkg="org.thoughtcrime.securesms" ver="82602" />
+</item>
+<item start="1619891919972" end="1608234981288">
+<dis n="1">
+<s v="fO-55-9c071" />
+</dis>
+</item>
+<item start="1608234981288" end="1619899292390">
+<upd pkg="org.thoughtcrime.securesms" ver="0" />
+<upd pkg="org.thoughtcrime.securesms" ver="0" />
+<upd pkg="com.topjohnwu.magisk" ver="22100" />
+<upd pkg="com.topjohnwu.magisk" ver="22100" />
+<upd pkg="com.topjohnwu.magisk" ver="22100" />
+</item>
+<item start="1619899292390" end="1610631734609">
+<upd pkg="com.google.android.soundpicker" ver="26000012" />
+<upd pkg="com.google.android.soundpicker" ver="26000012" />
+<upd pkg="com.google.android.googlequicksearchbox" ver="301141740" />
+<upd pkg="com.google.android.googlequicksearchbox" ver="301141740" />
+</item>
+<item start="1619903337354" end="1608330536314">
+<chg n="3">
+<s v="fF-59-1d4c0" />
+<s v="fF-58-2bf20" />
+<s v="fF-57-1d4c0" />
+</chg>
+</item>
+<item start="1619910673085" end="1619957300061">
+<dis n="3">
+<s v="fiF-5e-927c1b" />
+<s v="fiF-5f-d2921b" />
+<s v="fFI-60-6ddd61" />
+</dis>
+<upd pkg="com.google.android.apps.turbo" ver="10238605" />
+<upd pkg="com.google.android.apps.turbo" ver="10238605" />
+<upd pkg="com.google.android.apps.wellbeing" ver="217217" />
+<upd pkg="com.google.android.apps.wellbeing" ver="217217" />
+<upd pkg="com.cmidevelop.whatshack" ver="12" />
+<upd pkg="com.google.android.tts" ver="210316595" />
+<upd pkg="com.google.android.tts" ver="210316595" />
+<upd pkg="com.cmidevelop.whatshack" ver="0" />
+</item>
+<item start="1619957300061" end="1620040978871">
+<dis n="9">
+<s v="fiF-60-dbba1d" />
+<s v="fFI-61-36ee8b" />
+<s v="oF-5c-4c8be" />
+<s v="oF-5d-8ff98" />
+<s v="fO-5e-18a4e0" />
+<s v="fO-5f-6ab7c" />
+<s v="oO-60-a8a00" />
+<s v="fOI-61-d133e" />
+<s v="fFI-62-64b59b" />
+</dis>
+</item>
+<item start="1620040978871" end="1620124535492">
+<dis n="6">
+<s v="oOI-60-d29363" />
+<s v="oF-61-5cc37" />
+<s v="fO-62-90b4c" />
+<s v="fOI-60-4f210b" />
+<s v="oO-61-24a016" />
+<s v="oF-62-25ff8" />
+</dis>
+<upd pkg="org.thoughtcrime.securesms" ver="83202" />
+<upd pkg="org.thoughtcrime.securesms" ver="0" />
+<upd pkg="org.thoughtcrime.securesms" ver="0" />
+<upd pkg="org.thoughtcrime.securesms" ver="83202" />
+<upd pkg="org.thoughtcrime.securesms" ver="0" />
+<upd pkg="org.thoughtcrime.securesms" ver="0" />
+<upd pkg="net.mullvad.mullvadvpn" ver="0" />
+<upd pkg="net.mullvad.mullvadvpn" ver="0" />
+<upd pkg="net.mullvad.mullvadvpn" ver="21010001" />
+</item>
+</daily-items>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="pref_camera2_awb_decision_after_tc_0" value="0.0" />
+    <float name="pref_camera2_awb_cct_rgain_key" value="-1.0" />
+    <float name="pref_camera2_awb_decision_after_tc_1" value="0.0" />
+    <float name="pref_camera2_awb_cct_bgain_key" value="-1.0" />
+    <float name="pref_camera2_awb_cct_key" value="-1.0" />
+    <float name="pref_camera2_awb_cct_ggain_key" value="-1.0" />
+    <int name="pref_local_version_key" value="2" />
+</map>

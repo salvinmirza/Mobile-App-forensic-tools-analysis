@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="snet_last_idle_run_timestamp" value="1620171849208" />
+    <long name="snet_app_ops_last_timestamp" value="1620171838593" />
+    <boolean name="snet_jpeg_written_to_sdcard" value="true" />
+    <boolean name="snet_jpeg_previously_tampered" value="false" />
+    <string name="snet_jpeg_filename">gmsnet2.jpg</string>
+</map>

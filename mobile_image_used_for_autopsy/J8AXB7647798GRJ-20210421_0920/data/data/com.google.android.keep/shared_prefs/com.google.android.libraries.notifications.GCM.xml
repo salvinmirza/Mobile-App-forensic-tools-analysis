@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="PeriodicWipeoutFeature__max_threads_in_storage" value="0" />
+    <boolean name="RichNotificationFeature__enable_enlarged_image_for_collaborator" value="true" />
+    <string name="SyncFeature__disable_fetch_latest_threads_by_reason"></string>
+    <boolean name="LoggingFeature__log_device_state_notifications_in_tray" value="false" />
+    <boolean name="DeviceStateFeature__read_app_in_foreground" value="true" />
+    <boolean name="DeviceStateFeature__read_battery_level" value="true" />
+    <boolean name="LoggingFeature__log_device_state_battery_charging" value="false" />
+    <float name="LoggingFeature__log_device_state_battery_level_precision" value="0.1" />
+    <boolean name="DeviceStateFeature__read_network_roaming" value="true" />
+    <boolean name="LoggingFeature__log_system_event_login_accounts_changed" value="true" />
+    <boolean name="RichNotificationFeature__enable_snooze_action" value="false" />
+    <boolean name="LoggingFeature__log_device_state_battery_level" value="false" />
+    <boolean name="UserFeedbackFeature__enable_ihnr_surveys_v2" value="false" />
+    <boolean name="DeviceStateFeature__read_network_transport" value="true" />
+    <boolean name="LoggingFeature__log_device_state_network_roaming" value="false" />
+    <boolean name="LoggingFeature__log_device_state_power_saving" value="false" />
+    <boolean name="DeviceStateFeature__read_battery_charging" value="true" />
+    <long name="InboxFeature__notification_limit" value="50" />
+    <boolean name="NetworkFeature__use_gnp_http_client_v2" value="true" />
+    <boolean name="UserFeedbackFeature__enable_ihnr_with_action_buttons" value="false" />
+    <string name="SystemTrayFeature__force_action_to_open_as_activity"></string>
+    <boolean name="RegistrationFeature__disable_registration_on_login_accounts_changed" value="true" />
+    <boolean name="DeviceStateFeature__read_network_metered" value="true" />
+    <boolean name="FloggerFeature__enabled" value="false" />
+    <boolean name="LoggingFeature__log_system_event_locale_changed" value="false" />
+    <boolean name="LoggingFeature__log_system_event_scheduled_job" value="false" />
+    <boolean name="DeviceStateFeature__read_power_saving" value="true" />
+    <boolean name="PeriodicWipeoutFeature__enabled" value="true" />
+    <string name="RichNotificationFeature__enlarged_image_layout">CAA</string>
+    <long name="__phenotype_configuration_version" value="1619965500" />
+    <boolean name="DeviceStateFeature__read_user_interactive" value="true" />
+    <boolean name="NetworkFeature__use_gnp_http_client" value="false" />
+    <boolean name="UserFeedbackFeature__enable_insat_surveys" value="false" />
+    <boolean name="LoggingFeature__log_device_state_network_metered" value="false" />
+    <float name="RichNotificationFeature__default_aspect_ratio" value="1.777" />
+    <string name="__phenotype_server_token">CAESKQDyi0h8PiwkKuwL66ayTQ9Gx6lgnB2F2bQ8D0rICBZgy5f8JUpTaTxZ</string>
+    <string name="SyncFeature__disable_fetch_updated_threads_by_reason"></string>
+    <boolean name="QualityOptimizationFeature__enabled" value="false" />
+    <boolean name="RichNotificationFeature__enable_turn_off_action" value="false" />
+    <long name="RegistrationStalenessFeature__seconds_after_to_treat_registrations_as_stale" value="12940" />
+    <string name="__phenotype_snapshot_token"> com.google.android.libraries.notifications#com.google.android.keep 211410340 1 967015679 com.google.android.libraries.notifications#com.google.android.keep 967015679 0</string>
+    <long name="DeviceStateFeature__cache_ttl_ms" value="600000" />
+    <boolean name="DummyFeature__dummy_flag" value="false" />
+    <string name="SyncFeature__disable_fetch_threads_by_id_by_reason"></string>
+    <boolean name="LoggingFeature__log_device_ui_mode" value="false" />
+    <boolean name="LoggingFeature__log_device_state_network_transport" value="false" />
+    <boolean name="DeviceStateFeature__read_notifications_in_tray" value="true" />
+    <boolean name="SystemTrayFeature__schedule_refresh_notifications_task" value="true" />
+    <boolean name="UserFeedbackFeature__enable_temporary_message_views" value="false" />
+    <boolean name="ClickDurationFeature__enabled" value="false" />
+    <boolean name="LoggingFeature__log_system_event_phenotype_changed" value="false" />
+    <long name="QualityOptimizationFeature__evaluation_interval_ms" value="3600000" />
+    <float name="RichNotificationFeature__max_aspect_ratio" value="2.5" />
+    <boolean name="SystemTrayFeature__drop_after_max_notification_count_reached" value="true" />
+    <boolean name="LoggingFeature__log_system_event_boot_completed" value="false" />
+    <boolean name="SystemTrayFeature__enable_html_tags" value="true" />
+    <boolean name="LoggingFeature__log_removed_event" value="true" />
+    <string name="reg_id">clkfKmORSWOarP7yt-wJHX:APA91bG4_wL1pEJGHVj3t-ifQaiItBc1zxfO30-FwitXhO8OlPHTNIzMQOFnG5q_7INPEOuz-TR9C-Qq_tIyeWXK1pwhoZFbGtyhtHWGtR2PQVlT9qTQT9o2kZ_bDL0B6s68QXqIIzGp</string>
+    <boolean name="RichNotificationFeature__enable_reply" value="true" />
+    <boolean name="LoggingFeature__log_system_event_timezone_changed" value="false" />
+    <float name="RichNotificationFeature__min_aspect_ratio" value="0.75" />
+    <boolean name="LoggingFeature__log_system_event_app_updated" value="false" />
+    <boolean name="DeviceStateFeature__read_interruption_filter" value="true" />
+    <long name="PeriodicWipeoutFeature__notifications_storage_duration" value="2419200000" />
+    <boolean name="LoggingFeature__log_device_state_interruption_filter" value="true" />
+    <boolean name="DeviceStateFeature__read_user_in_call" value="true" />
+    <string name="RegistrationFeature__disable_registration_by_reason">CAM</string>
+</map>

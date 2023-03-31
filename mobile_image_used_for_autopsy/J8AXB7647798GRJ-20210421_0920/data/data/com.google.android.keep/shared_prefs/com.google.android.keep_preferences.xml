@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="displayAsMultiColumn" value="true" />
+    <boolean name="reminderMigrationCompleted" value="true" />
+    <boolean name="shouldShowSyncOffBannerhoratio0.42k@gmail.com" value="false" />
+    <string name="sessionId">abbf0f74-9b3f-4445-9046-1a83549ec91a</string>
+    <boolean name="reinitializeAppIndexCompleted" value="true" />
+    <long name="syncOffBannerUpdatedTimestamphoratio0.42k@gmail.com" value="1619869231260" />
+    <string name="syncProtocolVersion">KeepSyncV16</string>
+    <boolean name="shouldRefreshWearableData" value="true" />
+    <boolean name="notificationChannelsCreated" value="true" />
+    <int name="theme" value="1" />
+    <boolean name="imageRedecodingCompleted" value="true" />
+    <boolean name="RLZ_ALREADY_SENT" value="true" />
+</map>

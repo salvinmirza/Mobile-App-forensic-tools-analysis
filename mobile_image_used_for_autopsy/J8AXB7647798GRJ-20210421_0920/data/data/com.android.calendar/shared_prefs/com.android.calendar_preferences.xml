@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="preferences_week_start_day">-1</string>
+    <string name="preferences_default_reminder">10</string>
+    <boolean name="preferences_hide_declined" value="false" />
+    <string name="preferences_alerts_ringtone">content://settings/system/notification_sound</string>
+    <boolean name="preference_received_provider_reminder_broadcast" value="true" />
+    <string name="preferences_home_tz">America/Phoenix</string>
+    <boolean name="preferences_show_week_num" value="false" />
+    <boolean name="preferences_alerts_popup" value="false" />
+    <boolean name="preferences_alerts_vibrate" value="false" />
+    <boolean name="preferences_alerts" value="true" />
+    <string name="preference_defaultCalendar">horatio0.42k@gmail.com</string>
+    <int name="preferred_detailedView" value="2" />
+    <string name="preferences_version">9</string>
+    <int name="preferred_startView" value="4" />
+    <int name="preferences_default_cell_height" value="192" />
+    <boolean name="preferences_home_tz_enabled" value="true" />
+</map>

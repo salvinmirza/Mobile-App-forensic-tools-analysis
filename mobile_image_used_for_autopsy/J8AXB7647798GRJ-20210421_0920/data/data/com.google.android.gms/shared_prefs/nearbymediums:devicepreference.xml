@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="is_6g_band_supported">UNSUPPORTED</string>
+    <string name="is_5g_band_supported">UNSUPPORTED</string>
+</map>

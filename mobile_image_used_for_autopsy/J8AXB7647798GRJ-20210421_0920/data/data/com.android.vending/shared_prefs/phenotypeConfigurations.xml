@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="SupervisorNetwork__enable_java_cronet_engine" value="false" />
+    <string name="OptIn__bypass_opt_in_approved_callers">com.android.vending,com.google.android.play.games</string>
+    <long name="GoToWeb__snooze_duration_ms" value="3600000" />
+    <boolean name="PhoneskyInstaller__archive_download_requires_charging_flag" value="true" />
+    <string name="SupervisorNetwork__stripped_apk_download_url_format"></string>
+    <boolean name="SupervisorNative__enable_get_error_stats" value="true" />
+    <boolean name="Supervisor__log_hygiene_step_runtime_info" value="true" />
+    <boolean name="Supervisor__enable_apk_dna_assembly" value="false" />
+    <boolean name="PhoneskyInstaller__allow_dup_launches_for_url_less" value="true" />
+    <boolean name="PhoneskyInstallerNetwork__enable_get_app_splits_cache" value="true" />
+    <boolean name="InstantApps__log_whapi_rpc_failure_exception" value="false" />
+    <long name="PhoneskyInstaller__mandatory_status_sync_interval_secs" value="604800" />
+    <boolean name="PhoneskyPatchDetection__enable_patch_detection" value="true" />
+    <boolean name="Supervisor__enable_load_system_libraries" value="false" />
+    <boolean name="LoadingUi__enable_breakout_minigame_metrics_logging" value="true" />
+    <boolean name="LoadingUi__start_breakout_minigame_on_slow_download" value="true" />
+    <string name="PhoneskyHygieneApp__phonesky_hygiene_app_url">https://aia-hygiene.firebaseapp.com/launchpad</string>
+    <long name="PhoneskyInstallCoordinator__implementation" value="3" />
+    <string name="Logging__log_sampling_list">CggIphgVMzNzPwoICKIYFTMzcz8KCAinGBUzM3M/CggIqBgVMzNzPwoICKoYFWZmZj8KCAihGBWamVk/CggInhgVMzMzPwoICKQYFQAAAD8KCAjlHR0AAIA/CggItRgVAAAAPwoICOodHWZmZj8KCAjsHR1mZmY/</string>
+    <string name="SupervisorNetwork__apk_download_preconnect_url"></string>
+    <boolean name="Supervisor__enable_noncopy_dna_strategies" value="true" />
+    <boolean name="Supervisor__use_wh_resources_manager" value="false" />
+    <boolean name="LoadingUi__hide_url_ui_for_play_surfaces_oplus" value="true" />
+    <boolean name="Logging__require_swaadl_for_personal_logs" value="true" />
+    <boolean name="LaunchService__send_launch_cache_status" value="false" />
+    <string name="Supervisor__minimum_security_patch"></string>
+    <long name="Supervisor__max_security_patch_age_in_days" value="0" />
+    <boolean name="SupervisorNetwork__log_download_response_ok_events" value="true" />
+    <string name="SupervisorDownloader__background_buffered_download_urls"></string>
+    <string name="SupervisorDownloader__buffer_policies_config">CjAKJQoRYnVmZmVyZWQtZG93bmxvYWQSEC4rL2F0b20vcGF0Y2gvLisSBwgBEICAgAEKNAopChFidWZmZXJlZC1kb3dubG9hZBIULis6Y29uZmlnXC5hcm1lYWJpLisSBwgBEICAgAEKLgojChFidWZmZXJlZC1kb3dubG9hZBIOLisvYXRvbS8uKzovLisSBwgCEICAgAIKHQoTChFidWZmZXJlZC1kb3dubG9hZBIGCAEQgIBACiAKFQoTYXNzZW1ibGUtY29tcG9uZW50cxIHCAEQgICACgoiChgKFmluZmxhdGVkLXNvdXJjZS1zdHJlYW0SBggBEICAIA</string>
+    <string name="SupervisorNative__no_op_release_or_destroy_surface">com.hulab.mapstr,com.hulab.appbehavior,com.primedia.apartmentguide,</string>
+    <boolean name="InstantApps__enable_apk_dna_archive_push_pull_together" value="false" />
+    <boolean name="Logging__enable_system_dialog_close_receiver" value="true" />
+    <boolean name="PhoneskyInstaller__allow_dup_launches_for_url_based" value="true" />
+    <boolean name="OptIn__enable_opt_in_hosted_in_phonesky" value="false" />
+    <boolean name="PhoneskyInstaller__enable_patch_supported_archive_download_handler" value="true" />
+    <boolean name="Supervisor__enable_microdump_logging" value="true" />
+    <boolean name="Supervisor__synchronize_wh_resources_manager_fields" value="true" />
+    <boolean name="GoToWeb__show_excluded_apps" value="true" />
+    <boolean name="PhoneskyInstallerNetwork__use_cronet" value="true" />
+    <boolean name="Supervisor__enable_input_stream_instrumentation" value="true" />
+    <boolean name="Supervisor__enable_unwind_table_dumping" value="true" />
+    <boolean name="PhoneskyInstaller__enable_input_stream_instrumentation" value="true" />
+    <long name="SupervisorNetwork__cronet_net_log_duration_millis" value="-1" />
+    <string name="Supervisor__enable_unified_class_loading_whitelist">com.urbanclap.urbanclap,com.goibibo,com.dotloop.mobile,</string>
+    <boolean name="SupervisorNetwork__enable_cronet_server_configs_cache_refresh" value="false" />
+    <boolean name="Games__show_legacy_logo" value="false" />
+    <boolean name="Supervisor__framework_uses_telephony_manager" value="false" />
+    <string name="Supervisor__telephony_manager_whitelist">com.google.android.instantapps.samples.hello,com.contextlogic.wish,com.jet.jet.app,com.move.realtor,com.nousguide.android.rbtv,org.sharethemeal.app,com.viki.android,au.com.realestate.app,com.project.vivareal,com.citymapper.app.release,</string>
+    <long name="LoadingUi__breakout_minigame_quick_download_threshold_timeout_ms" value="1000" />
+    <string name="SupervisorNetwork__apk_download_url_format">https://playatoms.googleusercontent.com/atom/{0}:{1}:{2}</string>
+    <string name="HygieneApp__hygiene_app_url">https://aia-hygiene.firebaseapp.com/launchpad</string>
+    <boolean name="InstantApps__enable_latency_funnel_logging" value="false" />
+    <boolean name="PhoneskyPatchDetection__enable_patch_detection_rerun" value="false" />
+    <long name="SupervisorDownloader__max_buffer_size_bytes_for_apks" value="1048576" />
+    <boolean name="PhoneskyInstallerNetwork__phonesky_read_partial_download_cache" value="false" />
+    <boolean name="PhoneskyInstaller__log_supervisor_archive_info_from_phonesky" value="false" />
+    <boolean name="InstantApps__enable_apk_dna_persistent_archive" value="false" />
+    <boolean name="Supervisor__enable_LD_LIBRARY_PATH_update" value="true" />
+    <long name="Supervisor__dump_gl_commands_count" value="100" />
+    <boolean name="Logging__log_abandonment_before_opt_in" value="false" />
+    <boolean name="InstantApps__enable_opt_in_check_for_apk_dna" value="false" />
+    <string name="PhoneskyInstaller__enabled_apk_dna_packages">com.dts.freefireth,</string>
+    <long name="Supervisor__hygiene_deadline_ms" value="345600000" />
+    <boolean name="PhoneskyInstaller__enable_apk_dna_assembly" value="false" />
+    <long name="SupervisorNetwork__download_network_stack" value="0" />
+    <boolean name="SupervisorNetwork__enable_file_downloader_apk_provider" value="true" />
+    <boolean name="SupervisorNative__disable_shader_translator" value="true" />
+    <long name="Logging__log_flush_schedule_seconds" value="1200" />
+    <boolean name="LaunchService__use_secure_supervisor_activity_alias_if_available" value="false" />
+    <string name="Logging__should_clear_crash_info">3813</string>
+    <boolean name="Supervisor__additional_hook_function_logging" value="true" />
+    <string name="Supervisor__application_info_update_blacklist">com.supercell.clashroyale</string>
+    <boolean name="Supervisor__enable_explicit_intent_resolution" value="false" />
+    <long name="Supervisor__supervisor_prelaunch_info_with_app_info_timeout_ms" value="15000" />
+    <boolean name="PhoneskyInstaller__disable_apk_dna_prefetch_on_managed_chrome_os" value="false" />
+    <string name="Supervisor__blacklisted_services"></string>
+    <string name="SupervisorNative__ignore_draw_arrays_call">com.sgn.pandapop.gp,</string>
+    <long name="PhoneskyDnaAssembly__max_buffer_size_bytes_for_dna_patch_ranges" value="524288" />
+    <boolean name="Supervisor__disable_null_binder_for_telephony_manager" value="true" />
+    <string name="Supervisor__enable_native_activity_whitelist">com.chillingo.catapultkingfree.android.row,com.potatojam.classic.solitaire.klondike,com.puipui.seahero,com.se.zsj</string>
+    <boolean name="PhoneskyPatchDetection__enable_patch_detection_enforcement" value="true" />
+    <boolean name="SupervisorDownloader__enable_dna_early_patch_download" value="true" />
+    <string name="SpeedBump__trusted_callers">com.android.vending,com.google.android.apps.mediahome.launcher,com.google.android.play.games,com.google.android.videos,com.google.android.apps.books</string>
+    <boolean name="Supervisor__fetch_pre_launch_info_ignoring_opt_in" value="false" />
+    <boolean name="PhoneskyInstallerNetwork__enable_native_brotli_in_phonesky" value="true" />
+    <boolean name="PhoneskyHygieneApp__extend_gc_window_for_url_less_apps_for_unset_users" value="true" />
+    <boolean name="Footprints__log_uncached_launches_for_footprints_export_on_o_plus" value="true" />
+    <boolean name="Supervisor__log_implicit_intents" value="false" />
+    <string name="PhoneskyDnaAssembly__buffer_policies_config">CjAKJQoRYnVmZmVyZWQtZG93bmxvYWQSEC4rL2F0b20vcGF0Y2gvLisSBwgBEICAgAEKNAopChFidWZmZXJlZC1kb3dubG9hZBIULis6Y29uZmlnXC5hcm1lYWJpLisSBwgBEICAgAEKLgojChFidWZmZXJlZC1kb3dubG9hZBIOLisvYXRvbS8uKzovLisSBwgCEICAgAIKHQoTChFidWZmZXJlZC1kb3dubG9hZBIGCAEQgIBACiAKFQoTYXNzZW1ibGUtY29tcG9uZW50cxIHCAEQgICACgoiChgKFmluZmxhdGVkLXNvdXJjZS1zdHJlYW0SBggBEICAIA</string>
+    <boolean name="Supervisor__log_local_content_provider_proxy_attempts" value="true" />
+    <boolean name="Supervisor__log_free_space_on_device" value="true" />
+    <boolean name="Supervisor__enable_archive_download_call_flag" value="true" />
+    <boolean name="Supervisor__enable_opt_in_check_for_apk_dna" value="false" />
+    <boolean name="Supervisor__show_generic_failure_dialog_preo_for_1p" value="false" />
+    <boolean name="InstantApps__enabled_async_component_assembly" value="false" />
+    <boolean name="LoadingUi__enable_animated_loading_ui" value="false" />
+    <boolean name="Supervisor__disable_local_content_provider_handling" value="true" />
+    <string name="PhoneskyPatchDetection__required_patches"></string>
+    <string name="SupervisorNetwork__dns_prefetch_hostnames">playatoms-pa.googleapis.com,playatoms.googleusercontent.com</string>
+    <boolean name="LoadingUi__hide_url_ui_for_play_surfaces_preo" value="false" />
+    <boolean name="InstantApps__enable_launch_result_broadcasting" value="true" />
+    <long name="InstantApps__min_storage_for_archive_download_in_mb" value="750" />
+    <boolean name="Supervisor__enable_loaded_atoms_hygiene_deletion" value="true" />
+    <boolean name="HygieneApp__enable_hygiene_app_task" value="true" />
+    <boolean name="Supervisor__bypass_unwritable_pages_for_hooks" value="true" />
+    <boolean name="PhoneskyInstallerNetwork__enable_quic" value="true" />
+    <boolean name="Supervisor__hide_go_to_web_notification_for_1p_launch_surfaces" value="false" />
+    <boolean name="LoadingUi__force_opaque_on_o_games" value="false" />
+    <boolean name="PhoneskyInstaller__enable_instant_apps_status_sync" value="true" />
+    <boolean name="InstantApps__enable_launch_result_broadcasting_on_preo" value="false" />
+    <long name="PhoneskyInstaller__intersplit_install_success_delay_millis" value="50" />
+    <boolean name="Supervisor__enable_holdback_support_detection" value="true" />
+    <string name="Supervisor__alternative_apks_for_pre_o_blacklisted_packages"></string>
+    <boolean name="LaunchService__force_framework_resolution_on_o_plus" value="true" />
+    <string name="Supervisor__override_mtk_bsp_property"></string>
+    <boolean name="GoToWeb__enable_remote_metadata_fetch_in_settings_provider" value="true" />
+    <boolean name="SupervisorDownloader__enable_streaming_apk_provider" value="false" />
+    <string name="SupervisorNative__enable_service_side_gl_error">com.gameloft.android.ANMP.GloftDOHM,com.epicactiononline.ffxv.ane,com.hotheadgames.google.free.bops,com.pacificinteractive.HouseOfFun,com.com2us.com2usdance.normal.freefull.google.global.android.common,</string>
+    <long name="PhoneskyInstaller__interval_collected_threshold_ms" value="100" />
+    <boolean name="Supervisor__enforce_resolved_intents" value="false" />
+    <boolean name="PhoneskyInstaller__enable_apk_dna_archive_update_by_patch" value="true" />
+    <boolean name="Supervisor__disable_caching_isolated_service_on_failures" value="false" />
+    <boolean name="TestFeature__enable_test" value="true" />
+    <boolean name="InstantApps__disable_instant_apps_launch_intents" value="false" />
+    <boolean name="LaunchService__enable_launch_key_opt_in_state_checking" value="true" />
+    <boolean name="PhoneskyInstaller__enable_noncopy_dna_strategies" value="true" />
+    <boolean name="Supervisor__disable_web_fallback_for_1p_launches_on_preo" value="false" />
+    <boolean name="PhoneskyInstaller__enable_dynamic_optimization_policy_fallback" value="false" />
+    <long name="GoToWeb__snooze_count_for_disable" value="3" />
+    <boolean name="PhoneskyInstaller__show_inactionable_failure_dialog_oplus_for_1p" value="true" />
+    <long name="InstantApps__garbage_collection_cutoff_millis" value="1209600000" />
+    <string name="SupervisorNative__check_vertex_attrib_memory_boundary"></string>
+    <boolean name="Logging__persist_user_context" value="true" />
+    <boolean name="Supervisor__disable_null_binder_for_wifi_manager" value="false" />
+    <boolean name="SupervisorNetwork__native_lib_extraction_cache_result" value="true" />
+    <boolean name="OptIn__bypass_opt_in_requires_badged_intent_extra" value="false" />
+    <boolean name="LaunchService__enable_launch_key_decoding" value="true" />
+    <boolean name="PhoneskyInstallerNetwork__enable_http2" value="true" />
+    <boolean name="LaunchService__construct_launch_intent_from_launch_key" value="true" />
+    <boolean name="PhoneskyInstaller__show_generic_failure_dialog_oplus_for_1p" value="true" />
+    <boolean name="PhoneskyInstaller__enable_deflated_dna_components" value="false" />
+    <string name="SupervisorNetwork__scs_compression_suffix">/brotli-q11w22</string>
+    <boolean name="Supervisor__enable_unified_class_loading" value="false" />
+    <boolean name="Supervisor__synchronize_resources_manager_N" value="false" />
+    <boolean name="Logging__should_schedule_log_flush" value="true" />
+    <long name="Supervisor__supervisor_prelaunch_info_without_app_info_timeout_ms" value="750" />
+    <long name="GoToWeb__snooze_duration_for_disable_ms" value="604800000" />
+    <boolean name="Supervisor__enable_read_archive_from_phonesky" value="true" />
+    <boolean name="LoadingUi__allow_breakout_minigame" value="false" />
+    <long name="PhoneskyDnaAssembly__max_buffer_size_bytes_for_dna_components" value="20971520" />
+    <boolean name="Supervisor__show_loading_without_delay" value="false" />
+    <boolean name="LaunchService__disable_default_url_fallback" value="true" />
+    <string name="OptIn__bypass_opt_in_whitelist_packages_for_pre_o">com.playgendary.kickthebuddy,com.youmusic.magictiles,com.supercell.clashroyale,com.naturalmotion.customstreetracer2,com.ludo.king,com.king.candycrushsaga,com.gameinsight.gobandroid,com.alien.shooter.galaxy.attack,com.byv.TheCatapult,com.outfit7.talkingtomjetski2,com.game.space.shooter2,com.dc.hwsj,net.peakgames.toonblast,com.playgendary.flipgun,com.udicorn.proxybrowser.unblockwebsites,com.yodo1.rodeo.safari,com.fluffyfairygames.idleminertycoon,com.chillingo.robberybob2.android.gplay,com.bestringtonesapps.freeringtonesforandroid,com.aqupepgames.projectpepe,com.foxnextgames.m3,com.scopely.whiplash,com.viki.android,com.crowdstar.covetHome,com.dts.freefireth,net.wargaming.wows.blitz,com.epicactiononline.ffxv.ane,com.king.bubblewitch3,com.octro.teenpatti,com.ziau.sharkworld,com.one1line.onetouch.onestroke.dotgame,com.mgs.sniper1,pine.game.skydancer,com.ncsoft.aion.legions.of.war,com.aldagames.thewalkdead,com.ftt.boxingstar.gl.aos,co.superheart.oceanreeflife,com.rovio.dream,com.scopely.headshot,com.d3p.mpq,com.google.android.instantapps.samples.referrer,com.google.minesweeper,com.dirtybit.fra</string>
+    <boolean name="Supervisor__disable_storage_transfer" value="false" />
+    <string name="Supervisor__task_list"></string>
+    <boolean name="PhoneskyInstaller__should_satisfy_dna_when_not_enough_data_collected" value="true" />
+    <boolean name="Logging__use_pseudonymous" value="false" />
+    <long name="InstantApps__apk_dna_prefetch_bandaid_url_expiry_in_days" value="28" />
+    <boolean name="Supervisor__disable_url_resolution" value="true" />
+    <string name="Supervisor__whitelisted_gms_dirs">chimera,vision</string>
+    <boolean name="PhoneskyInstaller__sync_device_enabled_to_gcore" value="true" />
+    <long name="PhoneskyInstaller__bytes_read_collected_threshold" value="131072" />
+    <boolean name="Supervisor__wrap_read_over_buffer_limit" value="true" />
+    <boolean name="Supervisor__enable_tombstone_logging" value="true" />
+    <boolean name="PhoneskyInstaller__log_free_space_on_device" value="true" />
+    <boolean name="Games__game_loading_ui_with_speed_bump" value="true" />
+    <boolean name="OptIn__sync_settings_opt_in_state_with_server" value="false" />
+    <boolean name="LoadingUi__allow_empty_title" value="false" />
+    <boolean name="PhoneskyInstaller__enable_opt_in_check_for_apk_dna" value="false" />
+    <boolean name="PhoneskyInstaller__cleanup_other_archive_versions" value="true" />
+    <boolean name="PhoneskyInstaller__use_optin_info_for_phonesky_launches" value="true" />
+    <boolean name="PhoneskyInstaller__package_installer_use_commit_broadcast" value="true" />
+    <boolean name="PhoneskyInstaller__grant_foreground_service_permission" value="true" />
+    <boolean name="Supervisor__use_routes_from_apk" value="false" />
+    <boolean name="Supervisor__enable_app_info_notification_setting" value="true" />
+    <boolean name="Supervisor__log_user_input_events" value="false" />
+    <boolean name="Supervisor__enable_breakpad" value="true" />
+    <string name="Games__game_loading_ui_enabled_packages">Draziw.Button.Mines,agency.lhotse.jak,air.com.br.hastatus.trucomineirolite,air.com.pixelfederation.seaport.explore.collect.trade,air.com.playcus.bingocountryways,air.com.sgn.cookiejam.gp,air.com.sgn.cookiejamblast.gp,air.com.sgn.familyguy.gp,air.com.sticksports.robotcricket.dev,air.com.sticksports.sticktennis,and.onemt.boe.tr,app.howsmydriving.truesudoku,ata.kraken.heckfire,athena.studio.woody.battle.block.puzzle.multiplayer,biz.mtoy.blockpuzzle.revolution,blutbad.crosswords_mania,br.com.delotech.trucoindie,br.com.tag321,br.com.tapps.logicpic,br.com.tapps.toiletman,bubbles.pop.power,c7.c7,cat.sebasbad.facesmemorytest,cn.nenly.game,co.roadstars.play,co.superheart.oceanreeflife,co.tamatem.rageoftherighteous,co.tamatem.vipbaloot,com.AlexisLessard.Inversion,com.Anagiram,com.BlueEagleGame.TopOnePiece,com.BreadStudio.RocketHelix,com.BricksBreaker.BricksBreakerCrushShootBalls,com.Company.inteant_test_0928,com.DefaultCompany.InstantAppsTest,com.DigitalEmpathyGames.UseFULLorLESS.beta,com.DroidDigital.AngryHungryShark,com.EnjoyPlay.SweetyInstant,com.EvilAgel.BouncingBall,com.EvoTApps.GameOfEvolution,com.GameTellingStudio.RunnerTest2018,com.Georgia.ProductName,com.Huuuuge.Mahjong,com.LabenekoGames.Project_02,com.LibertyField.ForgiveMeFather,com.LibertyWall.LOGICA,com.LightSauceGames.NewGalaxy,com.MalyaWka.Word.Quiz.Stuck,com.MatthewNichols.Glydr,com.MegaDwarf.MadeToOrder,com.NiclzzKGames.OneMillionClicks,com.Noxygames.Lanota,com.OnecoinClear.LightUp7,com.OnecoinClear.RollingRoad,com.OnecoinClear.RollingRoad3D,com.Panavia.Heroes,com.PlayTillEnd.BlockPuzzle10102019,com.Seriously.BestFiends,com.TheKnightsOfUnity.LittleRacer,com.TouchTouch.SuddenRich_Kakao,com.Trollgames.Fish,com.VavylonGames.SnakeCrush,com.WingedCossacks.BallFall,com.YourCompany.Bombarder,com.Zenith.Cartoon,com.abe.app.new,com.abradoodle.bingo,com.absolutist.citydetective,com.absolutist.hiddennumbers,com.adamantite.coinrace,com.adgames.polyshape,com.adoregames.coastalhill,com.advancedweapontech.customgunsim,com.agatestudio.tts,com.aia.particles,com.aia.premium2.app,com.aia.samples.myattribution,com.akpublish.magicsiege,com.aldagames.thewalkdead,com.alien.shooter.galaxy.attack,com.almondstudio.findwordsoup,com.alper.dostkazigihd,com.alper.okey51,com.alper.pistihd,com.alphaquest.archerquest,com.anikiki.football,com.animocabrands.google.CrazyDefenseHeroes,com.ankuranant.coincoin,com.anoshenko.android.solitaires,com.antarsoft.clickclickclick,com.aplayt.wormhole,com.apostek.SlotMachine,com.app.sudokuplay,com.appchocolate.adventcalendar2014,com.appon.legendvszombies,com.apprope.wordgame,com.apptornado.blocks,com.apptornado.dotmatch,com.appxplore.mobfish,com.aqupepgames.projectpepe,com.artoon.tonkoffline,com.asgardsoft.blocks,com.asgardsoft.classics,com.asgardsoft.mahjong,com.asgardsoft.racetube,com.asgardsoft.words,com.asgardsoft.wordspic,com.astepanov.mobile.mindmathtricks,com.atomantic.blockrain,com.auer.dawnbreak,com.auer.dawnbreak.legend.light.dark,com.auer.diosa.force.rpg,com.aventuras.maze,com.babilgames.androidstrike,com.balancingmonkey,com.balasosoftware.guessmarbles,com.balysv.loop,com.banana4apps.evolution,com.bandagames.mpuzzle.gp,com.bbb.pkfu.kalonsfuntime,com.bedrill.quiz.flags.capitals,com.beesquare.almostahero,com.bestcoolfungames.antsmasher,com.bianfeng.hugefishapp,com.bigbluebubble.busterbash2full,com.bigbluebubble.chaosreborn,com.bigbluebubble.singingmonsters.full,com.bigfishgames.cookingcrazegooglef2p,com.bigfishgames.jackpotcityslotsf2pgoogle,com.bigfishgames.relicracegoog,com.bigfishgames.tidaltowngooglef2p,com.bigfishgames.toystorydropgoog,com.bij.snoopyDrops,com.binteraktive.kniffel.live,com.bitmango.go.wordsfarmcross,com.bitmojo.games.mineescape,com.black.gold.otter.capturethelion.app,com.blacklight.callbreak,com.blacklightsw.ludo,com.blackspoongames.smashworld,com.blacksquaregames.paddocks,com.bluebirdgames.war1944,com.bolognachepassione,com.boombitgames.Dartsy,com.brandedbrothers.memorymatch,com.bringmecakes,com.brokoli.pleasedontdownloadme,com.brokoli.tictacpoker,com.bruyere.android.solitaire,com.brycesummer.swipeskate2,com.buffman.inception,com.buzzpowder.oxquiz,com.buzzpowder.touchtouchrun,com.byril.alchemy,com.byril.seabattle,com.bytehr.wordsearch,com.bytekinematics.test,com.byv.TheArchers2,com.byv.TheCatapult,com.byv.TheCatapult2,com.byv.TheGunner,com.caines_studios.voxelverse.app,com.camex.tactical.monster,com.chillingo.catapultkingfree.android.row,com.chillingo.robberybob2.android.gplay,com.chillingo.robberybobfree.android.row,com.chriscartland.android.trivialdrivesample,com.cnvrsn.casino,com.coc.kr.cocyl.google,com.codesaaz.camAlphabetShooter,com.codethulu.test,com.colechittim.werepigs,com.com2us.actionpuzzletown.normal.freefull.google.global.android.common,com.com2us.com2usdance.normal.freefull.google.global.android.common,com.com2us.ecoedu.no3.freefull.google.global.android.common,com.concretesoftware.pbachallenge_androidmarket,com.concussionjs.helloar,com.concussionjs.sphere,com.cpjd.thinkinsidethebox,com.creativemobile.nno,com.criticalhitsoftware.jigsawpuzzle,com.crossy.test,com.crowdstar.covetHome,com.cstudio.czombie1a,com.cuddl.donutparty,com.d3p.mpq,com.darkness.glory.sehr,com.dc.hwsj,com.ddi,com.deercatgames.tunnelrush,com.delightgames.rangerschoice,com.demo.anil.appmodule,com.dena.west.FFRK,com.derwinstudio.golforbit,com.devolver.umiro,com.diandian.gog,com.differencegames.hiddenscenesjigsaw.springgardenadventure,com.differencegames.jigsaw.puzzle.picture.quest.wonderland,com.dimareagames.viewport,com.dimcoms.checkers,com.dirtybit.fra,com.divmob.ageofheroes.braveheroes.battleheroes.epicheroeswar.epicheroes.en,com.dle.afterpulse,com.doenough.tapgame,com.droidhen.defender3,com.droidigital.basketballmemorygame,com.drukhigh.ttmhigh,com.dts.freefireth,com.dungeonwinners.rpg,com.duoyi.thko.gp,com.dynergy.Memuck,com.ea.game.starwarscapital_row,com.ea.gp.candcwarzones,com.eastsidegames.trailerparkboys,com.easybrain.nonogram,com.efun.hlzg.se,com.ekkorr.msf,com.ember.wordz0,com.enjoyhappy.landlordlegend,com.enjoyhappy.landlordlite,com.enjoyhappy.welandlord,com.enteriosoft.extremebalancer3,com.epicactiononline.ffxv.ane,com.escogitare.cruciverba,com.evrygame.android,com.exceptionullgames.wordstitch,com.ezwinner.innertests,com.facebook.misstest,com.fanatee.cody,com.fattailproductions.sudokupuzzleroyale,com.fdgadfgsdfgsdfg.example.games.testing.bgeorge.tester,com.firecrackersw.wordimals,com.fivecraft.digga,com.flaregames.nonstop.action.rpg,com.fluffyfairygames.idlefactorytycoon,com.fluffyfairygames.idleminertycoon,com.fourpixels.aircontrol2,com.fourthmaysoft.mergewarrior,com.foxnextgames.m3,com.fpg.monsterbattle,com.frojo.cooking.android,com.frojo.moy.platformer.android,com.ftt.boxingstar.gl.aos,com.fumbgames.blacksmith,com.fumbgames.zomtastitc,com.fungames.sniper3d,com.funtronics.picoblast.swipeupapk,com.g5e.homicidesquadpg.android,com.g5e.mahjong.android,com.game.pop,com.game.space.shooter2,com.gamebeartech.nova,com.gamehivecorp.beattheboss4,com.gameinsight.gobandroid,com.gameinsight.gplay.mmanor,com.gameinsight.solitaire,com.gameinsight.tribez,com.gameinsight.tribez3gp,com.gamekend.puzzlemasterhexa,com.gameloft.android.ANMP.GloftDOHM,com.gameloft.sample_instant.app,com.games2win.drivingacademy,com.gameslab.flight_sim,com.gameslab.jelly_doods,com.gameslab.linebright,com.gameslab.monster_rush_tower_defence,com.gamestart.zen,com.gamesture.questland,com.gamewog.juicerubik,com.geewa.clientsdktest,com.geewa.smashingfour,com.geishatokyo.trafficrun,com.generalsoftware.fourimagesonewordandroid,com.ggj2018.rivne.rgb,com.glosculptor.glowpuzzle,com.glu.baseball18,com.godgame.mj.android,com.google.android.instantapps.samples.aiaprereg2,com.google.android.instantapps.samples.jakecohen.qcrashtest,com.google.android.instantapps.samples.nostalgicracer,com.google.android.instantapps.samples.referrerparamtest,com.google.android.instantapps.samples.samplegame,com.google.android.instantapps.samples.unity.assetdelivery,com.google.android.instantapps.samples.unity.assetdelivery.fivesix,com.google.android.instantapps.samples.unity.assetdelivery.twentyeighteen,com.google.android.instantapps.samples.unity.assetdelivery.twentyseventeen,com.google.android.instantapps.samples.unity.shengcong,com.google.android.instantapps.samples.unity.splitsample,com.google.android.instantapps.samples.unity.testapp,com.google.android.instantapps.samples.unity.testapp.configsplit,com.google.android.instantapps.samples.unitypatchgen,com.google.minesweeper,com.googlemarkettest.android.trivialdrivesample,com.gpp.beefactory,com.greentech.islamicquiz,com.halfbrick.boosterraiders,com.halftimestudio.catchidle,com.happylabs.puchi,com.havaabitworks.havaamathpuzzles,com.hcg.cok.gp,com.headupgames.bridgeconstructorportal,com.heyyogame.gamepay,com.heyyogame.gd,com.heyyogame.instant,com.hikergames.caravanwar,com.holidoli.JumpInTunnel,com.hotheadgames.google.free.bops,com.house.of.blackjack21.free.online.casino,com.hts.ams,com.hutchgames.cccg,com.huuuge.casino.slots,com.huuuge.casino.texas,com.huuuge.stars.slots,com.hyperbeard.drmeep,com.igs.fafafa,com.illuminate.falling,com.innogames.elvenar,com.innogames.foeandroid,com.instantapps.samples.darkslash,com.instantappsample.devpartner.samples.hamster,com.instantplay.test,com.integragames.jackyfarm,com.ironhead.sudoku,com.itiw.chor,com.itiw.pchor,com.jacobbrasil.orbit,com.jagex.oldscape.android,com.jakecohen.assetdelivery,com.jakecohen.unity.splitsample,com.jakpok.casesimulator,com.jambav.stackandcrack,com.jamcity.superchef,com.jh.sandstorm.app,com.jidiangame.sanguo,com.jimmyinteractive.solitaire,com.joconnor.android.com.joconnor.android.WordHelper2,com.jogatina.buraco,com.joxdev.orbia,com.joycity.gnss,com.joycity.gw,com.joypac.jpescape,com.jumbo.yirufa,com.jurajkusnier.holdthebutton,com.jurajkusnier.minesweeper,com.justanothertry.slovavk,com.kabam.marvelbattle,com.kathleenOswald.solitaireGooglePlay,com.khadga.instantapp,com.kickoosgames.OpenKids,com.kidga.block.puzzles,com.kila.zahlenspiel2.lars,com.king.bubblewitch3,com.king.candycrushsaga,com.kog.grandchaseglobal,com.kongregate.mobile.adventurecapitalist.google,com.kongregate.mobile.pocketpolitics.google,com.kongregate.mobile.throwdown.google,com.kooapps.wordxbeachandroid,com.ksrgland.goat,com.kumobius.android.duet,com.labs37.justclick,com.lamington.spooky,com.langtrainer,com.lapic.thomas.gamechoice,com.lapic.thomas.puzzle,com.lapic.thomas.wordsearch,com.leeplay.cutiepaws,com.leodesol.games.classic.maze.labyrinth,com.leodesol.games.puzzlecollection,com.levelone.crossudoku,com.libertyfield.fmfgame,com.limbic.revenant,com.litegames.aa,com.loadingpix.crownBattlesMP,com.love.poly.puzzle.game,com.lozangelab.swimout.googleplay,com.lsgvgames.slideandfly,com.luandungames.zombiehell2.android.googleplay,com.lucidsight.mlbcapp,com.lucydream.hellofman,com.ludo.king,com.lyrebirdstudio.crossstitch,com.maciejfras.essence,com.madovergames.FrozenPop,com.maf.moneyhero,com.magic.arena.kindom.story.momotaro.memory,com.magic.arena.kindom.story.snow.white.queen,com.magmamobile.game.Burger,com.mailbeegames.casual.fill,com.mapianist.tapianist,com.marijnzwemmer.woogainstantplayablead,com.marketjs.rabbitzombiedefense,com.marzoa.ruletafree,com.matchasaucellc.word.hound.android,com.mavenhut.solitaire.bistro,com.mavenhut.solitaire.tower,com.mavenhut.tictactoe,com.maxonsoft.instant.firsthero,com.mayonez.blockpuzzleenjoy,com.mayonezgames.testapplication,com.megu.kos,com.melestudio.onetpets,com.metalrain.whitecollar,com.mgif.heroeslegend.idlebattle.action.rpg,com.mgs.sniper1,com.miniclip.carrom,com.ministone.game.risingsuperchef2,com.mix.piano.smart,com.mobirix.mdk,com.mochibits.wordtoword.google,com.modelsw.SixPuzzles,com.monstro.pixelart,com.moopygames.moopypong,com.mostplayed.flippybottle,com.mostplayed.footgoal,com.mostplayed.skyphone,com.mrdgame.mrd,com.mrxw.android.ltgames,com.multiplayertonk,com.murka.infinityslots,com.murka.slotsera,com.my.hc.rpg.kingdom.simulator,com.my.juggernautwars,com.myjika.pzl2048sec,com.mytaxiride.instantapp,com.mytona.rh,com.mytona.seekersnotes.android,com.n3twork.legendary,com.naturalmotion.customstreetracer2,com.ncsoft.aion.legions.of.war,com.ncw.sizetest,com.ncwsamplesoftware.unity,com.nenoff.followthelinefree,com.netmarble.mherosgb,com.nevosoft.treasureslots,com.newrelic.android.instantapp,com.newsparkgame.cityofdreams,com.nexon.magia,com.nexonm.oz,com.nhnent.SKPOKOPOKO,com.nikeagames.GodsQuest2048,com.nikeagames.GodsQuest2048free,com.ninjakiwi.bftg,com.niwa913.app2sharedbyyammer3,com.niwa913.appbundle1sharedbyyammer,com.nrsmagic.match3Game,com.nrsmagic.shooter,com.ntg.solitaire.tripeaks,com.nutaku.eoa.enus,com.nvneiwaisa.www.instanttest,com.nway.powerrangerslegacywars,com.nytimes.crossword,com.o.magicdragon,com.ocigrup.dotforadults,com.octro.teenpatti,com.ohbibi.sup,com.one1line.onetouch.onestroke.dotgame,com.onecwireless.spades.free,com.onet.pet.connect,com.openmygame.games.android.crossword.plants,com.openmygame.games.android.wordpizza,com.orange.asidaninja,com.oriplaygames.cutiepaws,com.oriplaygames.linemania,com.os.wars.squadron,com.outfit7.mytalkingtom2,com.outfit7.talkingtomjetski2,com.outfit7.talkingtompool,com.owngames.owncoffeeshop,com.pacificinteractive.HouseOfFun,com.palmcrust.dodo,com.palmcrust.fhp,com.palmcrust.kingsolo,com.palmcrust.marblepop,com.panagola.game.oddcolorout,com.panagola.game.placeit,com.panzerdog.tacticool,com.papadedo.puzzlesfortoddlers,com.paywithkey.battleships,com.pazzlefor10.pazzlefor10,com.peerke.amuza,com.pg.rrteenpatti,com.picadilla.nrcmdev5,com.pixio.google.ttb,com.pixonic.demo,com.plarium.blast,com.plarium.zoo,com.platinumplayer.word.addict,com.playgendary.flipgun,com.playgendary.kickthebuddy,com.playkot.ageofmagic,com.playmous.ttf,com.pmware.lovelyeyes,com.pnixgames.minigolfking,com.pocapp.castlecats,com.pocketland.heroblast,com.ponyom.atomjump,com.potatojam.classic.solitaire.klondike,com.potatojam.onet_paradise.match_two_tiles,com.prineside.tdi2,com.puipui.scooterhero,com.puipui.seahero,com.puipui.volcano,com.puipui.volcanohero,com.puipui.volcanonow,com.purplekiwii.vegaslive,com.puzzleonly.rollersplatcolor,com.raptisoft.RWK,com.raviol.bubbly,com.reactiongames.onebyone,com.reboundcg.tennismanager,com.renderedideas.adventurestory2,com.renderedideas.jungleadventures,com.renderedideas.jungleadventures2,com.revolverolver.fliptrickster,com.ripostegames.shopr,com.roaddraw.hillclimbrider,com.roadriotstars.play,com.rottzgames.logic,com.rottzgames.realjigsaw,com.rovio.abmatch3,com.rovio.battlebay,com.rovio.dream,com.rutilicus.flyingbanana.app,com.rutledge.happinessproject,com.rvappstudios.bubble.pop.bubble.shooter.puzzle.game.match3,com.rvappstudios.chainexplosion,com.rvappstudios.jigsaw.puzzles,com.rvappstudios.word.search.puzzle.game,com.salvai.snake,com.sayhi.puzzle,com.scopely.headshot,com.scopely.wheeloffortune,com.scopely.whiplash,com.scopely.yux,com.scrabble.letters.text.game.scrambled,com.se.zsj,com.secondarm.taptapdash,com.seek.seekview,com.seepiagames.ascend,com.sega.puzzlerpg,com.segasvd.WeaponFieldStrip,com.selfawaregames.acecasino,com.senspark.android.tank1990,com.setik.barcode,com.sgn.geniesandgems.gp,com.sgn.pandapop.gp,com.shearshukuru.DangerObjects,com.shmup.heyjump,com.shootrobber.app,com.silvercrk.backgammon_thd_free,com.silvercrk.euchre_free,com.silvercrk.hearts_free,com.silvercrk.solitaire_iv_free,com.silvercrk.spades_free,com.sixwaves.lovestory,com.sixwaves.lovestoryjp,com.sixwaves.lovestorykr,com.skateboard.skatejam,com.skywsh.helloiap,com.slipcorp.microtrip,com.slotslot.slot,com.smallgiantgames.empires,com.snowbeard.kawibawibo,com.solitaireklondikecups.klondike.solitaire,com.solitaireperfectapps,com.songanh.ballbreaker,com.sonypicturestelevision.jeopardy2,com.soodexlabs.sudoku3,com.space.shooter.alien.galaxyattack,com.spacegame.basic3,com.spookyhousestudios.railmaze,com.stage0.jumpball,com.stgl.global,com.stonehengeGames.royalJourney,com.stopper.hittheroad,com.stopper.nine,com.strawberryrice.shadowlove,com.sugastudio.homedecor,com.sundaytoz.agsp.diffgame,com.sundaytoz.agspeu.diffgame,com.sundaytoz.astove.wbb.dev,com.sundaytoz.kakao.shanghai.dev,com.sundaytoz.kakao.wbb.dev,com.superbox.aos.galaxyshooter,com.superbox.aos.jewelsgarden,com.supercell.clashroyale,com.superplanet.greenskin,com.sylhetgarments.urlless.app,com.synative.zepra,com.tamalaki.hogmysterysociety,com.tapmonkey.dinowater,com.tappocket.dinozoostar,com.tappocket.dragoncastle,com.tapslots.sevenkings,com.tbegames.and.top_speed_racing,com.terobi.jzg,com.test.Product12312,com.test.myapplication0,com.testapp.emptytestapp,com.testapp.testapp2,com.testlaba.hog,com.theotino.bingo.luckybingo.wonderland,com.thinkreed.gameplane,com.thirdeyesinfotech.jewelscrush,com.thisgamestudio.chaosbattleleague,com.threye.iafaca,com.tkou.rabbidrabbits,com.tkou.rabbits,com.tkou_test.buildsize3d,com.tmat.games.sigma345demo.app,com.topebox.realmwars,com.tpcstld.twozerogame,com.trader.alpha,com.tripledot.solitaire,com.tsungames.flipperball,com.turbochilli.unrollme2,com.twomile.chopcat,com.ubisoft.dev.shark,com.ubisoft.mightyquest,com.ubizard.tidy,com.uken.BingoPop,com.unityplugin.testing,com.unlock.sdk,com.upjers.zoo2animalpark,com.uwan.lf2,com.vanniktech.chessclock,com.varunajayasiri.solitaire,com.vergencelab.dotfire,com.vgames.gungunonline,com.vgames.mergemoney,com.viento.brickpuzzle,com.viginfotech.spark,com.viker.youtubeboxing,com.vizorapps.mahjong,com.vladionut,com.voidrs.ziriguidum,com.webgears.nn.instantapp3d.app,com.webzen.firsthero,com.weegoon.chigirie,com.weplaydots.twodotsandroid,com.westvindh.WestvindhsCat,com.whisperarts.games.patroloc,com.wiplaygames.dontmakeitfall,com.wisee.classicslots,com.withusgames.clash.aos,com.wolfria.ftt1_free,com.word.disco.android,com.wordconnect.wordcookies.scg,com.wordsmobile.soccerkicks,com.works.timeglass.logoquiz,com.works.timeglass.sudoku,com.wzm.aabb,com.x3diq.instant,com.yahub.attackonthedemonictemple,com.yahub.downfromtherock,com.yahub.lifebloomcastle,com.yahub.rps2019,com.yesco.rabbit,com.yodo1.rodeo.safari,com.yoob.games,com.youmusic.magictiles,com.zabaron.bholes,com.zabaron.hexamerge,com.zabaron.iceandfire,com.zabaron.zombiedunk,com.zagmoid.carrom3d,com.zeptolab.cats.google,com.zeroflag.world.cup.soccer.goal,com.zerofour.turboleague,com.ziau.dinoschool,com.ziau.elfcity,com.ziau.seamonstercity,com.ziau.sharkworld,com.zindagigames.test,com.zitga.empire.warriors.td.tower.defense,com.zodibingo,com.zynga.empires2,com.zynga.livepoker,com.zynga.wonkamatch,com.zynga.words3,con.mrPenguin.testIAP2,de.chagemann.regexcrossword,de.devisnik.android.mine,de.jan.pendulum,de.lotum.whatsinthefoto.us,de.millionaer.quiz.spiel,dev.pushkar.goconso,fr.apprize.actionouverite,fr.apprize.actionouverite.enfants,free.fun.card.game.solitaire.klondike.freecell.uno,free.games.flight,games.paveldogreat.fluidsim,games.spearmint.sevendots,games.zoa.inc.trickybrain,gl.fx.arena,gl.fx.galaxycontrol,in.artiv.instant2048,in.crossy.daily_crossword,in.org.singh.tictactoe.app,ind.leoyintw.prototype.instantarcore,io.adios.knowmore,io.crossinstall.instantapp.generator,io.crossinstall.instantapp.generator.hd,io.cyanlab.sudoku,io.github.jfrazier.instantapps.urlless,io.github.jfrazier.instantapps.urlless.v42,io.voodoo.windrider,io.yarsa.games.cardgame,ir.sanatisharif.android,it.megasoft78.wordsjungle,it.redbitgames.RedBitFW,it.redbitgames.jellyjuice,it.tinygames.sdktestgame,jp.co.capcom.snlifejp,jp.co.liberent.stella,jp.co.translimit.braindots,jp.co.translimit.dev_hover,jp.co.translimit.hover,jp.co.translimit.test,jp.klab.captain283,jp.konami.gid00002764.functiontest,kids.math.mathforkids,kisgames.crazynite.io,kr.co.allm.capsulemonfight,kr.com.efun.kok.google,kz.snailwhale.skeleton,kz.snailwhale.soccer,kz.snailwhale.taptounbox,laco.projet1,live.spitch.companion,m.purple.aim,me.exec.game.colorlines.LinesOfFive,me.fstoke.MonsterShop,me.hexcolyte.believer,me.kalicinski.sudoku,me.tango.roadriot,me.vponomarenko.letmethink,me.vz1.apponly2,me.vz1.playable,merged.jewels.jewelgames,monadic_software.browser,monadic_software.myapplication,navanvi.findthesame.game,net.bohush.connect.me.logic.puzzle,net.bugzy.xo,net.carparkingames.highspeedparkingsimulator,net.guesstheword.woodenblockpuzzle,net.lionbird.google.countryCreatorUS,net.manelizzard.rumblebox,net.mantisshrimp.warlords,net.miksoft.idealcircle,net.mobilecraft.football,net.peakgames.toonblast,net.skillcap.spades,net.sunbug.NINJADO,net.wargaming.wows.blitz,net.wooga.junes_journey_hidden_object_mystery_game,nl.candosoft.lifebalance,nl.hbgames.polyisland,nl.utwente.a2048_app,ntmod.pikachu.co.dien,numbers.puzzlegame.puzzledom.solitaire.color.logic.relax.free,onet.picachu,org.dachux.Fangcheng,org.evelinks.SquareCrasher,org.gamesuion.ColorKnife,org.human.instant.apps,org.ovh.SpaceSTG3,org.rocco.needlesaga,org.softmotion.fpack.lite,org.terukusu.hogehunter,org.visiplug.games.batakarmageddon,paskov.biz.brickgame,pine.game.skydancer,pl.idreams.Dino,pl.muse.blocks.castle,pl.neatware.memotiles,pro.cloudteam.nashiri,proddymcprod.com.gamesizedapp,rooms.handmadegame.net,ru.azurinteractive.robotwarfare,ru.crazybit.experiment,ru.kefirgames.testplayground,ru.thousandcardgame.android,screen.scorli.com.scorliscreen,se.foglo.svt,se.maginteractive.worddomination,simple.gplay.GamesInABox,sps.playable.test,studios.gogoni.gap.in.the.wall,tech.JephDiel.Inflection,tech.brry.berryellaf,tk.valyfox.telepathicwizard,topebox.game.skydancer.premium,uk.co.drdv.exp1,vladyslavpohrebniakov.justtictactoe,webgears.com.dead.trails,word.search.puzzle.game,xyz.TiltShift.OBBDownloader,zombie.survival.craft.z</string>
+    <string name="Metadata__remote_metadata_provider_url">https://play.google.com/api/v1/metadata/type/apps/package/%s</string>
+    <boolean name="Supervisor__show_inactionable_failure_dialog_preo_for_1p" value="false" />
+    <boolean name="Metadata__enable_metadata_provider_dark_launch_experiment" value="false" />
+    <string name="InstantApps__blacklisted_dna_archives">com.google.android.dna.archive.unity564p2:1</string>
+    <long name="SupervisorDownloader__max_buffer_size_bytes_for_dna_components" value="20971520" />
+    <string name="Supervisor__resources_manager_replacement_whitelist_for_N">com.supercell.clashroyale,com.king.bubblewitch3,com.king.candycrushsaga,com.foxnews.android,com.starbucks.mobilecard</string>
+    <float name="InstantApps__bsdiff_logging_operation_sample_rate" value="0.0" />
+    <boolean name="OptIn__bypass_opt_in_for_badged_callers" value="true" />
+    <long name="PhoneskyDnaAssembly__max_buffer_size_bytes_for_apks" value="0" />
+    <boolean name="Supervisor__enable_dumping_gl_commands" value="true" />
+    <boolean name="Logging__enable_system_dialog_close_receiver_on_preo" value="false" />
+    <boolean name="PhoneskyInstaller__enable_archive_download_call_flag" value="true" />
+    <boolean name="PhoneskyInstaller__enable_apk_dna_archive_prefetch_in_phonesky_daily_hygiene" value="true" />
+    <long name="Supervisor__minimum_webview_version_code" value="0" />
+    <boolean name="SupervisorDownloader__assemble_components_separately" value="false" />
+    <string name="PhoneskyHint__device_hint_config">CIDwLhCA8C4aOwolY29tLnRlc3QuYXBwLmluc3RhbnRhcHBzbGF1bmNoc2VydmljZRCAuJkpGAAggKAGKgUIBRCQTjAAGjMKHWNvbS5nb29nbGUuYW5kcm9pZC5wbGF5LmdhbWVzEIC4mSkYACCAoAYqBQgFEJBOMAE</string>
+    <boolean name="PhoneskyInstaller__enable_dynamic_optimization_policy" value="true" />
+    <string name="SupervisorNetwork__enabled_apk_dna_packages"></string>
+    <boolean name="Supervisor__enable_apk_dna_data_sync" value="true" />
+    <boolean name="PhoneskyLogging__log_sessions_events" value="true" />
+    <long name="Supervisor__use_alternative_apks_for_pre_o" value="0" />
+    <boolean name="PhoneskyHygieneApp__enable_phonesky_hygiene_app_task" value="true" />
+    <boolean name="Supervisor__enable_input_dispatching_anr_handler" value="true" />
+    <boolean name="Supervisor__enable_log_data_survival" value="false" />
+    <boolean name="PhoneskyDnaAssembly__assemble_components_separately" value="false" />
+    <boolean name="PhoneskyInstaller__phonesky_allow_unknown_installer_to_continue" value="true" />
+    <boolean name="Supervisor__enable_linker_patching" value="true" />
+    <long name="Supervisor__user_type" value="1" />
+    <boolean name="Supervisor__synchronize_resources_manager_pre_N" value="false" />
+    <long name="SupervisorDownloader__max_buffer_size_bytes_for_dna_patch_ranges" value="524288" />
+    <long name="__phenotype_configuration_version" value="1620050100" />
+    <boolean name="PhoneskyInstaller__reinstall_on_flavor_mismatch" value="false" />
+    <string name="__phenotype_server_token">CAESqQEA8otIfJvdkOb8HSj3sNtwNaP0YoHeQNoQTe5orJDa3bS1CIGqS3_MtljIF5hJBzFX6PFIRvt8AK-ROZNac4Eg_afNNxxTyCPHDhifPtDOTklwSycAsra32PgjL0QtYCPzzuKWpj3f7dDOWMV_nhssMiGipu0L_6UPJ77HzyBz97F9-UAqF2_6rrebwalM_1CDW2iMate9Xf64ihoTx1q4REm1AXs10u1t</string>
+    <boolean name="PhoneskyHint__enable_app_preload_hygiene" value="false" />
+    <string name="Supervisor__instantAppsDisabledNetworks"></string>
+    <string name="PhoneskyDnaAssembly__background_buffered_download_urls">2097152:.+/atom/patch/.+,2097152:.+:config\.armeabi.+,4194304:.+/atom/.+:/.+,1048576:.+</string>
+    <boolean name="SupervisorNetwork__enable_cronet_server_configs_cache" value="false" />
+    <boolean name="Supervisor__parse_manifest_in_supervisor" value="true" />
+    <long name="PhoneskyInstaller__rewritten_apk_selection_type" value="3" />
+    <string name="SpeedBump__trusted_packages">air.com.sgn.cookiejamblast.gp,app.WTInfoTech.WorldAroundMeLite,app.ym.sondakika,au.com.realestate.app,br.com.clubeextra,br.com.elo7.appbuyer,br.com.evino.android,br.com.tapps.logicpic,ca.cbc.mobile.android.cbcnewsandroidwebview,com.aia.particles,com.airbnb.android,com.alibaba.aliexpresshd,com.alien.shooter.galaxy.attack,com.anikiki.football,com.apptornado.blocks,com.apptornado.dotmatch,com.aqupepgames.projectpepe,com.bandsintown,com.bhphoto,com.binteraktive.kniffel.live,com.bsbportal.music,com.buzzfeed.android,com.byril.alchemy,com.camex.tactical.monster,com.catchplay.asiaplay,com.chbreeze.jikbang4a,com.chefsfeed.ChefsFeed,com.citymapper.app.release,com.com2us.com2usdance.normal.freefull.google.global.android.common,com.confirmtkt.lite,com.contextlogic.geek,com.contextlogic.wish,com.dashlane,com.deliveroo.orderapp,com.devolver.umiro,com.dogusdigital.puhutv,com.doodle.android,com.dotloop.mobile,com.droidhen.defender3,com.dts.freefireth,com.eisterhues_media_2,com.epicactiononline.ffxv.ane,com.facebook.lite,com.fairfax.domain,com.foxnews.android,com.funtronics.picoblast.swipeupapk,com.game.pop,com.game.space.shooter2,com.gameinsight.gobandroid,com.gameloft.android.ANMP.GloftDOHM,com.gamestart.zen,com.getyourguide.android,com.glassdoor.app,com.globant.starmeup,com.gm.despegar,com.godgame.mj.android,com.goeuro.rosie,com.goibibo,com.google.android.apps.travel.onthego,com.google.minesweeper,com.google.samples.apps.adssched,com.google.samples.apps.iosched,com.haystack.android,com.headupgames.bridgeconstructorportal,com.hitlistapp.android,com.holidu.holidu,com.hollar.android,com.hotellook,com.hotheadgames.google.free.bops,com.hotpads.mobile,com.huuuge.casino.texas,com.hyperbeard.drmeep,com.ideashower.readitlater.pro,com.immersivearts.ar.instant,com.intuit.mobile.taxcaster,com.ixigo,com.jabong.android,com.jb.zcamera,com.jet.jet.app,com.jurajkusnier.minesweeper,com.kathleenOswald.solitaireGooglePlay,com.king.bubblewitch3,com.king.candycrushsaga,com.klook,com.lafourchette.lafourchette,com.lemonchiligames.kidos,com.limbic.revenant,com.lozangelab.swimout.googleplay,com.ludo.king,com.magmamobile.game.Burger,com.mipim,com.move.realtor,com.musixmatch.android.lyrify,com.naturalmotion.customstreetracer2,com.netbiscuits.kicker,com.NoonDate,com.nousguide.android.rbtv,com.nytimes.crossword,com.octro.teenpatti,com.os.wars.squadron,com.overstock.qa,com.owngames.owncoffeeshop,com.pacificinteractive.HouseOfFun,com.pedidosya,com.playgendary.kickthebuddy,com.podcast.podcasts,com.qihoo.mm.weather,com.qiyi.video,com.remind101,com.roaddraw.hillclimbrider,com.rovio.dream,com.scopely.headshot,com.sgn.pandapop.gp,com.silvercrk.backgammon_thd_free,com.sonypicturestelevision.jeopardy2,com.stackexchange.marvin,com.stopper.hittheroad,com.stopper.nine,com.supercell.clashroyale,com.thebigg.testrex,com.thumbtack.consumer,com.ticketmaster.mobile.android.na,com.tripit,com.ultimateguitar.tabs,com.ultimateguitar.tabprofree,com.uwan.lf2,com.unearby.sayhi,com.viki.android,com.vimeo.android.videoapp,com.vuclip.viu,com.wabi.customer,com.weather.Weather,com.wego.android,com.wolfria.ftt1_free,com.yahoo.mobile.client.android.weather,com.yodo1.rodeo.safari,com.youmusic.magictiles,com.yummly.android,com.zillow.android.zillowmap,com.zynga.words3,de.cellular.stern,de.motain.iliga,de.zalando.lounge,fm.castbox.audiobook.radio.podcast,free.vpn.unblock.proxy.vpnmonster,io.branch.branchster,io.meduza.android,jp.co.homes.android3,kz.snailwhale.soccer,mobi.infolife.ezweather,naukriApp.appModules.login,net.peakgames.toonblast,net.skyscanner.android.main,net.taringa.brainiac,nl.nos.app,org.sharethemeal.app,pl.muse.blocks.castle,ru.labirint.android,ru.sports,shop76.android.app,tr.com.yenimedya.haberler,tv.dailyme.android,tv.periscope.android,ua.krou.remembery</string>
+    <string name="__phenotype_snapshot_token">horatio0.42k@gmail.com com.google.android.finsky.instantapps 82502910 11 897691718 com.google.android.finsky.instantapps 897691718 0</string>
+    <boolean name="Supervisor__archive_download_requires_charging_flag" value="false" />
+    <boolean name="PhoneskyDnaAssembly__download_patch_separately" value="false" />
+    <boolean name="Supervisor__fetch_pre_launch_info_by_synthetic_url" value="false" />
+    <boolean name="PhoneskyInstaller__enable_apk_dna_data_sync" value="true" />
+    <boolean name="Logging__schedule_flush_from_background" value="true" />
+    <boolean name="Supervisor__additional_frames_in_tombstone" value="false" />
+    <string name="Supervisor__wifi_manager_whitelist">com.hotpads.mobile,com.zillow.android.zillowmap,com.project.vivareal,com.primedia.apartmentguide,com.yahoo.mobile.client.android.weather,</string>
+    <boolean name="SupervisorDownloader__download_patch_separately" value="false" />
+    <long name="LoadingUi__breakout_minigame_initial_response_timeout_ms" value="3000" />
+    <string name="InstantApps__whitelisted_dna_archives">com.google.android.instantapps.dna.archive:39</string>
+    <boolean name="Supervisor__enable_instant_apps" value="true" />
+    <boolean name="Supervisor__enable_hook_offset_caching" value="false" />
+    <boolean name="Metadata__remote_metadata_provider_use_dark_launch_header" value="false" />
+    <boolean name="SupervisorDownloader__parallel_app_info_fetch" value="false" />
+    <long name="PhoneskyInstaller__network_bandwidth_threshold_kbps" value="1000" />
+    <boolean name="Dogfood__is_dogfooder" value="false" />
+    <boolean name="PhoneskyInstaller__launch_apps_without_urls_o_plus" value="true" />
+    <long name="PhoneskyInstaller__mandatory_status_sync_interval_mins" value="604800" />
+    <boolean name="InstantApps__enable_apk_dna_archive_push" value="false" />
+    <boolean name="Supervisor__cleanup_other_archive_versions" value="true" />
+    <float name="LoadingUi__breakout_minigame_quick_download_threshold_fraction" value="0.1" />
+    <string name="Supervisor__disabled_instant_apps"></string>
+    <boolean name="Supervisor__enable_work_manager" value="true" />
+    <boolean name="OptIn__sync_supervisor_opt_in_with_phonesky_account" value="true" />
+    <string name="Supervisor__enable_art_partching_packages">com.glassdoor.app,com.nousguide.android.rbtv,com.weather.Weather,</string>
+</map>

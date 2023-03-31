@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="timestampOfRequest" value="-1" />
+    <boolean name="sendInstallEvent" value="false" />
+    <long name="timestampForNextPostAttempt" value="1620169638904" />
+    <long name="timestampOfInstall" value="1620091278015" />
+    <string name="installSource">organic</string>
+    <int name="backoffFailedAttempts" value="0" />
+    <int name="serverDate" value="5237" />
+    <long name="delay" value="3600000" />
+    <long name="timestampForNewRequest" value="1620184038904" />
+    <string name="persistedRequestID">invalid</string>
+</map>

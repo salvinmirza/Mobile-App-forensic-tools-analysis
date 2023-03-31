@@ -1,0 +1,14 @@
+2021/05/03-18:21:10.334 4077 Creating DB /data/user/0/com.android.chrome/app_chrome/Default/Session Storage since it was missing.
+2021/05/03-18:21:10.343 4077 Reusing MANIFEST /data/user/0/com.android.chrome/app_chrome/Default/Session Storage/MANIFEST-000001
+2021/05/03-18:26:39.368 4075 Level-0 table #5: started
+2021/05/03-18:26:39.445 4075 Level-0 table #5: 1893316 bytes OK
+2021/05/03-18:26:39.449 4075 Delete type=0 #3
+2021/05/03-18:27:09.816 407b Level-0 table #7: started
+2021/05/03-18:27:09.834 407b Level-0 table #7: 146601 bytes OK
+2021/05/03-18:27:09.839 407b Delete type=0 #4
+2021/05/03-18:35:19.420 407b Level-0 table #9: started
+2021/05/03-18:35:19.495 407b Level-0 table #9: 1643305 bytes OK
+2021/05/03-18:35:19.500 407b Delete type=0 #6
+2021/05/04-15:15:29.516 4075 Level-0 table #11: started
+2021/05/04-15:15:29.549 4075 Level-0 table #11: 14112 bytes OK
+2021/05/04-15:15:29.555 4075 Delete type=0 #8
